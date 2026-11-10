@@ -8,13 +8,13 @@ A step-by-step data cleaning and preparation pipeline in R for a synthetic Hyder
 
 | Item | Purpose |
 | --- | --- |
-| `hyd_food_delivery_preprocessing.R` | The full pipeline, in sections A to I |
+| The `.R` script in this folder | The full pipeline, in sections A to I |
 | `hyd_food_delivery.csv` | The raw synthetic dataset |
 | `clean_data.csv` | After type fixes, duplicate removal and missing-value treatment |
 | `clean_data_post_outlier.csv` | After outlier capping |
 | `cleaned_data_post_normalization.csv` | After min-max scaling |
 | `clean_data_post_z-score.csv` | After z-score standardisation |
-| `outputs/` | Graphs and console output from a run |
+| `outputs/` | Graphs and the console output (`console_output.txt`) from a run |
 
 ## The data
 
@@ -58,6 +58,13 @@ Check that imputation did not distort the data:
 | `tip_amount` | 13.604 | 13.423 | 17.237 | 16.818 |
 | `rating` | 3.787 | 3.789 | 0.631 | 0.615 |
 
+<<<<<<< HEAD
+=======
+![Missing percentage by attribute](outputs/missing_value_percentage.png)
+
+![Rating distribution before imputation](outputs/Rating_before_imputation.png)
+![Rating distribution after imputation](outputs/Rating_after_imputation.png)
+>>>>>>> 68494ce (Update README image paths)
 
 ### 3. Outliers
 
@@ -82,10 +89,10 @@ Check that imputation did not distort the data:
 | `delivery_time_min` | 79 | 55 | 10.34 | 9.73 | 41 |
 | `tip_amount` | 140 | 50 | 16.82 | 14.95 | 47 |
 
-![Order value before capping](outputs/boxplot_order_value_before_capping.png)
-![Order value after capping](outputs/boxplot_order_value_after_capping.png)
-![Distance before capping](outputs/boxplot_distance_before_capping.png)
-![Distance after capping](outputs/boxplot_distance_after_capping.png)
+![Order value before capping](outputs/outliers_before_capping_order_value.png)
+![Order value after capping](outputs/outliers_after_capping_order_value.png)
+![Distance before capping](outputs/outliers_before_capping_distance.png)
+![Distance after capping](outputs/outliers_after_capping_distance.png)
 
 ### 4. Scaling
 
@@ -95,9 +102,9 @@ Applied to `order_value`, `distance_km`, `delivery_time_min`, `items_count`, `ti
 - Z-score standardisation to mean 0 and standard deviation 1.
 - Both were verified for every column. The histograms below show the shape is unchanged; only the scale differs.
 
-![Order value, capped](outputs/order_value_hist_capped.png)
-![Order value, min-max scaled](outputs/order_value_hist_minmax.png)
-![Order value, z-score scaled](outputs/order_value_hist_zscore.png)
+![Order value distribution after capping](outputs/distribution_for_order_value_post_preprocessing.png)
+![Order value, min-max scaled](outputs/order_value_after_min_max_normalization.png)
+![Order value, z-score scaled](outputs/order_value_after_z-score_normalization.png)
 
 ### 5. Final checks
 
