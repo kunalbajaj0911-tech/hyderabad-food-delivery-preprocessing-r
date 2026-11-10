@@ -1,0 +1,155 @@
+[1] 1545   14
+
+'data.frame': 1545 obs. of 14 variables:
+ $ order_id         : chr  "QB10001" "QB10002" "QB10003" "QB10004" ...
+ $ order_date       : chr  "2026-01-01" "2026-01-01" "2026-01-01" "2026-01-02" ...
+ $ order_hour       : int  13 20 18 21 21 12 21 13 20 12 ...
+ $ area             : chr  "Madhapur" "Kukatpally" "Gachibowli" "Gachibowli" ...
+ $ cuisine          : chr  "Fast Food" "South Indian" "Biryani" "Fast Food" ...
+ $ items_count      : int  2 3 3 4 3 3 2 1 3 3 ...
+ $ order_value      : num  283 442 1183 431 609 ...
+ $ distance_km      : num  1 6.1 4.8 3.8 4.8 2.6 2.3 4.1 3.3 3.8 ...
+ $ delivery_time_min: int  35 40 28 33 45 20 27 40 34 26 ...
+ $ weather          : chr  "Rainy" "Clear" "Clear" "Clear" ...
+ $ payment_mode     : chr  "UPI" "COD" "UPI" "UPI" ...
+ $ coupon_code      : chr  NA NA NA NA ...
+ $ tip_amount       : num  5 0 75 0 0 0 0 15 45 0 ...
+ $ rating           : num  2.8 3 4.1 3.3 3.5 NA NA 3.4 4.4 4.6 ...
+
+      order_id        order_date     order_hour           area           cuisine      items_count
+ Length   :1545   Length   :1545   Min.   :10.00   Length   :1545   Length   :1545   Min.   :1.000
+ N.unique :1500   N.unique : 181   1st Qu.:14.00   N.unique :  45   N.unique :  26   1st Qu.:1.000
+ N.blank  :   0   N.blank  :   0   Median :18.00   N.blank  :   0   N.blank  :   0   Median :2.000
+ Min.nchar:   7   Min.nchar:  10   Mean   :17.38   Min.nchar:   8   Min.nchar:   7   Mean   :2.522
+ Max.nchar:   7   Max.nchar:  10   3rd Qu.:21.00   Max.nchar:  15   Max.nchar:  14   3rd Qu.:3.000
+                                   Max.   :23.00                    NAs      :  16   Max.   :6.000
+
+      order_value      distance_km     delivery_time_min      weather        payment_mode     coupon_code
+ Min.   : 112.0   Min.   : 0.500   Min.   :10.00     Length   :1545   Length   :1545   Length   :1545
+ 1st Qu.: 327.0   1st Qu.: 2.050   1st Qu.:25.00     N.unique :   2   N.unique :  15   N.unique :   4
+ Median : 467.0   Median : 3.500   Median :30.00     N.blank  :   0   N.blank  :   0   N.blank  :   0
+ Mean   : 537.2   Mean   : 4.074   Mean   :31.57                      Min.nchar:   3   Min.nchar:   5
+ 3rd Qu.: 677.0   3rd Qu.: 5.500   3rd Qu.:37.00                      Max.nchar:   6   Max.nchar:   9
+ Max.   :2329.0   Max.   :18.000   Max.   :79.00
+                  NAs    :18
+
+   tip_amount         rating
+ Min.   :  0.00   Min.   :1.300
+ 1st Qu.:  0.00   1st Qu.:3.400
+ Median : 10.00   Median :3.800
+ Mean   : 13.75   Mean   :3.788
+ 3rd Qu.: 25.00   3rd Qu.:4.200
+ Max.   :140.00   Max.   :5.000
+ NAs    :78       NAs    :138
+
+[1] "MADHAPUR"      "KUKATPALLY"    "GACHIBOWLI"    "AMEERPET"      "BANJARA HILLS" "DILSUKHNAGAR"
+[7] "SECUNDERABAD"  "LB NAGAR"
+
+[1] "FAST FOOD"    "SOUTH INDIAN" "BIRYANI"      "NORTH INDIAN" "CHINESE"      "DESSERTS"     NA
+
+[1] "RAINY" "CLEAR"
+
+[1] "UPI"  "COD"  "CARD" NA
+
+[1] NA          "FIRST100"  "SAVE50"    "WEEKEND30" "HYD20"
+
+[1] 45
+
+[1] 1500
+
+      attribute missing_values missing_percentages
+5       cuisine             15                1.00
+8   distance_km             18                1.20
+11 payment_mode             22                1.47
+12  coupon_code           1085               72.33
+13  tip_amount             75                5.00
+14  rating                135                9.00
+
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.     NAs
+   0.500   2.100   3.500   4.077   5.500  18.000      18
+
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.     NAs
+    0.0     0.0    10.0    13.6    25.0   140.0      75
+
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.     NAs
+   1.300   3.400   3.800   3.787   4.200   5.000     135
+
+distance_km - R-squared of the model: 0.666
+rating - R-squared of the model: 0.483
+
+         order_id        order_date        order_hour              area           cuisine       items_count
+                0                 0                 0                 0                 0                 0
+      order_value      distance_km delivery_time_min           weather      payment_mode       coupon_code
+                0                 0                 0                 0                 0                 0
+       tip_amount            rating       coupon_used predicted_rating
+                0                 0                 0                 0
+
+       column mean_before mean_after median_before median_after sd_before sd_after
+1 distance_km       4.077      4.069           3.5          3.5     2.739    2.729
+2  tip_amount      13.604     13.423          10.0         10.0    17.237   16.818
+3      rating       3.787      3.789           3.8         3.8     0.631    0.615
+
+             column median   lower   upper n_below n_above n_iqr n_z_gt_3 skewness
+1       order_value  466.0 -197.12 1199.88       0      55    55       26     1.55
+2       distance_km    3.5   -2.91   10.39       0      42    42       22     1.41
+3 delivery_time_min   30.0    7.00   55.00       0      41    41       17     0.85
+4        tip_amount   10.0  -30.00   50.00       0      47    47       22     1.75
+5            rating    3.8    2.20    5.40      13       0    13        7    -0.37
+6       items_count    2.0   -2.00    6.00       0       0     0        0     0.76
+7        order_hour   18.0    3.50   31.50       0       0     0        0    -0.24
+
+  order_value_le_0         items_lt_1  rating_out_of_1_5      distance_le_0 delivery_time_le_0   hour_out_of_0_23
+                 0                  0                  0                  0                  0                  0
+      tip_negative tip_gt_order_value
+                 0                  0
+
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.
+  1.000   4.857   7.286   7.293   9.474  19.636
+
+     order_id items_count order_value
+692   QB10692           5        2329
+1039  QB11039           5        2174
+1275  QB11275           6        1940
+881   QB10881           5        1875
+1355  QB11355           6        1841
+1141  QB11141           6        1802
+226   QB10226           5        1776
+119   QB10119           4        1770
+877   QB10877           6        1739
+490   QB10490           6        1720
+
+     order_id distance_km delivery_time_min
+1316  QB11316        16.9                79
+747   QB10747        16.4                78
+514   QB10514        18.0                74
+1319  QB11319        18.0                74
+468   QB10468        15.6                72
+1255  QB11255        17.5                71
+1187  QB11187        17.7                69
+408   QB10408        14.0                68
+663   QB10663        16.0                67
+1153  QB11153        14.0                67
+
+             column max_before max_after sd_before sd_after rows_changed
+1       order_value       2329   1199.88    296.39   264.48           55
+2       distance_km         18     10.39      2.73     2.47           42
+3 delivery_time_min         79     55.00     10.34    9.73           41
+4        tip_amount        140     50.00     16.82   14.95           47
+
+[1] TRUE
+
+             column minmax_min minmax_max z_mean z_sd
+1       order_value          0          1      0    1
+2       distance_km          0          1      0    1
+3 delivery_time_min          0          1      0    1
+4        items_count          0          1      0    1
+5        tip_amount          0          1      0    1
+6        order_hour          0          1      0    1
+
+[1] 0
+[1] 0
+[1] 0
+Duplicate order_ids left: 0
+Missing values left: 0
+Rows: raw = 1545 | final = 1500
+

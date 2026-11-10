@@ -1,0 +1,1546 @@
+order_id,order_date,order_hour,area,cuisine,items_count,order_value,distance_km,delivery_time_min,weather,payment_mode,coupon_code,tip_amount,rating
+QB10001,2026-01-01,13,Madhapur,Fast Food,2,283.0,1.0,35,Rainy,UPI,,5.0,2.8
+QB10002,2026-01-01,20,Kukatpally,South Indian,3,442.0,6.1,40,Clear,COD,,0.0,3.0
+QB10003,2026-01-01,18,Gachibowli,Biryani,3,1183.0,4.8,28,Clear,UPI,,75.0,4.1
+QB10004,2026-01-02,21,Gachibowli,Fast Food,4,431.0,3.8,33,Clear,UPI,,0.0,3.3
+QB10005,2026-01-02,21,Ameerpet  ,North Indian,3,609.0,4.8,45,Rainy,COD,,0.0,3.5
+QB10006,2026-01-02,12,Madhapur  ,Biryani,3,639.0,2.6,20,Clear,UPI,,0.0,
+QB10007,2026-01-03,21,Banjara Hills,Chinese,2,404.0,2.3,27,Clear,Card,,0.0,
+QB10008,2026-01-03,13,Gachibowli,North Indian,1,453.0,4.1,40,Rainy,UPI,,15.0,3.4
+QB10009,2026-01-03,20, Madhapur,Fast Food,3,695.0,3.3,34,Clear,UPI,,45.0,4.4
+QB10010,2026-01-03,12,Gachibowli,Chinese,3,903.0,3.8,26,Clear,UPI,,0.0,4.6
+QB10011,2026-01-03,12,Kukatpally,South Indian,4,347.0,0.5,17,Clear,COD,FIRST100,0.0,4.4
+QB10012,2026-01-03,22, Kukatpally,South Indian,3,393.0,0.5,12,Clear,UPI,SAVE50,20.0,4.7
+QB10013,2026-01-03,22,Madhapur,South Indian,2,279.0,4.0,30,Clear,UPI,FIRST100,10.0,3.4
+QB10014,2026-01-04,18,Gachibowli,Biryani,3,1012.0,1.8,25,Clear,UPI,,0.0,3.8
+QB10015,2026-01-04,13,Ameerpet,Biryani,2,857.0,6.0,46,Clear,COD,SAVE50,0.0,3.2
+QB10016,2026-01-04,13,Gachibowli,Biryani,4,825.0,9.9,55,Clear,UPI,,40.0,2.7
+QB10017,2026-01-04,14,KUKATPALLY,North Indian,3,437.0,1.6,27,Clear,COD,,0.0,3.4
+QB10018,2026-01-04,15,Dilsukhnagar,Fast Food,3,543.0,11.0,48,Clear,UPI,,0.0,2.8
+QB10019,2026-01-04,12,Secunderabad,Fast Food,2,361.0,4.1,26,Clear,UPI,WEEKEND30,0.0,3.7
+QB10020,2026-01-04,15,Ameerpet,South Indian,3,494.0,1.3,21,Clear,UPI,,0.0,4.1
+QB10021,2026-01-04,11,Kukatpally,South Indian,2,351.0,5.0,25,Clear,UPI,FIRST100,20.0,
+QB10022,2026-01-04,11,Kukatpally,Biryani,1,438.0,2.7,26,Clear,Card,,25.0,4.7
+QB10023,2026-01-04,22,Gachibowli,Desserts,2,212.0,4.5,19,Clear,UPI,,0.0,3.4
+QB10024,2026-01-04,20,LB Nagar,North Indian,1,289.0,2.9,32,Clear,UPI,,,4.0
+QB10025,2026-01-04,21,Madhapur,Fast Food,1,314.0,2.8,26,Clear,UPI,,0.0,4.6
+QB10026,2026-01-05,20,Secunderabad,Fast Food,5,539.0,1.5,33,Clear,Card,,0.0,4.7
+QB10027,2026-01-06,15,Gachibowli,South Indian,4,489.0,1.9,23,Clear,UPI,,10.0,4.2
+QB10028,2026-01-06,20,Banjara Hills,Chinese,1,304.0,0.9,22,Clear,Card,HYD20,25.0,
+QB10029,2026-01-06,22,LB Nagar,South Indian,1,177.0,2.0,22,Clear,UPI,SAVE50,10.0,4.3
+QB10030,2026-01-06,22,Dilsukhnagar,Desserts,1,112.0,4.3,26,Clear,UPI,FIRST100,5.0,4.5
+QB10031,2026-01-06,17,Banjara Hills,North Indian,1,457.0,8.8,44,Clear,UPI,WEEKEND30,0.0,
+QB10032,2026-01-06,22,Banjara Hills,Biryani,4,1404.0,7.5,45,Clear,COD,HYD20,60.0,
+QB10033,2026-01-06,21,Gachibowli,Chinese,1,223.0,7.6,47,Clear,UPI,,15.0,3.2
+QB10034,2026-01-07,13,Madhapur,Biryani,1,582.0,4.2,28,Clear,UPI,SAVE50,20.0,3.7
+QB10035,2026-01-07,19,LB Nagar,Biryani,3,412.0,3.4,25,Clear,UPI,SAVE50,0.0,4.8
+QB10036,2026-01-07,14,Secunderabad,Fast Food,4,729.0,1.4,21,Clear,UPI,,0.0,4.2
+QB10037,2026-01-07,13,Banjara Hills,North Indian,4,750.0,2.2,33,Clear,Card,,45.0,4.4
+QB10038,2026-01-07,19,Madhapur,Fast Food,6,811.0,4.1,29,Clear,COD,FIRST100,0.0,4.2
+QB10039,2026-01-08,20,Secunderabad,Biryani,3,676.0,2.6,33,Clear,CARD,,0.0,3.8
+QB10040,2026-01-08,11,Secunderabad,Desserts,3,620.0,11.4,47,Clear,UPI,,35.0,2.4
+QB10041,2026-01-08,14,Secunderabad,South Indian,5,546.0,3.8,31,Clear,COD,,0.0,3.8
+QB10042,2026-01-08,16,LB Nagar,South Indian,5,349.0,6.9,34,Clear, UPI,,20.0,3.0
+QB10043,2026-01-08,13, lb nagar ,Desserts,1,197.0,2.8,21,Clear,UPI,,10.0,4.4
+QB10044,2026-01-08,20,BANJARA HILLS,Biryani,3,1118.0,4.3,45,Clear,COD  ,,40.0,3.8
+QB10044,2026-01-08,20,BANJARA HILLS,Biryani,3,1118.0,4.3,45,Clear,COD  ,,40.0,3.8
+QB10045,2026-01-08,13,Kukatpally,Biryani,3,584.0,0.5,26,Clear,COD,,25.0,4.5
+QB10046,2026-01-09,20,Madhapur,Biryani,4,1231.0,4.1,34,Clear,Card,HYD20,0.0,3.2
+QB10047,2026-01-09,21,Kukatpally,Fast Food,1,151.0,2.2,29,Clear, card ,WEEKEND30,0.0,4.7
+QB10048,2026-01-09,22,Madhapur,Chinese,3,900.0,1.9,26,Clear,UPI,,0.0,3.1
+QB10049,2026-01-10,13,Ameerpet,fast food,5,510.0,8.7,52,Clear,Card,,0.0,
+QB10050,2026-01-10,13,Gachibowli,NORTH INDIAN,1,473.0,7.1,44,Clear,UPI,,30.0,3.0
+QB10051,2026-01-10,14,Madhapur,Desserts,1,218.0,11.1,53,Clear,Card,,15.0,3.3
+QB10052,2026-01-11,15,LB Nagar,Fast Food,2,488.0,1.4,14,Clear,UPI,,0.0,3.7
+QB10053,2026-01-11,14,Kukatpally,Chinese,4,1068.0,6.5,42,Clear,COD,,0.0,3.7
+QB10054,2026-01-11,20,Banjara Hills,Fast Food,5,830.0,1.6,29,Clear,Card,,65.0,3.9
+QB10055,2026-01-11,18,Ameerpet,Fast Food,2,286.0,3.2,25,Clear,UPI,,0.0,4.6
+QB10056,2026-01-12,11,Kukatpally,Biryani,5,955.0,3.1,21,Clear,UPI,,0.0,
+QB10057,2026-01-12,13,Gachibowli,North Indian,4,714.0,7.4,45,Clear,Card,FIRST100,0.0,
+QB10058,2026-01-12,14,Dilsukhnagar,South Indian,2,330.0,6.9,49,Clear,UPI,,0.0,2.6
+QB10059,2026-01-12,21,gachibowli,Biryani,5,917.0,2.4,27,Clear,UPI,FIRST100,0.0,4.0
+QB10060,2026-01-13,13,LB Nagar,South Indian,1,198.0,,32,Clear,UPI,,0.0,4.2
+QB10061,2026-01-13,12,Banjara Hills  ,Biryani,2,699.0,8.0,53,Clear,UPI,WEEKEND30,20.0,2.3
+QB10062,2026-01-13,20,Ameerpet,South Indian,3,595.0,1.1,29,Clear,Card,,15.0,3.6
+QB10063,2026-01-13,12,SECUNDERABAD,Biryani,1,397.0,5.4,28,Clear,COD,,0.0,4.0
+QB10064,2026-01-14,20,Gachibowli,Fast Food,2,379.0,2.0,26,Clear,Card,HYD20,25.0,5.0
+QB10064,2026-01-14,20,Gachibowli,Fast Food,2,379.0,2.0,26,Clear,Card,HYD20,25.0,5.0
+QB10065,2026-01-14,13,Ameerpet,Biryani,4,931.0,5.6,42,Clear,UPI,,0.0,2.4
+QB10066,2026-01-14,20,Secunderabad,Biryani,1,434.0,7.5,36,Clear,UPI,SAVE50,0.0,3.8
+QB10067,2026-01-14,15,Gachibowli,Fast Food,3,568.0,2.8,18,Clear,Card,,,4.5
+QB10068,2026-01-14,12,Kukatpally,South Indian,4,509.0,2.1,30,Clear,UPI,,0.0,4.7
+QB10069,2026-01-14,20,LB Nagar,South Indian,5,672.0,1.5,27,Clear,UPI,,0.0,4.4
+QB10070,2026-01-14,10,Kukatpally,Biryani,4,934.0,4.2,27,Clear,UPI,,0.0,4.1
+QB10071,2026-01-14,21,Madhapur,Chinese,3,378.0,2.6,27,Clear,UPI,SAVE50,20.0,4.1
+QB10072,2026-01-14,22,Kukatpally,,4,832.0,5.5,30,Clear,COD,FIRST100,55.0,4.0
+QB10072,2026-01-14,22,Kukatpally,,4,832.0,5.5,30,Clear,COD,FIRST100,55.0,4.0
+QB10073,2026-01-14,13,Gachibowli,Biryani,1,504.0,1.6,29,Clear,UPI,,30.0,3.6
+QB10074,2026-01-15,19,Madhapur,Fast Food,2,305.0,2.6,26,Clear,Card,,25.0,4.4
+QB10075,2026-01-15,20,LB Nagar,Biryani,5,1387.0,5.5,37,Clear,UPI,,45.0,3.7
+QB10076,2026-01-15,14,Kukatpally,Chinese,5,682.0,1.8,27,Clear,COD,,35.0,
+QB10077,2026-01-15,20,Kukatpally,Biryani,3,707.0,3.3,36,Rainy,COD,,0.0,3.4
+QB10078,2026-01-15,11,Madhapur,North Indian,3,659.0,1.4,17,Clear,,,30.0,5.0
+QB10079,2026-01-16,15,Kukatpally,Fast Food,3,280.0,1.2,19,Clear,UPI,,0.0,4.5
+QB10080,2026-01-16,14,Madhapur,Biryani,2,473.0,4.1,34,Clear,UPI,,30.0,4.0
+QB10081,2026-01-16,20,Madhapur,North Indian,2,384.0,,39,Clear,UPI,,0.0,3.9
+QB10082,2026-01-16,20,Ameerpet,North Indian,1,351.0,4.0,40,Clear,UPI,,0.0,3.5
+QB10083,2026-01-16,20,Banjara Hills,Desserts,2,277.0,8.2,41,Clear,UPI,,15.0,3.2
+QB10084,2026-01-16,22,Gachibowli,Chinese,1,205.0,8.3,39,Clear,COD,,0.0,3.3
+QB10085,2026-01-16,22,Ameerpet,South Indian,1,180.0,3.0,19,Clear,COD,,10.0,4.5
+QB10086,2026-01-16,12,Kukatpally,Biryani,1,452.0,3.0,19,Clear,Card,SAVE50,15.0,
+QB10087,2026-01-17,20,Dilsukhnagar,Biryani,2,766.0,2.1,28,Clear,Card,,30.0,
+QB10088,2026-01-17,15,Banjara Hills,Biryani,3,994.0,3.4,31,Clear,Card,,25.0,4.3
+QB10089,2026-01-17,15,Madhapur,Biryani,2,560.0,4.2,31,Clear,UPI,WEEKEND30,15.0,4.0
+QB10090,2026-01-17,21,Ameerpet,Chinese,1,327.0,3.1,27,Clear,Card,,15.0,4.6
+QB10091,2026-01-17,19,Banjara Hills,Fast Food,4,697.0,4.4,25,Clear,UPI,WEEKEND30,0.0,3.6
+QB10092,2026-01-18,18, ameerpet ,Fast Food,3,530.0,5.5,37,Rainy,COD,,30.0,4.3
+QB10093,2026-01-18,13,Gachibowli,Biryani,3,1033.0,1.1,28,Clear,COD,,70.0,3.9
+QB10094,2026-01-18,21,Madhapur,South Indian,1,160.0,4.3,31,Clear,UPI,FIRST100,0.0,3.9
+QB10095,2026-01-18,22,Ameerpet,Fast Food,3,524.0,5.6,27,Clear,COD,,0.0,4.3
+QB10096,2026-01-18,20,Ameerpet,Biryani,3,866.0,2.1,31,Clear,COD,,35.0,4.3
+QB10096,2026-01-18,20,Ameerpet,Biryani,3,866.0,2.1,31,Clear,COD,,35.0,4.3
+QB10097,2026-01-18,20,Kukatpally,South Indian,2,384.0,3.9,31,Clear,Card,,20.0,4.0
+QB10098,2026-01-18,12,Kukatpally,South Indian,3,222.0,2.3,17,Clear,Card,,0.0,4.5
+QB10099,2026-01-18,15,Madhapur,DESSERTS,1,181.0,2.8,29,Clear,COD,,0.0,3.8
+QB10100,2026-01-19,18,KUKATPALLY,Chinese,2,587.0,8.3,40,Clear,UPI,,0.0,4.1
+QB10101,2026-01-19,21,Ameerpet,North Indian,2,672.0,7.8,48,Clear,Card,WEEKEND30,40.0,3.0
+QB10102,2026-01-19,12,LB Nagar,Fast Food,2,455.0,3.3,28,Clear,COD,,0.0,4.0
+QB10103,2026-01-19,13,Banjara Hills,Biryani,2,341.0,7.4,51,Clear,COD,SAVE50,,2.3
+QB10104,2026-01-19,23,Gachibowli,,2,490.0,9.2,43,Clear,Card,,20.0,3.2
+QB10105,2026-01-19,13,Banjara Hills,Fast Food,1,299.0,0.7,22,Clear,COD,WEEKEND30,0.0,4.8
+QB10106,2026-01-20,21,Kukatpally,Chinese,2,408.0,0.5,14,Clear,Card,,0.0,4.5
+QB10107,2026-01-20,17,Gachibowli,Chinese,3,430.0,8.5,33,Clear,UPI,,10.0,3.8
+QB10108,2026-01-20,22,Kukatpally,South Indian,3,316.0,1.2,20,Clear,UPI,SAVE50,0.0,4.2
+QB10109,2026-01-20,12,Kukatpally,Fast Food,3,439.0,6.4,37,Clear,UPI,,0.0,3.5
+QB10110,2026-01-20,21,Gachibowli,Fast Food,2,405.0,1.3,24,Clear,UPI,,0.0,4.2
+QB10111,2026-01-20,23,Secunderabad,North Indian,5,940.0,5.7,36,Clear,Card,,50.0,3.1
+QB10112,2026-01-20,20,Ameerpet,South Indian,1,181.0,6.8,42,Clear,Card,,,3.4
+QB10112,2026-01-20,20,Ameerpet,South Indian,1,181.0,6.8,42,Clear,Card,,,3.4
+QB10113,2026-01-20,16, LB Nagar,Biryani,3,924.0,5.6,28,Clear,UPI,FIRST100,60.0,4.9
+QB10114,2026-01-21,23,Dilsukhnagar,Fast Food,2,275.0,5.5,33,Clear,UPI  ,,10.0,3.5
+QB10115,2026-01-21,21,LB Nagar,Biryani,1,597.0,1.7,29,Clear,COD,,10.0,3.7
+QB10116,2026-01-21,20,Ameerpet,Chinese,2,413.0,8.3,55,Rainy,UPI,,15.0,1.8
+QB10117,2026-01-21,14,Ameerpet,South Indian,3,482.0,2.8,37,Clear,UPI,,15.0,2.6
+QB10118,2026-01-21,21,LB Nagar,Biryani,6,1149.0,1.7,31,Clear,UPI,,0.0,
+QB10119,2026-01-21,22,Banjara Hills,Biryani,4,1770.0,4.3,32,Clear,COD,,0.0,4.0
+QB10120,2026-01-21,20,Gachibowli,Chinese,4,1009.0,4.7,38,Clear,Card,FIRST100,50.0,3.0
+QB10121,2026-01-21,16,Kukatpally,North Indian,6,1509.0,4.3,23,Clear,UPI,,75.0,3.7
+QB10122,2026-01-21,23,Secunderabad,Chinese,3,459.0,0.6,19,Clear,UPI,,0.0,4.3
+QB10123,2026-01-21,12,Ameerpet,Fast Food,1,254.0,2.5,18,Clear,Card,FIRST100,20.0,
+QB10124,2026-01-21,15, madhapur ,Biryani,1,401.0,5.8,35,Clear,UPI,,25.0,3.3
+QB10125,2026-01-22,23,LB Nagar,Biryani,4,695.0,3.4,29,Clear,UPI,SAVE50,0.0,3.3
+QB10126,2026-01-22,20,Ameerpet,Biryani,2,750.0,4.7,35,Clear,COD,,35.0,3.8
+QB10127,2026-01-22,12,Gachibowli,Biryani,4,1393.0,5.3,32,Clear,UPI,WEEKEND30,80.0,3.5
+QB10128,2026-01-22,19,Dilsukhnagar,South Indian,2,257.0,8.8,41,Clear,UPI,,10.0,3.8
+QB10129,2026-01-22,23,Secunderabad,Biryani,1,348.0,5.5,37,Clear,UPI,WEEKEND30,25.0,3.9
+QB10130,2026-01-22,22,Kukatpally,Desserts,2,330.0,1.1,19,Clear,UPI,,0.0,4.2
+QB10131,2026-01-22,14,Dilsukhnagar,Biryani,1,481.0,2.9,30,Clear,UPI,,25.0,4.5
+QB10132,2026-01-22,14,Gachibowli  ,Biryani,1,468.0,3.4,31,Clear,UPI,HYD20,,4.7
+QB10133,2026-01-23,14,Secunderabad,Fast Food,2,372.0,1.8,35,Rainy,UPI,,0.0,3.8
+QB10134,2026-01-23,13,Kukatpally,Biryani,6,1022.0,0.6,23,Clear,UPI,,40.0,3.4
+QB10135,2026-01-23,13,Gachibowli,Biryani,5,909.0,3.7,32,Clear,Card,,20.0,3.2
+QB10136,2026-01-23,14,Madhapur,Biryani,3,845.0,5.6,47,Clear,UPI,,35.0,3.3
+QB10137,2026-01-23,21,Kukatpally,Fast Food,3,494.0,0.6,20,Clear,Card,,20.0,5.0
+QB10138,2026-01-23,19,Madhapur,South Indian,3,313.0,12.0,49,Clear,Card,,5.0,2.9
+QB10139,2026-01-23,13, kukatpally ,Biryani,3,964.0,4.3,37,Clear,COD,,0.0,3.4
+QB10140,2026-01-23,21,Ameerpet,North Indian,2,492.0,2.9,26,Clear,Card,,35.0,4.5
+QB10141,2026-01-24,18,DILSUKHNAGAR,North Indian,4,1136.0,3.9,30,Clear,UPI,,0.0,4.4
+QB10142,2026-01-24,13,Kukatpally,South Indian,4,560.0,1.8,40,Rainy,UPI,,0.0,3.7
+QB10143,2026-01-24,20,Ameerpet,Biryani,4,1108.0,0.6,29,Clear,UPI,,0.0,4.2
+QB10144,2026-01-24,11,Ameerpet,South Indian,2,343.0,6.7,37,Clear,Card,,,3.6
+QB10145,2026-01-24,10,Secunderabad,North Indian,2,609.0,2.9,39,Rainy,COD,,15.0,2.7
+QB10146,2026-01-24,21,Ameerpet,North Indian,4,841.0,0.5,23,Clear,UPI,,60.0,4.1
+QB10147,2026-01-24,14,Kukatpally,Chinese,5,646.0,2.6,34,Clear,UPI,,30.0,4.1
+QB10147,2026-01-24,14,Kukatpally,Chinese,5,646.0,2.6,34,Clear,UPI,,30.0,4.1
+QB10148,2026-01-25,20,Dilsukhnagar,Biryani,4,808.0,3.3,29,Clear,UPI,FIRST100,0.0,
+QB10149,2026-01-25,18,Gachibowli,South Indian,2,354.0,2.3,19,Clear,UPI,,30.0,3.8
+QB10150,2026-01-25,23,Banjara Hills,North Indian,1,436.0,2.0,25,Clear,Card,,0.0,3.5
+QB10151,2026-01-25,12, banjara hills ,Fast Food,3,630.0,7.9,57,Rainy,COD,,30.0,3.0
+QB10152,2026-01-25,23,Gachibowli,Fast Food,1,183.0,3.0,16,Clear,UPI,SAVE50,0.0,
+QB10153,2026-01-26,20,Dilsukhnagar,South Indian,4,502.0,6.5,49,Clear,Card,,0.0,2.6
+QB10154,2026-01-26,23,Madhapur,Fast Food,5,748.0,1.8,22,Clear,UPI,FIRST100,30.0,5.0
+QB10155,2026-01-26,13,Dilsukhnagar,Fast Food,3,646.0,4.8,45,Rainy,UPI,,30.0,2.7
+QB10156,2026-01-26,14,LB Nagar,Desserts,3,510.0,1.6,30,Clear,Card,,0.0,4.0
+QB10157,2026-01-26,12,DILSUKHNAGAR,Biryani,1,289.0,2.2,23,Clear,UPI,WEEKEND30,,4.4
+QB10158,2026-01-27,23,Ameerpet,South Indian,1,240.0,1.1,16,Clear,UPI,,10.0,5.0
+QB10159,2026-01-27,14,Kukatpally,Chinese,5,794.0,2.7,22,Clear,Card,,0.0,3.9
+QB10160,2026-01-27,14,LB Nagar,North Indian,4,670.0,3.3,34,Clear,UPI,,0.0,3.6
+QB10161,2026-01-27,19,Kukatpally,South Indian,4,507.0,5.2,31,Clear,UPI,,0.0,3.9
+QB10162,2026-01-27,22,Kukatpally,Biryani,1,602.0,1.4,24,Rainy,UPI,,40.0,3.5
+QB10163,2026-01-28,19,Ameerpet,Fast Food,1,186.0,,34,Clear,Card,HYD20,10.0,3.6
+QB10164,2026-01-28,10,Secunderabad,South Indian,3,388.0,8.5,48,Clear,COD,,15.0,3.0
+QB10165,2026-01-28,15,MADHAPUR,Biryani,3,885.0,9.4,50,Clear,UPI,HYD20,30.0,3.5
+QB10166,2026-01-28,20,Gachibowli,Biryani,2,444.0,5.7,45,Rainy,Card,HYD20,15.0,
+QB10167,2026-01-28,18,Ameerpet,Chinese,2,518.0,2.5,23,Clear,Card,,0.0,4.0
+QB10168,2026-01-28,13,Gachibowli,Biryani,3,571.0,5.0,34,Clear,UPI,,30.0,3.5
+QB10169,2026-01-29,15,Ameerpet,North Indian,1,379.0,2.9,31,Rainy,COD,,0.0,3.7
+QB10170,2026-01-29,18,Dilsukhnagar,Biryani,2,550.0,4.4,28,Clear,UPI,,35.0,
+QB10171,2026-01-29,10,Gachibowli,Biryani,2,794.0,2.7,28,Clear,UPI,,0.0,3.7
+QB10172,2026-01-29,20,Gachibowli  ,South Indian,1,256.0,3.2,33,Clear,UPI,,20.0,4.2
+QB10173,2026-01-29,22,Dilsukhnagar,,1,189.0,1.3,17,Clear,Card,,5.0,4.7
+QB10174,2026-01-29,13,Kukatpally,South Indian,2,284.0,4.4,32,Clear,UPI,,0.0,4.0
+QB10175,2026-01-30,21,Kukatpally,Chinese,1,248.0,3.3,25,Clear,COD,,5.0,3.7
+QB10176,2026-01-30,17,LB Nagar,North Indian,2,607.0,4.5,20,Clear,Card,,0.0,4.6
+QB10177,2026-01-31,14,Dilsukhnagar,Biryani,1,228.0,1.3,21,Clear,UPI,,0.0,4.3
+QB10178,2026-01-31,19,Gachibowli, Biryani,3,933.0,1.5,23,Clear,UPI,,55.0,4.1
+QB10179,2026-01-31,13,Gachibowli,Desserts,2,187.0,2.2,23,Clear,UPI,SAVE50,5.0,4.3
+QB10180,2026-01-31,14,Ameerpet,Chinese,1,267.0,8.0,42,Clear,Card,,15.0,3.3
+QB10181,2026-01-31,21,Ameerpet,Biryani,6,1286.0,5.1,47,Clear,Card,,0.0,2.8
+QB10182,2026-01-31,18,Madhapur,Chinese,1,304.0,9.2,40,Clear,UPI,,0.0,
+QB10183,2026-01-31,23, madhapur ,South Indian,5,429.0,0.9,21,Clear,COD,FIRST100,0.0,4.1
+QB10184,2026-01-31,14,Gachibowli,Fast Food,2,332.0,4.2,32,Clear,COD,,0.0,4.0
+QB10185,2026-01-31,14,Banjara Hills,Biryani,3,1054.0,4.1,35,Clear,UPI,WEEKEND30,35.0,2.6
+QB10186,2026-02-01,19,Secunderabad,Fast Food,4,490.0,5.0,40,Clear,COD,,35.0,4.2
+QB10187,2026-02-01,21,Banjara Hills,Biryani,2,371.0,1.6,32,Rainy,Card,,20.0,3.6
+QB10188,2026-02-01,21,Dilsukhnagar  ,Biryani,3,1045.0,3.1,44,Rainy,Card,,,2.5
+QB10189,2026-02-01,14,Secunderabad,South Indian,1,159.0,2.3,17,Clear,UPI,SAVE50,5.0,4.0
+QB10190,2026-02-01,13,LB Nagar,North Indian,6,956.0,0.8,36,Rainy,UPI,FIRST100,0.0,3.5
+QB10191,2026-02-01,15,Secunderabad,Chinese,1,414.0,14.2,56,Clear,UPI,WEEKEND30,0.0,
+QB10192,2026-02-01,17,Gachibowli,South Indian,5,577.0,3.4,30,Clear,UPI,,0.0,3.8
+QB10193,2026-02-01,13,Madhapur,Fast Food,2,388.0,1.4,25,Clear,COD,,0.0,3.9
+QB10194,2026-02-01,13,Secunderabad,North Indian,4,840.0,2.3,34,Clear,Card,FIRST100,0.0,3.6
+QB10195,2026-02-02,21,LB Nagar,South Indian,3,331.0,10.2,56,Clear,UPI,FIRST100,10.0,3.5
+QB10196,2026-02-02,14,Gachibowli,North Indian,3,780.0,4.4,37,Clear,UPI,,35.0,
+QB10197,2026-02-02,22,Dilsukhnagar,North Indian,3,660.0,0.5,16,Clear,UPI,,0.0,4.0
+QB10198,2026-02-02,19,Gachibowli,North Indian,1,246.0,3.1,25,Clear,UPI,WEEKEND30,0.0,3.5
+QB10199,2026-02-03,11,Dilsukhnagar,Biryani,3,812.0,0.7,21,Clear,Card,,35.0,4.6
+QB10200,2026-02-03,20,Madhapur,Desserts,1,161.0,2.2,28,Clear,UPI,SAVE50,10.0,3.8
+QB10201,2026-02-03,13, madhapur ,North Indian,1,433.0,4.1,33,Clear,Card,,0.0,3.8
+QB10202,2026-02-03,17,Banjara Hills,Biryani,2,583.0,6.9,47,Rainy,UPI,,0.0,3.1
+QB10203,2026-02-04,18,Dilsukhnagar,North Indian,2,385.0,1.2,27,Rainy,Card,,0.0,4.1
+QB10204,2026-02-04,11,Dilsukhnagar,North Indian,6,793.0,5.4,35,Clear,Card,,50.0,3.9
+QB10205,2026-02-04,22,Kukatpally,Fast Food,1,296.0,4.1,31,Rainy,Card,FIRST100,20.0,
+QB10206,2026-02-04,14,Banjara Hills,Biryani,1,340.0,6.4,34,Clear,Card,FIRST100,10.0,4.2
+QB10207,2026-02-04,20,Gachibowli,Biryani,4,696.0,2.6,27,Clear,Card,,,4.3
+QB10208,2026-02-04,14,Madhapur,North Indian,2,492.0,1.1,30,Clear,Card,,0.0,3.9
+QB10209,2026-02-04,20,Madhapur,South Indian,1,243.0,4.6,32,Clear,UPI,,0.0,4.3
+QB10210,2026-02-04,22,Madhapur,Chinese,1,381.0,1.3,14,Clear,UPI,,0.0,4.7
+QB10211,2026-02-05,13,Dilsukhnagar,Desserts,6,462.0,2.3,43,Rainy,UPI,,0.0,3.5
+QB10212,2026-02-05,17,LB Nagar,South Indian,1,203.0,1.7,24,Clear, UPI,,0.0,3.8
+QB10213,2026-02-05,19,Ameerpet,Biryani,2,927.0,0.6,16,Clear,Card,,30.0,4.5
+QB10214,2026-02-05,12,Gachibowli,Biryani,5,756.0,0.7,21,Clear,Card,WEEKEND30,0.0,
+QB10215,2026-02-05,20,Madhapur,Desserts,6,413.0,5.0,39,Clear,UPI,,0.0,4.8
+QB10216,2026-02-05,23,Secunderabad,Biryani,6,1239.0,2.7,24,Clear,UPI,,55.0,
+QB10217,2026-02-06,21,Gachibowli,Fast Food,1,305.0,3.8,35,Clear,CARD,,20.0,3.3
+QB10218,2026-02-06,19,Dilsukhnagar,Biryani,1,364.0,6.5,34,Clear,Card,,0.0,2.6
+QB10219,2026-02-06,13,Gachibowli,North Indian,4,788.0,5.1,37,Clear,COD  ,,0.0,3.7
+QB10220,2026-02-06,12,Secunderabad,South Indian,4,659.0,10.3,52,Clear,Card,,0.0,2.7
+QB10221,2026-02-06,22,Dilsukhnagar,Chinese,2,510.0,3.9,29,Clear,Card,FIRST100,20.0,
+QB10222,2026-02-07,21,Kukatpally,Biryani,1,519.0,2.9,37,Clear,COD,,0.0,3.5
+QB10223,2026-02-07,21,Gachibowli  ,chinese,1,212.0,2.1,23,Clear,Card,HYD20,15.0,4.5
+QB10224,2026-02-07,18,Ameerpet,North Indian,3,514.0,1.5,15,Clear,UPI,,10.0,3.6
+QB10225,2026-02-07,11,Dilsukhnagar,South Indian,2,356.0,4.4,29,Clear,UPI,WEEKEND30,5.0,
+QB10226,2026-02-07,19,Madhapur,Biryani,5,1776.0,,21,Clear,UPI,,,4.7
+QB10227,2026-02-07,19, Gachibowli,North Indian,2,677.0,5.7,40,Clear,Card,,55.0,3.2
+QB10228,2026-02-07,11, Secunderabad,Biryani,2,941.0,3.4,27,Clear,Card,,25.0,4.2
+QB10229,2026-02-07,16,Gachibowli,North Indian,2,502.0,5.8,35,Clear,UPI,,0.0,3.7
+QB10230,2026-02-07,20,Secunderabad,South Indian,2,397.0,4.3,45,Rainy,UPI,SAVE50,15.0,3.4
+QB10231,2026-02-07,13,KUKATPALLY,Chinese,2,378.0,2.8,28,Clear,Card,,15.0,3.7
+QB10232,2026-02-08,14,Dilsukhnagar,BIRYANI,2,495.0,2.4,28,Clear,UPI,,0.0,3.9
+QB10233,2026-02-08,13,LB Nagar,South Indian,5,584.0,3.2,32,Clear,UPI,,45.0,2.8
+QB10234,2026-02-08,21,Madhapur,Biryani,6,1718.0,3.3,40,Clear,UPI,WEEKEND30,0.0,3.0
+QB10235,2026-02-08,16,LB Nagar,Biryani,2,524.0,6.2,31,Clear,Card,,0.0,4.2
+QB10236,2026-02-08,20,Banjara Hills,Chinese,3,617.0,1.5,18,Clear,UPI,FIRST100,40.0,4.0
+QB10237,2026-02-08,17,Ameerpet,Biryani,4,1209.0,0.7,21,Clear,UPI,,0.0,5.0
+QB10238,2026-02-08,18,Madhapur,South Indian,1,157.0,3.5,27,Clear,UPI,,0.0,4.1
+QB10239,2026-02-09,12,secunderabad,Biryani,2,805.0,8.2,29,Clear,UPI,,0.0,
+QB10240,2026-02-09,18,Ameerpet,North Indian,5,1284.0,3.4,28,Clear,UPI,,0.0,4.4
+QB10241,2026-02-09,23,Gachibowli,Biryani,3,779.0,3.1,18,Clear,,,35.0,4.1
+QB10242,2026-02-09,21,Madhapur,Fast Food,3,774.0,9.4,51,Clear,UPI,,45.0,2.7
+QB10242,2026-02-09,21,Madhapur,Fast Food,3,774.0,9.4,51,Clear,UPI,,45.0,2.7
+QB10243,2026-02-09,20,Kukatpally,South Indian,2,241.0,1.4,22,Clear,Card,FIRST100,,4.4
+QB10244,2026-02-10,21,Madhapur,South Indian,2,315.0,2.5,30,Clear,Card,FIRST100,15.0,3.5
+QB10245,2026-02-11,12,Kukatpally,Fast Food,1,329.0,7.7,39,Clear,UPI,,20.0,3.0
+QB10246,2026-02-11,21,Madhapur,Biryani,3,823.0,1.7,31,Clear,Card,,20.0,
+QB10247,2026-02-11,21,Dilsukhnagar,South Indian,2,229.0,3.5,30,Clear,UPI,,0.0,4.4
+QB10248,2026-02-11,20,Dilsukhnagar,Biryani,3,656.0,5.0,38,Clear,Card,,35.0,3.3
+QB10249,2026-02-11,22,Gachibowli,South Indian,1,154.0,3.2,20,Clear,Card,,0.0,4.1
+QB10250,2026-02-11,12,Dilsukhnagar,Fast Food,4,738.0,4.2,31,Clear,UPI,,0.0,3.6
+QB10251,2026-02-11,12,Madhapur,Fast Food,1,347.0,3.9,24,Clear,UPI,,0.0,4.6
+QB10252,2026-02-12,22,Madhapur,Biryani,1,322.0,4.3,29,Clear,UPI,,20.0,4.1
+QB10253,2026-02-12,17,Kukatpally,Chinese,3,711.0,6.1,36,Clear,COD,,50.0,3.5
+QB10254,2026-02-12,23,Gachibowli,North Indian,3,414.0,3.0,23,Clear,UPI,,0.0,4.6
+QB10255,2026-02-12,18,Kukatpally,Chinese,2,335.0,1.4,16,Clear,UPI,,20.0,4.8
+QB10256,2026-02-12,18,Ameerpet,North Indian,1,368.0,,32,Clear,UPI,HYD20,25.0,
+QB10257,2026-02-12,21,Kukatpally,Biryani,2,524.0,6.2,38,Clear,UPI,,20.0,3.6
+QB10258,2026-02-13,18,Ameerpet,Chinese,4,631.0,0.5,26,Rainy,UPI,,20.0,4.0
+QB10259,2026-02-13,13,Banjara Hills,Biryani,1,421.0,4.4,29,Clear,Card,FIRST100,0.0,3.2
+QB10260,2026-02-13,18,LB Nagar,South Indian,1,156.0,0.9,12,Clear,UPI,,0.0,4.0
+QB10261,2026-02-13,13,Madhapur,Biryani,2,440.0,1.7,27,Clear,UPI,,35.0,5.0
+QB10262,2026-02-14,22, Dilsukhnagar,South Indian,1,263.0,5.0,29,Clear,Card,,15.0,4.1
+QB10263,2026-02-14,22,Madhapur,Chinese,3,417.0,1.0,17,Clear,Card,,10.0,4.7
+QB10264,2026-02-14,12,Ameerpet,Desserts,2,449.0,1.4,19,Clear,UPI,,25.0,4.5
+QB10265,2026-02-14,15,Kukatpally,Fast Food,2,296.0,4.7,32,Clear,Card,WEEKEND30,0.0,4.0
+QB10266,2026-02-14,21,Madhapur,South Indian,2,276.0,3.2,31,Clear,UPI,,20.0,3.7
+QB10267,2026-02-14,11,LB Nagar,Biryani,2,570.0,3.0,28,Clear,UPI,,0.0,4.2
+QB10268,2026-02-14,10,Kukatpally,Chinese,3,713.0,3.6,31,Clear,UPI,,15.0,3.7
+QB10269,2026-02-14,13,Ameerpet,North Indian,1,302.0,8.5,41,Clear,UPI,,0.0,3.3
+QB10270,2026-02-14,22,Secunderabad,North Indian,3,437.0,1.8,20,Clear,COD,WEEKEND30,0.0,4.4
+QB10271,2026-02-15,18,Ameerpet,South Indian,4,413.0,10.9,51,Clear,UPI,HYD20,0.0,3.2
+QB10272,2026-02-15,13,Banjara Hills,Chinese,1,428.0,1.3,31,Clear,Card,,20.0,3.5
+QB10273,2026-02-16,13,Madhapur,Desserts,1,166.0,3.5,32,Clear,Card,,0.0,2.7
+QB10274,2026-02-16,13,Madhapur,Biryani,1,420.0,10.2,53,Clear,UPI,,35.0,2.9
+QB10275,2026-02-16,19,gachibowli,Fast Food,1,278.0,4.6,22,Clear,UPI,,0.0,4.6
+QB10276,2026-02-16,13,Dilsukhnagar,Biryani,1,431.0,7.3,47,Rainy,UPI,,10.0,2.9
+QB10277,2026-02-16,20,Dilsukhnagar,Chinese,2,427.0,3.9,32,Clear,UPI,,0.0,3.3
+QB10278,2026-02-16,23,Gachibowli,Fast Food,2,491.0,2.9,16,Clear,UPI,,0.0,4.6
+QB10279,2026-02-16,20,MADHAPUR,Fast Food,1,209.0,7.3,47,Clear,UPI,,15.0,2.4
+QB10279,2026-02-16,20,MADHAPUR,Fast Food,1,209.0,7.3,47,Clear,UPI,,15.0,2.4
+QB10280,2026-02-17,14,Ameerpet,Biryani,4,1013.0,3.8,39,Clear,COD,,70.0,3.7
+QB10281,2026-02-17,13,Banjara Hills,Fast Food,2,300.0,6.2,36,Clear,Card,HYD20,0.0,4.4
+QB10282,2026-02-17,14,Gachibowli,South Indian,3,389.0,2.6,28,Clear,UPI,,30.0,3.5
+QB10283,2026-02-17,18, kukatpally , Biryani,2,905.0,2.1,22,Clear,UPI  ,,,3.9
+QB10284,2026-02-17,13,Banjara Hills,Biryani,2,737.0,5.4,36,Clear,Card,SAVE50,50.0,3.6
+QB10285,2026-02-17,10,Secunderabad,Chinese,1,371.0,2.1,17,Clear,UPI,FIRST100,0.0,4.3
+QB10286,2026-02-17,21,Dilsukhnagar,Biryani,2,556.0,3.1,28,Clear,UPI,,40.0,3.4
+QB10287,2026-02-17,19,Secunderabad,Biryani,2,893.0,3.1,25,Clear,UPI,,40.0,3.2
+QB10288,2026-02-18,21,Kukatpally,Fast Food,2,442.0,4.8,37,Clear,COD,,0.0,3.5
+QB10289,2026-02-18,17,Secunderabad,Biryani,2,599.0,8.3,38,Clear,Card,,0.0,4.2
+QB10290,2026-02-18,13,Madhapur,Fast Food,1,208.0,7.4,36,Clear,UPI,,0.0,4.2
+QB10291,2026-02-18,20,Madhapur,Chinese,3,471.0,2.3,29,Clear,UPI,HYD20,0.0,4.1
+QB10292,2026-02-18,17,Ameerpet,Biryani,1,460.0,3.5,27,Clear,COD,,15.0,
+QB10293,2026-02-19,14,Secunderabad,Fast Food,2,341.0,0.8,32,Clear,Card,,0.0,
+QB10294,2026-02-19,22,Banjara Hills,Biryani,2,655.0,4.1,30,Clear,Card,,50.0,4.0
+QB10295,2026-02-19,23,Kukatpally,Biryani,2,497.0,2.3,23,Clear,,HYD20,0.0,3.8
+QB10296,2026-02-19,21,Ameerpet,Desserts,1,158.0,4.5,32,Clear,UPI,,10.0,3.6
+QB10297,2026-02-19,22, LB Nagar,South Indian,3,420.0,6.0,31,Clear,UPI,,25.0,3.9
+QB10298,2026-02-19,20,Banjara Hills,NORTH INDIAN,1,456.0,0.9,18,Clear,UPI,WEEKEND30,0.0,4.8
+QB10299,2026-02-19,14,Ameerpet,North Indian,3,583.0,1.8,22,Clear,UPI,FIRST100,0.0,3.9
+QB10300,2026-02-19,21,Gachibowli,North Indian,2,531.0,6.4,42,Clear,Card,FIRST100,0.0,3.6
+QB10301,2026-02-20,21,Gachibowli,South Indian,1,228.0,2.7,31,Clear,UPI,FIRST100,0.0,3.0
+QB10302,2026-02-20,13,Kukatpally,Biryani,1,370.0,8.3,44,Clear,UPI,,25.0,3.3
+QB10303,2026-02-20,23,Madhapur,South Indian,2,320.0,6.4,33,Clear,UPI,,20.0,3.9
+QB10304,2026-02-20,22,Madhapur,Chinese,3,1008.0,9.1,45,Clear,COD,FIRST100,30.0,3.1
+QB10305,2026-02-20,16,Ameerpet,North Indian,2,948.0,1.9,17,Clear,UPI,,40.0,4.6
+QB10306,2026-02-20,18,Kukatpally,Chinese,2,289.0,5.0,27,Clear,COD,,0.0,3.6
+QB10307,2026-02-20,17,Gachibowli,Chinese,3,634.0,3.8,29,Clear,Card,,40.0,4.0
+QB10308,2026-02-20,19,Kukatpally,Desserts,1,174.0,5.5,34,Clear,UPI,,0.0,
+QB10309,2026-02-20,14,Gachibowli, south indian ,5,787.0,1.4,24,Clear,UPI,,0.0,3.7
+QB10309,2026-02-20,14,Gachibowli, south indian ,5,787.0,1.4,24,Clear,UPI,,0.0,3.7
+QB10310,2026-02-21,13,LB Nagar,Biryani,1,431.0,2.8,31,Clear,UPI,,30.0,3.1
+QB10311,2026-02-21,22,Madhapur,Desserts,3,277.0,3.4,28,Clear,COD,FIRST100,10.0,4.2
+QB10312,2026-02-21,20,Gachibowli,North Indian,3,944.0,12.4,57,Clear,Card,WEEKEND30,0.0,2.5
+QB10313,2026-02-21,23,Banjara Hills,Chinese,2,567.0,2.2,15,Clear,UPI,,40.0,4.4
+QB10314,2026-02-21,20,Kukatpally,Biryani,3,515.0,3.9,41,Clear,UPI,WEEKEND30,25.0,2.7
+QB10315,2026-02-21,15,Gachibowli,North Indian,2,405.0,6.3,32,Clear,UPI,SAVE50,20.0,
+QB10316,2026-02-21,21,Banjara Hills,Chinese,4,923.0,2.9,30,Clear,UPI,,0.0,4.2
+QB10317,2026-02-21,14,Banjara Hills,Chinese,2,472.0,1.3,27,Clear,UPI,,0.0,
+QB10318,2026-02-22,23,Madhapur,Chinese,2,365.0,3.6,35,Clear,COD,,20.0,4.1
+QB10319,2026-02-22,16,LB Nagar,Biryani,3,799.0,5.4,33,Clear,Card,,35.0,3.7
+QB10320,2026-02-22,17,Kukatpally,South Indian,1,338.0,4.2,32,Clear, upi ,HYD20,25.0,3.5
+QB10321,2026-02-22,20,Banjara Hills,Chinese,1,349.0,1.5,20,Clear,UPI,,15.0,4.3
+QB10322,2026-02-22,14,Banjara Hills,Biryani,1,423.0,1.0,30,Clear,COD,,25.0,4.3
+QB10323,2026-02-22,18,Gachibowli,Fast Food,3,729.0,6.1,27,Clear,COD,,50.0,3.9
+QB10324,2026-02-22,15,Ameerpet,North Indian,4,837.0,2.4,24,Clear,COD,,25.0,2.9
+QB10325,2026-02-22,11,Kukatpally,Biryani,2,861.0,2.4,21,Clear,UPI,FIRST100,0.0,4.4
+QB10326,2026-02-22,20,Kukatpally,Biryani,3,770.0,6.7,41,Clear,UPI,,55.0,3.3
+QB10327,2026-02-22,19,Gachibowli,Desserts,1,177.0,0.8,17,Clear,UPI,FIRST100,5.0,4.5
+QB10328,2026-02-22,15,gachibowli,Biryani,2,485.0,1.2,27,Clear,UPI,,0.0,4.5
+QB10329,2026-02-22,16,Madhapur,Fast Food,4,394.0,8.1,42,Clear,Card,,20.0,3.2
+QB10330,2026-02-22,11,Madhapur,Chinese,3,619.0,3.1,35,Rainy,UPI,,15.0,3.3
+QB10331,2026-02-22,14,Secunderabad,Fast Food,4,620.0,2.6,27,Clear,UPI,,0.0,3.5
+QB10331,2026-02-22,14,Secunderabad,Fast Food,4,620.0,2.6,27,Clear,UPI,,0.0,3.5
+QB10332,2026-02-22,21,Kukatpally,South Indian,1,171.0,5.8,39,Clear,UPI,,10.0,3.8
+QB10333,2026-02-23,19,Gachibowli,Biryani,2,517.0,6.5,35,Clear,UPI,,20.0,4.5
+QB10334,2026-02-23,13,Madhapur,South Indian,4,459.0,2.2,28,Clear,UPI,,15.0,4.0
+QB10335,2026-02-23,13,Ameerpet,North Indian,2,352.0,2.0,19,Clear,UPI,,0.0,3.5
+QB10336,2026-02-23,18,Dilsukhnagar,Biryani,4,804.0,11.1,53,Clear,COD,WEEKEND30,0.0,3.1
+QB10337,2026-02-23,18, gachibowli ,Biryani,1,259.0,2.6,24,Clear,COD,,15.0,3.8
+QB10338,2026-02-23,18,Kukatpally,South Indian,2,276.0,1.8,14,Clear,UPI,,0.0,4.6
+QB10339,2026-02-23,20, Ameerpet,Fast Food,3,467.0,4.7,35,Clear,UPI,FIRST100,,2.8
+QB10340,2026-02-23,15,Dilsukhnagar,South Indian,2,409.0,,15,Clear,Card,,30.0,4.5
+QB10341,2026-02-23,17,Madhapur,Biryani,3,473.0,0.9,24,Clear,COD,,15.0,
+QB10342,2026-02-23,15,Kukatpally,Fast Food,1,204.0,3.3,26,Clear,Card,,15.0,4.9
+QB10343,2026-02-24,20,Ameerpet,Desserts,1,214.0,3.1,26,Clear,COD,,0.0,3.4
+QB10344,2026-02-24,11,Kukatpally,North Indian,3,784.0,2.7,18,Clear,UPI,WEEKEND30,0.0,4.5
+QB10345,2026-02-24,20,Secunderabad,Biryani,1,386.0,4.0,35,Clear,COD,HYD20,0.0,3.8
+QB10346,2026-02-25,21,Dilsukhnagar,Chinese,2,759.0,6.4,41,Clear,UPI,HYD20,0.0,3.3
+QB10347,2026-02-25,16,Ameerpet,Fast Food,3,409.0,1.4,25,Clear,UPI,,10.0,4.0
+QB10348,2026-02-26,11,Ameerpet,North Indian,5,1230.0,7.8,42,Clear,UPI,,0.0,3.4
+QB10349,2026-02-26,20,Banjara Hills  ,Fast Food,3,586.0,4.7,35,Clear,UPI,,25.0,3.9
+QB10350,2026-02-26,20,gachibowli,South Indian,2,201.0,6.1,39,Clear,Card,,0.0,4.1
+QB10351,2026-02-26,21, Banjara Hills,Desserts,5,530.0,4.7,38,Clear,Card,FIRST100,40.0,3.9
+QB10352,2026-02-27,13,Kukatpally,Biryani,2,648.0,2.1,24,Clear,Card,,40.0,3.8
+QB10353,2026-02-27,19,Gachibowli,Chinese,5,650.0,5.9,33,Clear,Card,HYD20,0.0,3.7
+QB10354,2026-02-27,16,Secunderabad,Fast Food,2,554.0,2.3,22,Clear,COD,HYD20,15.0,4.6
+QB10355,2026-02-28,12,Banjara Hills,Fast Food,2,346.0,4.8,32,Clear,UPI,,25.0,3.3
+QB10356,2026-02-28,20,Ameerpet,South Indian  ,2,476.0,,29,Clear,UPI,SAVE50,40.0,3.7
+QB10357,2026-02-28,19,LB Nagar,Chinese,4,523.0,3.3,29,Clear,UPI,FIRST100,15.0,4.1
+QB10358,2026-02-28,21,GACHIBOWLI,Chinese,3,511.0,3.7,27,Clear,Card,,30.0,
+QB10359,2026-02-28,15,Madhapur,Chinese,1,395.0,1.9,15,Clear,Card,HYD20,20.0,
+QB10360,2026-02-28,17,Ameerpet,Biryani,1,381.0,2.5,21,Clear,COD,FIRST100,15.0,3.5
+QB10361,2026-02-28,14,Kukatpally,Chinese,3,830.0,1.9,26,Clear,UPI,HYD20,0.0,3.5
+QB10362,2026-02-28,19,Madhapur,North Indian,1,338.0,1.3,15,Clear,UPI,,15.0,4.8
+QB10363,2026-02-28,18,Banjara Hills,,1,224.0,1.1,22,Clear,UPI,,15.0,3.6
+QB10364,2026-02-28,12,Banjara Hills,Biryani,2,783.0,7.5,37,Clear,COD,,,3.5
+QB10365,2026-03-01,23,kukatpally,South Indian,4,453.0,0.7,23,Clear,UPI,,0.0,3.3
+QB10366,2026-03-01,21,Gachibowli,South Indian,2,309.0,9.2,59,Rainy,UPI,FIRST100,0.0,2.5
+QB10367,2026-03-01,21,Madhapur,North Indian,2,495.0,,27,Clear,UPI,,0.0,3.3
+QB10368,2026-03-01,19,Banjara Hills,South Indian,3,478.0,9.2,50,Clear,Card,SAVE50,0.0,3.2
+QB10369,2026-03-01,16,LB Nagar,Fast Food,4,684.0,0.6,22,Clear,UPI,,30.0,3.9
+QB10370,2026-03-01,21,Dilsukhnagar,Chinese,4,362.0,0.5,25,Clear,UPI,,0.0,4.1
+QB10371,2026-03-02,23,Kukatpally,Chinese,3,676.0,3.5,26,Clear,UPI,WEEKEND30,15.0,5.0
+QB10372,2026-03-02,21,Gachibowli,Biryani,4,590.0,7.4,53,Clear,UPI,,40.0,3.5
+QB10373,2026-03-02,12,Kukatpally,Fast Food,1,269.0,1.5,13,Clear,Card,,0.0,4.3
+QB10374,2026-03-02,21,Madhapur,South Indian,2,293.0,6.1,41,Clear,COD,WEEKEND30,15.0,3.6
+QB10375,2026-03-02,18,LB Nagar,Biryani  ,2,681.0,5.2,31,Clear,UPI,,0.0,4.3
+QB10376,2026-03-02,10,Madhapur,Biryani,1,260.0,4.6,26,Clear,COD,,20.0,4.1
+QB10377,2026-03-03,14,Madhapur,North Indian,2,500.0,2.3,44,Rainy,UPI,,35.0,2.8
+QB10378,2026-03-03,22,Madhapur,Chinese,6,1643.0,5.7,38,Clear,UPI,,,3.4
+QB10379,2026-03-03,19,Ameerpet,Fast Food,2,630.0,2.6,23,Clear,Card,,0.0,4.6
+QB10380,2026-03-03,21,Kukatpally,Biryani,1,293.0,2.3,26,Clear,Card,,0.0,4.4
+QB10381,2026-03-03,18,Kukatpally,Fast Food,3,399.0,1.2,21,Clear, Card,FIRST100,0.0,4.2
+QB10382,2026-03-04,10,Gachibowli,South Indian,2,218.0,4.2,27,Clear,Card,,,4.2
+QB10383,2026-03-04,20,Gachibowli,Fast Food,2,335.0,12.4,66,Rainy,UPI,,20.0,2.8
+QB10384,2026-03-04,14,Ameerpet,Biryani,3,987.0,4.5,38,Clear,Card,,45.0,2.2
+QB10385,2026-03-04,13,Madhapur,North Indian,1,482.0,4.8,37,Clear,UPI,,0.0,3.8
+QB10386,2026-03-04,20,LB Nagar,Chinese,1,277.0,3.5,28,Clear,Card,,0.0,4.0
+QB10387,2026-03-04,20,Banjara Hills,South Indian,3,323.0,1.8,25,Clear,UPI,HYD20,10.0,3.1
+QB10388,2026-03-04,14,Kukatpally,Fast Food,2,243.0,5.4,37,Clear,UPI,FIRST100,0.0,4.5
+QB10389,2026-03-05,11,Secunderabad,South Indian,3,326.0,4.9,29,Clear,Card,,10.0,
+QB10390,2026-03-05,21,Gachibowli,Desserts,5,544.0,1.2,31,Clear,UPI,,15.0,4.0
+QB10391,2026-03-05,20,Madhapur,Biryani,1,439.0,1.7,19,Clear,Card,,25.0,4.4
+QB10392,2026-03-05,13,Madhapur,Biryani,4,1168.0,4.3,32,Clear,COD,FIRST100,90.0,3.6
+QB10393,2026-03-05,21,Ameerpet,North Indian,3,839.0,3.4,38,Clear,Card,,25.0,3.8
+QB10393,2026-03-05,21,Ameerpet,North Indian,3,839.0,3.4,38,Clear,Card,,25.0,3.8
+QB10394,2026-03-05,16,Madhapur,South Indian,4,620.0,4.2,31,Clear,UPI,,40.0,3.8
+QB10395,2026-03-05,21,Banjara Hills,,1,413.0,5.3,33,Clear,UPI,,0.0,
+QB10396,2026-03-05,22,Secunderabad,Biryani,1,333.0,5.4,27,Clear,Card,SAVE50,15.0,4.4
+QB10397,2026-03-05,13,LB Nagar,North Indian,2,623.0,3.0,32,Clear,UPI,,0.0,4.0
+QB10398,2026-03-05,18,LB Nagar,South Indian,5,426.0,1.2,24,Clear,Card,,0.0,
+QB10399,2026-03-05,21,Kukatpally,Chinese,1,194.0,1.8,40,Rainy,,,,3.7
+QB10400,2026-03-06,23,Secunderabad,Fast Food,1,165.0,1.0,15,Clear,UPI,WEEKEND30,0.0,4.5
+QB10401,2026-03-06,20,Dilsukhnagar,Desserts,1,170.0,1.0,20,Clear,Card,,0.0,3.5
+QB10402,2026-03-06,20,Gachibowli, Biryani,2,710.0,6.9,40,Clear,UPI,WEEKEND30,50.0,3.2
+QB10403,2026-03-06,23,Ameerpet,Biryani,1,481.0,,30,Clear,UPI,,0.0,
+QB10404,2026-03-06,13,Gachibowli,Fast Food,3,302.0,3.4,28,Clear,UPI,,0.0,
+QB10405,2026-03-06,20,Madhapur,Chinese,2,435.0,4.0,39,Clear,UPI,,0.0,4.4
+QB10406,2026-03-06,20,Secunderabad,North Indian,2,638.0,2.8,30,Clear,UPI,SAVE50,15.0,3.8
+QB10407,2026-03-06,16,Dilsukhnagar,Chinese,1,358.0,1.9,12,Clear,UPI,WEEKEND30,25.0,4.1
+QB10408,2026-03-07,20,Kukatpally  ,South Indian,1,202.0,14.0,68,Clear,Card,,0.0,
+QB10409,2026-03-07,18,Ameerpet,North Indian,2,438.0,7.1,35,Clear,UPI,SAVE50,15.0,3.4
+QB10410,2026-03-07,12,Gachibowli,North Indian,1,299.0,7.1,32,Clear,UPI,HYD20,0.0,3.8
+QB10411,2026-03-07,16,Ameerpet,North Indian,2,546.0,5.3,29,Clear,COD,,40.0,3.1
+QB10412,2026-03-07,10,Kukatpally,South Indian,2,438.0,2.7,20,Clear,UPI,,15.0,4.5
+QB10413,2026-03-07,20,Madhapur,South Indian,3,623.0,5.8,42,Clear,UPI,,50.0,3.0
+QB10414,2026-03-07,22,Banjara Hills  ,Chinese,3,391.0,4.2,28,Clear,UPI,,0.0,3.8
+QB10415,2026-03-07,13,LB Nagar,North Indian,3,730.0,4.0,32,Clear,COD,,20.0,
+QB10416,2026-03-08,22,Kukatpally,Fast Food,3,757.0,7.5,51,Clear,UPI,,20.0,
+QB10417,2026-03-08,14,Gachibowli,Biryani,3,478.0,1.9,28,Clear,UPI,,,3.5
+QB10417,2026-03-08,14,Gachibowli,Biryani,3,478.0,1.9,28,Clear,UPI,,,3.5
+QB10418,2026-03-08,11,Madhapur,North Indian,1,390.0,3.5,26,Clear,UPI,,10.0,
+QB10419,2026-03-08,15,Ameerpet,Biryani,1,635.0,7.9,34,Clear,COD,SAVE50,0.0,3.4
+QB10420,2026-03-08,18,Secunderabad,South Indian,3,535.0,1.8,22,Clear,Card,,0.0,
+QB10421,2026-03-08,21,Gachibowli,South Indian,1,318.0,6.5,42,Clear,COD,,0.0,3.3
+QB10422,2026-03-08,19,LB Nagar,Desserts,1,186.0,4.8,24,Clear,Card,,10.0,4.3
+QB10423,2026-03-08,12,Dilsukhnagar, South Indian,1,232.0,2.0,20,Clear,Card,,0.0,3.6
+QB10424,2026-03-08,13,LB Nagar,Biryani,3,1184.0,3.3,30,Clear,UPI,,0.0,3.2
+QB10425,2026-03-08,21,LB Nagar,South Indian,2,333.0,1.9,19,Clear,UPI,,10.0,4.6
+QB10426,2026-03-09,19,Dilsukhnagar  ,Biryani,1,547.0,3.8,27,Clear,UPI,,0.0,3.7
+QB10427,2026-03-09,20,Gachibowli,Chinese,2,662.0,0.7,19,Clear,Card,,15.0,5.0
+QB10427,2026-03-09,20,Gachibowli,Chinese,2,662.0,0.7,19,Clear,Card,,15.0,5.0
+QB10428,2026-03-09,13,Dilsukhnagar,Fast Food,2,328.0,1.5,22,Clear,UPI,,0.0,4.0
+QB10429,2026-03-09,19,Gachibowli,North Indian,2,628.0,4.6,37,Clear,card,,45.0,3.2
+QB10430,2026-03-09,15,AMEERPET,Fast Food,3,646.0,1.9,27,Clear,UPI,HYD20,0.0,3.6
+QB10431,2026-03-09,11,Kukatpally,Biryani,2,718.0,1.0,27,Rainy,Card,WEEKEND30,0.0,4.2
+QB10432,2026-03-09,16,Madhapur,South Indian,1,251.0,3.0,23,Clear,Card,,15.0,3.7
+QB10433,2026-03-09,20,Kukatpally,Biryani,2,774.0,2.2,34,Rainy,Card,,0.0,2.9
+QB10434,2026-03-10,19,MADHAPUR,Fast Food,2,529.0,6.3,29,Clear,UPI,,10.0,3.3
+QB10435,2026-03-10,14,LB Nagar,Biryani,4,1147.0,1.9,27,Clear,UPI,,0.0,4.6
+QB10436,2026-03-10,18,Gachibowli,Biryani,1,477.0,5.2,34,Clear,UPI,,0.0,
+QB10437,2026-03-10,15,Madhapur,South Indian,2,273.0,10.6,47,Clear,COD,,5.0,3.1
+QB10438,2026-03-10,18,Kukatpally,Fast Food,1,273.0,3.9,22,Clear,UPI,,0.0,
+QB10439,2026-03-10,21,Secunderabad,Biryani,5,1457.0,6.2,57,Rainy,Card,FIRST100,0.0,2.3
+QB10440,2026-03-11,20,LB Nagar,South Indian,1,221.0,3.3,23,Clear,UPI,,0.0,4.3
+QB10441,2026-03-11,18,Kukatpally,South Indian,4,506.0,2.6,26,Clear,UPI,SAVE50,0.0,4.3
+QB10442,2026-03-11,13,Kukatpally,Biryani,3,890.0,0.5,18,Clear,UPI,WEEKEND30,0.0,4.6
+QB10443,2026-03-11,13,Madhapur,Biryani,4,648.0,2.1,31,Clear,COD,,45.0,3.8
+QB10444,2026-03-11,21,LB Nagar,South Indian,2,255.0,4.2,29,Clear,UPI,,0.0,3.9
+QB10445,2026-03-11,14,Madhapur,Desserts,2,268.0,3.1,30,Clear, UPI,,15.0,4.1
+QB10446,2026-03-11,20,Madhapur,Fast Food,4,876.0,7.4,46,Clear,COD,,0.0,3.3
+QB10447,2026-03-11,13, madhapur ,Chinese,2,474.0,3.7,29,Clear,UPI,WEEKEND30,10.0,3.2
+QB10448,2026-03-12,13,Dilsukhnagar,Fast Food,1,376.0,8.9,42,Clear,UPI,,0.0,3.4
+QB10449,2026-03-12,21,Gachibowli,Chinese,3,700.0,4.4,50,Rainy,Card,,0.0,
+QB10450,2026-03-12,20,Banjara Hills,South Indian,2,319.0,2.6,20,Clear,UPI,,20.0,
+QB10451,2026-03-12,13, Secunderabad,Fast Food,2,406.0,3.7,30,Clear,UPI,,30.0,4.4
+QB10452,2026-03-12,22,Secunderabad,Fast Food,2,381.0,3.9,33,Rainy,UPI,,30.0,3.8
+QB10453,2026-03-12,21,Madhapur,Chinese,2,485.0,6.6,52,Rainy,COD,,10.0,3.5
+QB10454,2026-03-12,19,Dilsukhnagar,Biryani,3,747.0,6.7,40,Clear,UPI,,0.0,3.0
+QB10455,2026-03-12,16,LB Nagar,Chinese,5,739.0,0.9,20,Clear,UPI,,0.0,3.8
+QB10456,2026-03-12,13,Banjara Hills,Biryani,4,1292.0,2.4,28,Clear,UPI,,0.0,4.3
+QB10457,2026-03-12,15,Gachibowli,Desserts,2,241.0,0.5,10,Clear,Card,,5.0,5.0
+QB10458,2026-03-13,20,Madhapur,South Indian,3,327.0,4.3,32,Clear,COD,,0.0,3.9
+QB10459,2026-03-13,13,Ameerpet,Chinese,2,393.0,5.0,39,Clear,UPI,,0.0,3.6
+QB10460,2026-03-13,21,Gachibowli,Biryani,2,649.0,3.5,31,Clear,UPI,,0.0,
+QB10461,2026-03-13,23,Madhapur,South Indian,1,240.0,2.7,25,Clear,Card,,,4.5
+QB10462,2026-03-14,21,Madhapur,Desserts,5,450.0,0.5,24,Clear,UPI,,20.0,3.7
+QB10463,2026-03-14,12, Kukatpally,Fast Food,2,269.0,6.0,35,Clear,Card,,0.0,3.5
+QB10464,2026-03-14,14,Dilsukhnagar,Chinese,2,538.0,2.2,33,Clear,UPI,,25.0,3.3
+QB10465,2026-03-14,12,Madhapur,Desserts,5,372.0,7.0,36,Clear,UPI,,0.0,
+QB10466,2026-03-14,20,Gachibowli,South Indian,2,350.0,5.2,44,Clear,UPI,,15.0,3.2
+QB10467,2026-03-14,14,Gachibowli,North Indian,3,418.0,2.3,32,Clear,UPI,,25.0,
+QB10468,2026-03-15,14,Secunderabad,Chinese,4,985.0,15.6,72,Clear,Card,FIRST100,0.0,2.1
+QB10469,2026-03-15,11,Gachibowli,Chinese,1,387.0,5.9,35,Clear,UPI,SAVE50,30.0,3.8
+QB10470,2026-03-15,20,MADHAPUR,Biryani,3,700.0,1.3,26,Clear,UPI,,15.0,
+QB10471,2026-03-15,20,Banjara Hills,Biryani,5,980.0,1.1,32,Clear,UPI,,25.0,3.7
+QB10472,2026-03-15,19,Dilsukhnagar,Biryani,1,375.0,2.6,28,Clear,UPI,,20.0,3.9
+QB10472,2026-03-15,19,Dilsukhnagar,Biryani,1,375.0,2.6,28,Clear,UPI,,20.0,3.9
+QB10473,2026-03-15,12,Madhapur  ,South Indian,2,364.0,9.5,44,Clear,COD,SAVE50,25.0,3.4
+QB10474,2026-03-15,20,Gachibowli,Biryani,1,408.0,1.7,23,Clear,UPI,,30.0,5.0
+QB10475,2026-03-16,22,LB Nagar,North Indian,2,775.0,3.6,26,Clear,Card,WEEKEND30,0.0,
+QB10476,2026-03-16,22,Gachibowli,Fast Food,2,331.0,2.0,14,Clear,Card,,0.0,4.3
+QB10477,2026-03-16,23,Secunderabad,South Indian,1,274.0,2.7,27,Clear,COD,,15.0,3.7
+QB10478,2026-03-16,22,Ameerpet,North Indian,2,772.0,4.6,32,Clear,UPI,,30.0,3.5
+QB10479,2026-03-16,20,Secunderabad,Fast Food,2,328.0,1.5,20,Clear,UPI,,0.0,4.7
+QB10480,2026-03-16,13,Gachibowli,Chinese,2,554.0,1.8,19,Clear,UPI,FIRST100,25.0,4.4
+QB10481,2026-03-16,23,Kukatpally,Fast Food,1,206.0,3.5,27,Clear,UPI,,10.0,3.3
+QB10482,2026-03-16,13,Madhapur,Fast Food,1,156.0,3.8,30,Clear, UPI,WEEKEND30,5.0,4.2
+QB10483,2026-03-17,16,DILSUKHNAGAR,Biryani,1,454.0,7.9,41,Clear,Card,,25.0,2.6
+QB10484,2026-03-17,22,LB Nagar,Chinese,3,647.0,5.4,25,Clear,UPI,,,4.9
+QB10485,2026-03-17,23,Kukatpally,Desserts,5,534.0,2.9,26,Clear,Card,SAVE50,10.0,3.8
+QB10486,2026-03-17,14,Kukatpally,North Indian,3,524.0,4.8,37,Clear,UPI,,15.0,
+QB10487,2026-03-18,22,Secunderabad,Biryani,4,979.0,2.2,22,Clear,UPI,,0.0,3.5
+QB10488,2026-03-18,13,Dilsukhnagar,Chinese,1,238.0,2.3,29,Clear,UPI,,15.0,4.5
+QB10489,2026-03-18,14,Secunderabad,South Indian,3,348.0,1.6,24,Clear,UPI,,0.0,5.0
+QB10490,2026-03-18,12,Madhapur,Biryani,6,1720.0,2.6,30,Clear,Card,,,3.8
+QB10491,2026-03-18,20,Banjara Hills,North Indian,5,699.0,7.1,38,Clear,Card,,15.0,3.5
+QB10492,2026-03-18,12,Banjara Hills,Biryani,1,506.0,0.7,20,Rainy,Card,,15.0,4.5
+QB10493,2026-03-18,19,Dilsukhnagar,North Indian,1,277.0,3.1,25,Clear,UPI,,0.0,3.6
+QB10494,2026-03-18,18,Madhapur  ,South Indian,2,338.0,6.0,32,Clear,UPI,WEEKEND30,20.0,3.9
+QB10495,2026-03-18,14,Ameerpet,South Indian,1,173.0,3.8,28,Clear,UPI,,,
+QB10496,2026-03-18,21,KUKATPALLY,Biryani,6,943.0,1.5,34,Clear,Card,,30.0,3.7
+QB10497,2026-03-18,20,LB Nagar,South Indian,1,142.0,3.5,37,Clear,UPI,,5.0,3.8
+QB10498,2026-03-18,15,Ameerpet,Desserts,2,275.0,6.6,38,Clear,UPI,SAVE50,0.0,3.1
+QB10499,2026-03-18,13,Kukatpally,North Indian,6,750.0,4.3,38,Clear,UPI,,30.0,2.7
+QB10500,2026-03-19,21,Kukatpally,Fast Food,5,705.0,1.3,33,Clear,UPI,,20.0,3.1
+QB10501,2026-03-19,20,Gachibowli,Fast Food,2,346.0,0.9,24,Clear,COD,,0.0,4.4
+QB10502,2026-03-19,23,LB Nagar,North Indian,2,325.0,3.8,21,Clear,UPI,,15.0,
+QB10503,2026-03-19,13,Dilsukhnagar,Biryani,2,535.0,5.9,38,Clear,UPI,,15.0,3.7
+QB10504,2026-03-19,23,Dilsukhnagar,North Indian,1,294.0,4.2,30,Clear,UPI,,25.0,3.4
+QB10505,2026-03-19,23,Dilsukhnagar,South Indian,1,242.0,7.2,36,Clear,UPI,FIRST100,,3.3
+QB10506,2026-03-19,22,Madhapur,Fast Food,3,486.0,5.4,30,Clear,UPI,WEEKEND30,0.0,4.0
+QB10507,2026-03-19,17,Dilsukhnagar,Chinese,1,484.0,9.2,45,Clear,UPI,,,3.3
+QB10508,2026-03-19,21,Gachibowli,Biryani,1,453.0,4.6,37,Clear,Card,,30.0,3.4
+QB10509,2026-03-19,19,Madhapur,South Indian,5,586.0,5.4,39,Clear,UPI,,45.0,3.6
+QB10510,2026-03-20,21,Kukatpally,Biryani,1,469.0,1.5,26,Clear,COD,,30.0,4.2
+QB10511,2026-03-21,14,Ameerpet,North Indian,3,736.0,1.2,25,Clear,UPI,,15.0,3.6
+QB10512,2026-03-21,21,Ameerpet,South Indian,1,209.0,5.0,40,Clear,COD,,5.0,3.7
+QB10513,2026-03-21,13,LB Nagar,Fast Food,3,538.0,1.6,32,Clear,UPI,,0.0,3.6
+QB10514,2026-03-21,14,Kukatpally,Biryani,1,446.0,18.0,74,Clear,UPI,,0.0,1.9
+QB10515,2026-03-21,18,Secunderabad,South Indian,2,348.0,5.5,27,Clear,UPI,HYD20,10.0,3.8
+QB10516,2026-03-21,13,Gachibowli,Biryani,2,435.0,8.0,53,Rainy,UPI,,15.0,3.1
+QB10517,2026-03-21,14,Secunderabad,Biryani,4,907.0,4.1,36,Clear,UPI,,50.0,3.0
+QB10518,2026-03-21,20,Dilsukhnagar,Biryani,1,521.0,1.5,22,Clear,UPI,FIRST100,0.0,3.9
+QB10519,2026-03-21,20,Kukatpally,Biryani,3,879.0,8.3,50,Clear,COD,,0.0,2.6
+QB10520,2026-03-21,21,Kukatpally, Biryani,3,897.0,5.1,36,Clear,Card,,70.0,3.5
+QB10521,2026-03-21,22,Kukatpally,Chinese,3,726.0,3.6,25,Clear,Card,,0.0,3.5
+QB10522,2026-03-21,14,Ameerpet,South Indian,5,626.0,2.6,30,Clear,UPI,,0.0,4.4
+QB10523,2026-03-21,21,Banjara Hills,Biryani,3,972.0,2.2,29,Clear,UPI,,25.0,4.2
+QB10524,2026-03-21,13,Gachibowli,biryani,2,477.0,2.1,26,Clear,UPI,HYD20,10.0,4.3
+QB10525,2026-03-21,20,Gachibowli,Biryani,1,504.0,2.3,20,Clear,COD,,40.0,4.4
+QB10526,2026-03-21,10,Secunderabad,North Indian,2,561.0,0.9,23,Clear,Card,FIRST100,20.0,5.0
+QB10527,2026-03-21,11,Kukatpally,Biryani,5,1023.0,5.4,41,Rainy,UPI,,0.0,3.6
+QB10528,2026-03-22,21,Dilsukhnagar,Fast Food,4,602.0,4.1,36,Clear,COD,,35.0,3.2
+QB10529,2026-03-22,20,lb nagar,South Indian,2,328.0,8.1,55,Rainy,COD,,0.0,2.5
+QB10530,2026-03-22,14,Ameerpet,North Indian,3,506.0,6.2,44,Clear,UPI,,0.0,2.4
+QB10531,2026-03-22,21,Banjara Hills,North Indian,4,671.0,4.5,33,Clear,UPI,,0.0,
+QB10532,2026-03-22,15,Madhapur,Fast Food,4,720.0,5.0,32,Clear,UPI,,25.0,4.1
+QB10533,2026-03-22,19,Dilsukhnagar,Chinese,1,279.0,6.0,40,Clear,COD,WEEKEND30,15.0,4.0
+QB10534,2026-03-22,21,Dilsukhnagar,South Indian,1,274.0,5.4,43,Rainy,COD,,0.0,2.6
+QB10535,2026-03-22,13,Ameerpet,Biryani,3,907.0,7.5,39,Clear,Card,,0.0,4.1
+QB10536,2026-03-22,16,Madhapur,Biryani,5,1240.0,2.2,29,Clear,Card,,85.0,3.5
+QB10537,2026-03-23,15,Gachibowli,Chinese,1,355.0,3.9,34,Rainy,UPI,,0.0,3.5
+QB10538,2026-03-23,20,Ameerpet,Fast Food,2,519.0,4.1,36,Clear,UPI,WEEKEND30,30.0,
+QB10539,2026-03-23,13,Madhapur,Biryani,5,1240.0,2.4,35,Clear,Card,,0.0,3.8
+QB10540,2026-03-23,20,Ameerpet,Fast Food,2,494.0,2.9,28,Clear,UPI,,0.0,4.9
+QB10541,2026-03-23,21,Ameerpet,South Indian,1,280.0,2.8,23,Clear,UPI,FIRST100,5.0,4.8
+QB10542,2026-03-23,14,LB Nagar,Desserts,2,245.0,1.8,34,Clear,UPI,,10.0,4.5
+QB10543,2026-03-23,16,LB Nagar,Fast Food,1,247.0,4.9,33,Clear,Card,,0.0,3.7
+QB10544,2026-03-23,11,Ameerpet,Biryani,4,917.0,3.4,26,Clear,UPI,,0.0,4.5
+QB10545,2026-03-23,19,Banjara Hills,North Indian,2,612.0,5.7,34,Clear,COD,SAVE50,30.0,3.5
+QB10546,2026-03-23,19,Dilsukhnagar,Fast Food,3,368.0,7.5,43,Clear,COD,,10.0,2.5
+QB10547,2026-03-23,20,Ameerpet,South Indian,1,149.0,3.6,33,Clear,UPI  ,,5.0,3.8
+QB10548,2026-03-24,19,Kukatpally,Chinese,3,600.0,7.4,42,Clear,UPI,HYD20,0.0,3.4
+QB10548,2026-03-24,19,Kukatpally,Chinese,3,600.0,7.4,42,Clear,UPI,HYD20,0.0,3.4
+QB10549,2026-03-24,22,Secunderabad,Fast Food,2,258.0,2.6,26,Clear,COD,WEEKEND30,0.0,2.6
+QB10550,2026-03-24,21, madhapur ,Chinese,3,517.0,1.2,27,Clear,UPI,,30.0,
+QB10551,2026-03-24,12,Gachibowli,North Indian,2,574.0,3.7,27,Clear,UPI,,35.0,4.2
+QB10552,2026-03-24,20,Dilsukhnagar,Biryani,4,1014.0,2.3,33,Clear,COD,FIRST100,65.0,2.7
+QB10553,2026-03-24,20,Secunderabad,Fast Food,3,677.0,5.9,50,Rainy,UPI,,35.0,2.9
+QB10554,2026-03-25,18,Madhapur,Biryani,1,319.0,2.0,18,Clear,COD,,0.0,4.2
+QB10555,2026-03-25,14,LB Nagar,South Indian,3,264.0,3.3,33,Clear,UPI,,0.0,4.1
+QB10556,2026-03-25,13,Secunderabad,North Indian,2,636.0,2.3,28,Clear,UPI,,30.0,2.9
+QB10557,2026-03-25,21,Gachibowli,South Indian,1,157.0,2.2,23,Clear,UPI,,5.0,4.5
+QB10558,2026-03-25,10,Secunderabad,Fast Food,3,533.0,2.8,27,Clear,UPI,HYD20,0.0,4.0
+QB10559,2026-03-25,19,Madhapur,South Indian,2,202.0,6.7,35,Clear,UPI,,,4.0
+QB10560,2026-03-25,23,Secunderabad  ,Biryani,2,460.0,4.0,33,Rainy,card,,0.0,4.0
+QB10561,2026-03-25,20,Gachibowli,Fast Food,1,309.0,1.9,20,Clear,COD,,20.0,
+QB10562,2026-03-25,13,Gachibowli,North Indian,4,577.0,8.1,49,Clear,UPI,WEEKEND30,25.0,2.0
+QB10563,2026-03-26,21,Kukatpally  ,Biryani,1,408.0,2.4,21,Clear,Card,HYD20,0.0,3.1
+QB10564,2026-03-26,20,Ameerpet,Biryani,1,459.0,3.8,30,Clear,UPI,,0.0,4.0
+QB10565,2026-03-26,21,Ameerpet,South Indian,2,223.0,3.8,32,Clear,UPI,,0.0,2.7
+QB10566,2026-03-26,14,Kukatpally,South Indian,1,240.0,2.2,26,Clear,UPI,,0.0,4.3
+QB10567,2026-03-26,22,Secunderabad,Fast Food,3,604.0,0.5,15,Clear,COD,,0.0,
+QB10568,2026-03-27,20,Kukatpally,Fast Food,2,350.0,5.2,36,Rainy,UPI,,0.0,3.5
+QB10569,2026-03-27,14,Kukatpally,Chinese,2,453.0,1.2,20,Clear,COD,,0.0,5.0
+QB10570,2026-03-27,15,Dilsukhnagar,Desserts,1,239.0,12.8,48,Clear,UPI,,0.0,3.0
+QB10571,2026-03-27,13,Dilsukhnagar,South Indian,4,346.0,7.7,51,Clear,Card,,15.0,4.2
+QB10572,2026-03-27,10,LB Nagar,Chinese,4,883.0,11.8,59,Clear,COD,SAVE50,55.0,2.6
+QB10573,2026-03-27,12,Madhapur,Biryani,1,416.0,1.7,25,Clear,UPI,,0.0,3.3
+QB10574,2026-03-27,13, LB Nagar,Biryani,5,1249.0,9.0,49,Clear,COD,,0.0,
+QB10575,2026-03-27,22,Gachibowli,Biryani,4,905.0,4.6,34,Rainy,UPI,,20.0,2.7
+QB10576,2026-03-27,20,MADHAPUR,Biryani,1,318.0,2.1,26,Clear,UPI,,10.0,3.7
+QB10577,2026-03-28,18,Dilsukhnagar,Biryani,4,1032.0,3.1,23,Clear,,FIRST100,0.0,5.0
+QB10578,2026-03-28,19,Gachibowli,Desserts,3,357.0,1.3,21,Clear,UPI,FIRST100,15.0,3.5
+QB10579,2026-03-28,23,Dilsukhnagar,Biryani,2,510.0,1.7,29,Clear,COD,FIRST100,20.0,3.9
+QB10580,2026-03-28,17,Kukatpally,Fast Food,2,245.0,3.6,23,Clear,COD,,,4.0
+QB10581,2026-03-28,17,LB Nagar,Fast Food,3,495.0,8.7,47,Clear,Card,FIRST100,0.0,3.4
+QB10582,2026-03-28,13,Secunderabad,Chinese,1,367.0,7.2,39,Clear,Card,,0.0,3.1
+QB10583,2026-03-28,13,Kukatpally,Chinese,2,315.0,4.7,39,Clear,UPI,,15.0,3.5
+QB10584,2026-03-28,11,Dilsukhnagar,North Indian,2,399.0,10.6,47,Clear,COD,,15.0,3.3
+QB10585,2026-03-28,19,Madhapur,Biryani,1,236.0,3.2,24,Clear,UPI,,0.0,3.7
+QB10586,2026-03-28,19,Ameerpet,Biryani,4,991.0,3.2,30,Clear,COD,,50.0,4.0
+QB10587,2026-03-29,19,Secunderabad,Biryani,1,439.0,2.2,25,Clear,UPI,SAVE50,0.0,
+QB10588,2026-03-29,21,Ameerpet,Biryani,1,366.0,5.0,34,Clear,UPI,,25.0,3.7
+QB10589,2026-03-29,13,Kukatpally,Chinese,4,877.0,6.9,51,Clear,UPI,,0.0,2.8
+QB10590,2026-03-29,19,Gachibowli,South Indian,1,367.0,0.6,12,Clear,Card,,0.0,5.0
+QB10591,2026-03-29,23,Kukatpally,Fast Food,4,493.0,0.9,23,Clear,COD,,20.0,
+QB10592,2026-03-29,20,SECUNDERABAD,Fast Food,2,284.0,5.9,31,Clear,UPI,,,3.8
+QB10593,2026-03-29,21,Dilsukhnagar,South Indian,2,413.0,3.2,26,Clear,UPI,,35.0,3.7
+QB10594,2026-03-30,19,Madhapur,North Indian,2,329.0,0.8,11,Clear,UPI,,15.0,4.7
+QB10595,2026-03-30,12,Gachibowli,Fast Food,4,326.0,8.2,36,Clear,UPI,FIRST100,0.0,
+QB10596,2026-03-30,23,Kukatpally,North Indian,5,1224.0,4.4,32,Clear,UPI,FIRST100,45.0,3.1
+QB10596,2026-03-30,23,Kukatpally,North Indian,5,1224.0,4.4,32,Clear,UPI,FIRST100,45.0,3.1
+QB10597,2026-03-30,15,Kukatpally,Desserts,3,311.0,4.2,37,Rainy,UPI,,20.0,3.2
+QB10598,2026-03-30,13,LB Nagar,Biryani,4,667.0,6.5,47,Rainy,Card,,40.0,3.1
+QB10599,2026-03-30,19,Secunderabad,Chinese,5,773.0,3.6,40,Rainy,UPI,SAVE50,0.0,
+QB10600,2026-03-30,12,Gachibowli,South Indian,4,474.0,3.3,21,Clear, upi ,HYD20,0.0,4.5
+QB10601,2026-03-30,16,Dilsukhnagar,Biryani,3,712.0,4.8,36,Clear,Card,,45.0,3.6
+QB10602,2026-03-30,19,Gachibowli,North Indian,1,420.0,2.8,18,Clear,COD,,20.0,4.3
+QB10603,2026-03-30,10,Kukatpally,Biryani,1,367.0,3.7,24,Clear,UPI,,25.0,3.9
+QB10604,2026-03-30,22,Ameerpet,Biryani,2,375.0,1.9,23,Clear,Card,,30.0,4.4
+QB10605,2026-03-30,14,Kukatpally,North Indian,1,255.0,4.9,33,Clear,UPI,,5.0,3.2
+QB10606,2026-03-31,19,Ameerpet,Desserts,2,327.0,6.8,39,Rainy,COD,FIRST100,20.0,3.5
+QB10607,2026-03-31,20,Ameerpet,North Indian,1,321.0,5.5,32,Clear,UPI,,0.0,4.0
+QB10607,2026-03-31,20,Ameerpet,North Indian,1,321.0,5.5,32,Clear,UPI,,0.0,4.0
+QB10608,2026-04-01,17,Madhapur,Fast Food,2,312.0,3.2,23,Clear,UPI,,0.0,3.7
+QB10609,2026-04-01,22,Gachibowli,Chinese,1,178.0,3.1,26,Clear,UPI,,10.0,3.8
+QB10610,2026-04-01,21,Ameerpet,South Indian,2,215.0,5.2,36,Clear,COD,WEEKEND30,5.0,4.7
+QB10611,2026-04-01,20,Ameerpet,Biryani,2,595.0,3.7,29,Clear,UPI,,0.0,4.6
+QB10612,2026-04-01,20,LB Nagar,Biryani,2,501.0,3.8,24,Clear,UPI,,0.0,4.5
+QB10613,2026-04-01,21,Madhapur,Biryani,1,427.0,5.1,40,Rainy,UPI,,10.0,4.1
+QB10614,2026-04-01,12,LB Nagar,Biryani,5,1205.0,4.8,37,Clear,UPI,,30.0,3.5
+QB10615,2026-04-02,22,Madhapur,fast food,2,320.0,,31,Clear,UPI,,15.0,4.5
+QB10616,2026-04-02,15,Secunderabad,Biryani,1,784.0,9.6,46,Clear,UPI,WEEKEND30,0.0,3.0
+QB10617,2026-04-02,11,Kukatpally,South Indian,2,274.0,1.2,20,Clear,UPI,,20.0,4.6
+QB10618,2026-04-02,16,LB NAGAR,Desserts,1,213.0,2.6,22,Clear,UPI,,0.0,4.1
+QB10619,2026-04-02,15,Gachibowli,Fast Food,3,509.0,5.9,30,Clear,UPI,,0.0,3.3
+QB10620,2026-04-02,23,Madhapur,Biryani,1,655.0,3.6,26,Clear,COD,,15.0,4.0
+QB10621,2026-04-02,14,Ameerpet,North Indian,5,906.0,3.1,34,Clear,UPI,,30.0,4.0
+QB10622,2026-04-02,15,Secunderabad,Fast Food,1,223.0,11.1,46,Clear,UPI,HYD20,0.0,2.9
+QB10623,2026-04-02,21,Banjara Hills,Biryani,2,507.0,1.1,27,Clear,UPI,HYD20,0.0,4.2
+QB10624,2026-04-02,21,Banjara Hills,Biryani,2,648.0,2.4,32,Rainy,UPI,,35.0,2.5
+QB10625,2026-04-02,18,Dilsukhnagar,North Indian,2,615.0,1.9,27,Clear,UPI,WEEKEND30,15.0,3.7
+QB10626,2026-04-03,22,LB Nagar,North Indian,5,816.0,4.9,29,Clear,UPI,,40.0,3.8
+QB10627,2026-04-03,10, Madhapur,Fast Food,1,275.0,4.5,29,Clear,UPI,HYD20,15.0,3.3
+QB10628,2026-04-03,21,Kukatpally,South Indian,4,323.0,4.0,41,Clear,COD,,10.0,3.9
+QB10629,2026-04-03,12,Madhapur,Biryani,2,863.0,4.2,26,Clear, Card,FIRST100,20.0,
+QB10630,2026-04-04,13,Dilsukhnagar,Desserts,3,430.0,2.3,30,Clear,UPI,,30.0,4.1
+QB10631,2026-04-04,23,Kukatpally,Biryani,1,512.0,6.1,37,Rainy,Card,,30.0,3.1
+QB10632,2026-04-04,23,Ameerpet,North Indian,3,663.0,5.0,32,Clear,COD,,,5.0
+QB10633,2026-04-04,20,Gachibowli,Fast Food,3,399.0,7.1,44,Clear,UPI,,10.0,
+QB10634,2026-04-04,18,Banjara Hills,Chinese,2,540.0,2.2,27,Clear,UPI,,20.0,4.0
+QB10635,2026-04-04,22,Kukatpally,Chinese,5,736.0,4.0,24,Clear,UPI,WEEKEND30,35.0,4.4
+QB10636,2026-04-04,17,Madhapur,Biryani,3,521.0,1.6,15,Clear,COD,,30.0,4.4
+QB10637,2026-04-05,19,Madhapur,Biryani,4,1045.0,6.0,29,Clear,UPI,,35.0,4.2
+QB10638,2026-04-05,12,Ameerpet,Biryani,1,438.0,2.0,10,Clear,UPI,,0.0,5.0
+QB10639,2026-04-05,19,Dilsukhnagar,North Indian,3,972.0,3.2,24,Clear,UPI,FIRST100,0.0,4.0
+QB10639,2026-04-05,19,Dilsukhnagar,North Indian,3,972.0,3.2,24,Clear,UPI,FIRST100,0.0,4.0
+QB10640,2026-04-05,13,Secunderabad,Biryani,3,618.0,0.9,36,Rainy,COD,,40.0,
+QB10641,2026-04-05,15,Gachibowli,South Indian,2,387.0,10.0,44,Clear,COD,,0.0,3.0
+QB10642,2026-04-05,14,Madhapur,Chinese,1,291.0,1.0,23,Clear,Card,,20.0,
+QB10643,2026-04-05,21,Kukatpally,Fast Food,1,262.0,1.5,19,Clear,UPI,,0.0,4.8
+QB10644,2026-04-05,20,Madhapur,Chinese,5,986.0,4.4,39,Clear,COD,,75.0,3.3
+QB10644,2026-04-05,20,Madhapur,Chinese,5,986.0,4.4,39,Clear,COD,,75.0,3.3
+QB10645,2026-04-05,21,Dilsukhnagar,Chinese,1,351.0,8.7,46,Clear, cod ,,20.0,3.3
+QB10646,2026-04-05,22,Banjara Hills,Fast Food,1,214.0,6.8,36,Clear,Card,HYD20,0.0,4.1
+QB10647,2026-04-05,12,Kukatpally,South Indian,1,271.0,2.1,21,Clear,COD,FIRST100,15.0,5.0
+QB10648,2026-04-05,23,Madhapur,North Indian,2,404.0,2.7,22,Clear,,,30.0,4.8
+QB10649,2026-04-05,22,LB Nagar,Biryani,1,585.0,5.7,26,Clear,Card,,20.0,4.1
+QB10650,2026-04-05,15,LB Nagar,Biryani,1,256.0,0.8,10,Clear,UPI,HYD20,10.0,5.0
+QB10651,2026-04-06,19,Kukatpally,Desserts,1,231.0,8.7,40,Clear,COD,,0.0,3.4
+QB10652,2026-04-06,12,Secunderabad,South Indian,2,258.0,4.2,21,Clear,UPI,SAVE50,10.0,3.7
+QB10653,2026-04-06,13,Gachibowli,South Indian,4,429.0,5.0,36,Clear,Card,,30.0,3.3
+QB10654,2026-04-06,15,Secunderabad,Biryani,5,703.0,10.7,58,Clear,UPI,,0.0,3.2
+QB10655,2026-04-06,19,Madhapur,South Indian,1,211.0,3.9,31,Clear,,,10.0,3.8
+QB10656,2026-04-06,12,Dilsukhnagar,Fast Food,2,383.0,3.3,26,Clear,UPI,,15.0,3.9
+QB10657,2026-04-06,23,Gachibowli,Desserts,3,386.0,0.5,15,Clear,Card,,0.0,4.5
+QB10658,2026-04-07,22,Ameerpet,Chinese,1,444.0,6.2,27,Clear,UPI,SAVE50,10.0,4.0
+QB10659,2026-04-07,16,Dilsukhnagar,Biryani,4,889.0,2.4,26,Clear,UPI,,55.0,3.4
+QB10660,2026-04-07,21,Banjara Hills,Desserts,5,473.0,0.7,22,Clear,UPI,,15.0,4.6
+QB10661,2026-04-07,19,Kukatpally,North Indian,2,585.0,3.8,27,Clear,UPI,,0.0,3.9
+QB10662,2026-04-07,14,Ameerpet,Biryani,5,1180.0,5.1,40,Clear,UPI,,0.0,3.0
+QB10663,2026-04-07,19,Gachibowli,North Indian,2,751.0,16.0,67,Clear,COD,,25.0,1.7
+QB10664,2026-04-07,13,Kukatpally,South Indian,2,326.0,1.3,20,Clear,Card,SAVE50,0.0,4.4
+QB10665,2026-04-07,20,Ameerpet,Biryani,1,345.0,9.3,46,Clear,UPI,,10.0,3.1
+QB10666,2026-04-08,21, Kukatpally,Biryani,3,877.0,2.5,26,Clear,UPI,,0.0,4.0
+QB10667,2026-04-08,11,Ameerpet,Chinese,2,305.0,8.5,47,Clear,UPI,,0.0,4.0
+QB10668,2026-04-08,12,LB Nagar,Chinese,2,350.0,6.0,35,Clear,UPI,,15.0,4.0
+QB10669,2026-04-08,14,Madhapur,Desserts,3,305.0,1.0,27,Clear,Card,,20.0,2.8
+QB10670,2026-04-08,13, Kukatpally,South Indian,3,388.0,3.2,34,Clear,UPI,,0.0,3.7
+QB10671,2026-04-08,12,MADHAPUR,South Indian,4,669.0,4.7,32,Clear,COD,,55.0,3.4
+QB10672,2026-04-09,21,Madhapur,Fast Food,2,373.0,1.7,32,Clear,UPI,,0.0,3.3
+QB10673,2026-04-09,14,Gachibowli,Chinese,2,452.0,9.4,53,Clear,COD,,,2.6
+QB10674,2026-04-09,21,LB Nagar,Chinese,1,411.0,2.5,27,Clear,UPI,,20.0,4.1
+QB10675,2026-04-09,14,Banjara Hills,Biryani,4,1075.0,3.4,40,Clear,Card,HYD20,0.0,3.1
+QB10676,2026-04-09,18,Madhapur,North Indian,3,801.0,1.5,15,Clear,UPI,SAVE50,30.0,5.0
+QB10677,2026-04-09,21,Secunderabad,North Indian,1,494.0,4.2,34,Clear,Card,,0.0,3.7
+QB10678,2026-04-09,22,Madhapur,Chinese,1,412.0,2.6,31,Rainy,UPI,,25.0,4.6
+QB10679,2026-04-10,18,Ameerpet,South Indian,2,309.0,3.2,25,Clear,UPI,,15.0,4.4
+QB10680,2026-04-11,15,Kukatpally,Chinese,1,299.0,5.2,37,Rainy,UPI,,0.0,2.8
+QB10681,2026-04-11,20,Secunderabad,Fast Food,2,263.0,6.4,45,Clear,UPI,,15.0,3.2
+QB10682,2026-04-11,14,Ameerpet,North Indian,2,640.0,4.9,32,Clear,Card,,0.0,3.6
+QB10683,2026-04-11,14,Secunderabad,Fast Food,2,377.0,3.7,33,Clear,COD,,25.0,3.4
+QB10684,2026-04-11,13,Secunderabad,South Indian,2,384.0,3.4,30,Clear,UPI,,25.0,3.6
+QB10685,2026-04-11,14,Banjara Hills,,2,516.0,1.4,28,Clear,UPI  ,SAVE50,0.0,4.1
+QB10686,2026-04-11,19,Dilsukhnagar,Chinese,3,684.0,3.8,27,Clear,Card,,0.0,3.7
+QB10687,2026-04-11,20,Dilsukhnagar,North Indian,3,710.0,2.4,37,Rainy,UPI,WEEKEND30,0.0,2.6
+QB10688,2026-04-12,22,Kukatpally,South Indian,3,275.0,2.4,25,Clear,UPI,WEEKEND30,0.0,3.5
+QB10689,2026-04-12,14,Ameerpet,Chinese,6,943.0,6.6,41,Clear,UPI,,0.0,3.3
+QB10690,2026-04-12,21,Madhapur,South Indian,3,236.0,11.4,60,Clear,UPI,,0.0,2.6
+QB10691,2026-04-12,20,Secunderabad,Chinese,2,484.0,1.9,30,Clear,UPI,,0.0,4.3
+QB10692,2026-04-12,23,Madhapur,Biryani,5,2329.0,1.2,23,Clear,COD,SAVE50,140.0,4.5
+QB10693,2026-04-12,23,Madhapur,Fast Food,3,620.0,3.1,18,Clear,Card,,0.0,4.2
+QB10694,2026-04-12,18,Kukatpally,South Indian,3,561.0,4.2,27,Clear,COD,,0.0,4.1
+QB10694,2026-04-12,18,Kukatpally,South Indian,3,561.0,4.2,27,Clear,COD,,0.0,4.1
+QB10695,2026-04-12,17,Kukatpally,Fast Food,4,539.0,3.4,25,Clear,Card,,0.0,3.7
+QB10696,2026-04-12,21, lb nagar ,Fast Food,5,555.0,9.9,52,Clear,,WEEKEND30,0.0,2.6
+QB10697,2026-04-12,10,Dilsukhnagar,North Indian,2,482.0,2.9,27,Clear,UPI,,30.0,4.5
+QB10698,2026-04-12,21,Kukatpally,Chinese,1,409.0,1.6,22,Clear,UPI,FIRST100,0.0,3.7
+QB10699,2026-04-12,21,LB Nagar,Fast Food,3,359.0,0.7,16,Clear,CARD,,25.0,5.0
+QB10699,2026-04-12,21,LB Nagar,Fast Food,3,359.0,0.7,16,Clear,CARD,,25.0,5.0
+QB10700,2026-04-13,22,LB Nagar,North Indian,4,1521.0,3.0,31,Clear,Card,,0.0,3.8
+QB10701,2026-04-13,10,Ameerpet,Chinese,1,300.0,4.7,27,Clear,COD,,25.0,3.9
+QB10702,2026-04-13,20,Gachibowli,Biryani,2,550.0,1.2,23,Clear,UPI,SAVE50,35.0,3.6
+QB10703,2026-04-13,17,kukatpally,South Indian,1,299.0,5.1,26,Clear,UPI,,0.0,4.1
+QB10704,2026-04-13,12,LB Nagar,South Indian,2,344.0,3.6,11,Clear,UPI,,0.0,4.6
+QB10705,2026-04-13,21,Dilsukhnagar,Desserts,6,674.0,1.4,28,Clear,Card,,0.0,4.0
+QB10705,2026-04-13,21,Dilsukhnagar,Desserts,6,674.0,1.4,28,Clear,Card,,0.0,4.0
+QB10706,2026-04-13,17,Gachibowli,South Indian,1,127.0,2.2,17,Clear,UPI,,10.0,4.6
+QB10707,2026-04-13,19,Ameerpet,North Indian,4,774.0,4.1,31,Clear,Card,,0.0,3.9
+QB10708,2026-04-13,16,Dilsukhnagar,Biryani,3,739.0,3.7,27,Clear,Card,,50.0,4.5
+QB10709,2026-04-13,14,Kukatpally,Desserts,2,254.0,3.0,28,Clear,UPI,HYD20,15.0,3.5
+QB10709,2026-04-13,14,Kukatpally,Desserts,2,254.0,3.0,28,Clear,UPI,HYD20,15.0,3.5
+QB10710,2026-04-13,21,Ameerpet,Desserts,4,613.0,2.7,30,Clear,Card,WEEKEND30,45.0,
+QB10711,2026-04-13,21,LB Nagar,Chinese,6,872.0,6.4,46,Clear,UPI,,0.0,
+QB10712,2026-04-14,13,Madhapur,Desserts,5,502.0,4.4,32,Clear,UPI,,20.0,3.3
+QB10713,2026-04-14,19,Dilsukhnagar,South Indian,3,611.0,4.2,28,Clear,UPI,WEEKEND30,,4.0
+QB10713,2026-04-14,19,Dilsukhnagar,South Indian,3,611.0,4.2,28,Clear,UPI,WEEKEND30,,4.0
+QB10714,2026-04-14,13,Banjara Hills,Biryani,2,345.0,3.5,30,Clear,UPI,,10.0,4.1
+QB10715,2026-04-14,12,Ameerpet,Fast Food,6,550.0,2.0,25,Clear,Card,,35.0,4.7
+QB10716,2026-04-14,12,Ameerpet,Biryani,3,689.0,1.8,27,Clear,Card,SAVE50,15.0,
+QB10717,2026-04-15,21,Gachibowli,Chinese,5,706.0,4.3,45,Clear,Card,,15.0,2.5
+QB10718,2026-04-15,21,Ameerpet,Fast Food,1,193.0,3.1,30,Clear,upi,,15.0,4.4
+QB10718,2026-04-15,21,Ameerpet,Fast Food,1,193.0,3.1,30,Clear,upi,,15.0,4.4
+QB10719,2026-04-15,18,Secunderabad,Biryani,3,804.0,9.4,51,Clear,UPI,,50.0,2.9
+QB10720,2026-04-15,13,Secunderabad,Chinese,6,1469.0,13.8,64,Clear,COD,WEEKEND30,0.0,2.7
+QB10721,2026-04-15,11,Dilsukhnagar,Chinese,1,248.0,1.8,16,Clear,UPI,SAVE50,0.0,
+QB10722,2026-04-15,12,Dilsukhnagar,Chinese,2,635.0,6.4,35,Clear,UPI,,25.0,4.0
+QB10723,2026-04-15,22,Secunderabad,Chinese,1,266.0,14.3,58,Clear,UPI,,0.0,3.2
+QB10724,2026-04-15,15,Madhapur,South Indian,1,192.0,6.5,36,Clear,COD,,15.0,2.5
+QB10725,2026-04-15,12,Ameerpet,South Indian,2,399.0,1.8,22,Clear,UPI,,10.0,
+QB10726,2026-04-16,22,LB Nagar,North Indian,3,811.0,5.6,37,Clear,COD,WEEKEND30,30.0,3.3
+QB10727,2026-04-16,22,Gachibowli,Desserts,2,254.0,9.9,40,Clear,UPI,,10.0,3.8
+QB10728,2026-04-16,18,Secunderabad,Fast Food,3,465.0,7.2,44,Clear,Card,,0.0,3.4
+QB10729,2026-04-16,15,Kukatpally,South Indian,2,302.0,5.3,34,Clear,UPI,,10.0,4.1
+QB10730,2026-04-16,14,Gachibowli,South Indian,3,291.0,1.7,21,Clear,UPI,,10.0,4.2
+QB10731,2026-04-16,19,Kukatpally,Chinese,2,647.0,2.5,19,Clear,UPI,WEEKEND30,0.0,4.2
+QB10732,2026-04-16,14,Secunderabad,Fast Food,2,420.0,1.7,23,Clear,UPI,,0.0,
+QB10733,2026-04-17,14,Dilsukhnagar,North Indian,5,624.0,2.9,33,Clear,Card,,0.0,3.7
+QB10734,2026-04-17,22,Secunderabad,Biryani,2,761.0,6.8,32,Clear,UPI,,,3.5
+QB10735,2026-04-17,12,Kukatpally,Desserts,6,385.0,2.3,25,Clear,UPI,WEEKEND30,,3.8
+QB10736,2026-04-17,13,Gachibowli,South Indian,3,468.0,5.4,42,Clear,UPI,,0.0,3.4
+QB10737,2026-04-17,12,Gachibowli,Biryani,5,779.0,6.8,37,Clear,UPI,,0.0,3.2
+QB10738,2026-04-17,11,LB Nagar,Chinese,3,1015.0,1.2,18,Clear,UPI,FIRST100,0.0,5.0
+QB10739,2026-04-17,12,Kukatpally,South Indian,4,659.0,5.4,26,Clear,UPI,,50.0,
+QB10740,2026-04-17,22,Secunderabad,North Indian,2,684.0,4.8,37,Clear,UPI,FIRST100,40.0,3.1
+QB10741,2026-04-17,23,Kukatpally,North Indian,2,630.0,1.8,19,Clear,UPI,,15.0,3.9
+QB10742,2026-04-17,23,Ameerpet,Fast Food,2,265.0,4.8,39,Rainy,Card,,20.0,
+QB10743,2026-04-18,15,Banjara Hills,Fast Food,4,436.0,7.9,39,Clear,cod,,0.0,2.8
+QB10744,2026-04-18,23,Gachibowli,Desserts,2,354.0,1.3,17,Clear,COD,,0.0,4.6
+QB10745,2026-04-18,22,Ameerpet,Biryani,5,1241.0,0.5,20,Clear,UPI,,60.0,4.6
+QB10746,2026-04-18,15,GACHIBOWLI,Chinese,4,842.0,0.8,14,Clear,,,0.0,4.7
+QB10747,2026-04-18,20,LB Nagar,South Indian,4,394.0,16.4,78,Clear,UPI,FIRST100,0.0,2.3
+QB10748,2026-04-18,20,LB Nagar,Fast Food,1,229.0,0.7,20,Clear,UPI,HYD20,15.0,3.3
+QB10748,2026-04-18,20,LB Nagar,Fast Food,1,229.0,0.7,20,Clear,UPI,HYD20,15.0,3.3
+QB10749,2026-04-18,13,Kukatpally,North Indian,5,904.0,3.2,39,Clear,UPI  ,HYD20,0.0,3.0
+QB10750,2026-04-18,21,Gachibowli,South Indian,3,452.0,7.9,45,Clear,Card,,0.0,2.7
+QB10751,2026-04-18,20,Dilsukhnagar,North Indian,2,721.0,3.4,37,Clear,COD,,0.0,4.0
+QB10752,2026-04-18,15,Banjara Hills,South Indian,4,808.0,3.2,30,Clear,UPI,,0.0,3.9
+QB10753,2026-04-18,21,Dilsukhnagar,Desserts,1,181.0,3.3,32,Clear,Card,WEEKEND30,5.0,3.3
+QB10754,2026-04-19,18,banjara hills,South Indian,2,332.0,3.2,23,Clear,COD,,0.0,3.7
+QB10755,2026-04-19,13,Banjara Hills,South Indian,2,257.0,2.4,33,Clear,UPI,,15.0,3.9
+QB10756,2026-04-19,17,Madhapur,South Indian,1,131.0,2.4,25,Clear,UPI,,0.0,4.1
+QB10757,2026-04-19,12,Kukatpally,South Indian,4,570.0,2.5,30,Clear,UPI,SAVE50,0.0,4.1
+QB10758,2026-04-19,17,Gachibowli,,2,203.0,5.4,29,Clear,UPI,,0.0,4.6
+QB10759,2026-04-19,14,Madhapur,North Indian,1,336.0,6.3,43,Clear, UPI,,10.0,2.9
+QB10760,2026-04-19,12,Madhapur,South Indian,2,315.0,3.8,30,Clear, card ,,10.0,3.7
+QB10761,2026-04-19,13,LB Nagar,Chinese,5,1011.0,1.3,36,Clear,Card,,0.0,3.8
+QB10762,2026-04-19,12,Banjara Hills,Biryani,1,410.0,3.3,24,Clear,COD,,0.0,4.0
+QB10763,2026-04-19,21,BANJARA HILLS,North Indian,2,671.0,8.6,42,Clear,UPI,FIRST100,15.0,3.0
+QB10764,2026-04-19,22,Madhapur,Desserts,1,234.0,2.1,18,Clear,Card,WEEKEND30,15.0,3.9
+QB10765,2026-04-20,14,Gachibowli,North Indian,1,329.0,5.3,34,Clear,Card,,15.0,3.3
+QB10766,2026-04-20,17,GACHIBOWLI,Fast Food,4,435.0,5.1,29,Clear,COD,,10.0,3.9
+QB10767,2026-04-20,22,Kukatpally,South Indian,3,440.0,2.5,19,Clear,UPI,,25.0,3.8
+QB10768,2026-04-21,15,Banjara Hills,Fast Food,3,495.0,0.7,19,Clear,UPI,FIRST100,0.0,3.3
+QB10769,2026-04-21,20,Ameerpet,Biryani,6,1330.0,1.5,31,Clear,UPI,,0.0,5.0
+QB10770,2026-04-21,20,Ameerpet,Desserts,3,372.0,3.8,34,Clear,Card,HYD20,30.0,3.5
+QB10771,2026-04-21,20,Banjara Hills,Fast Food,1,173.0,5.2,36,Clear,UPI,,,3.5
+QB10772,2026-04-21,23,Kukatpally,Desserts,2,232.0,2.9,20,Clear,UPI,,0.0,4.8
+QB10773,2026-04-21,12,Banjara Hills,South Indian,3,599.0,3.0,30,Clear,Card,,30.0,3.6
+QB10774,2026-04-21,12,LB Nagar,Biryani,2,520.0,2.7,17,Clear,UPI,,30.0,4.1
+QB10775,2026-04-22,23,Ameerpet,North Indian,6,1289.0,0.9,19,Clear,UPI,,80.0,4.7
+QB10776,2026-04-22,19,Dilsukhnagar,Biryani,5,917.0,1.0,26,Clear,UPI,,25.0,3.7
+QB10777,2026-04-22,16,Secunderabad,North Indian,2,696.0,2.5,22,Clear,UPI,,25.0,4.7
+QB10778,2026-04-22,22,Gachibowli,South Indian,2,318.0,1.7,21,Clear,COD,,0.0,4.7
+QB10779,2026-04-22,22,Kukatpally,Biryani,3,600.0,1.3,23,Clear,UPI,,0.0,3.9
+QB10780,2026-04-22,22,Madhapur,South Indian,2,466.0,0.9,14,Clear,Card,,0.0,4.3
+QB10781,2026-04-22,11,LB Nagar,Biryani,1,220.0,4.9,29,Clear,UPI,,0.0,3.1
+QB10782,2026-04-22,17,Kukatpally,South Indian,2,243.0,1.0,25,Clear,Card,,,3.5
+QB10783,2026-04-22,21,Kukatpally,Biryani,4,1156.0,3.6,31,Clear,UPI,,0.0,4.2
+QB10784,2026-04-23,17,Madhapur,Biryani,3,576.0,6.5,34,Clear,COD,,20.0,3.3
+QB10785,2026-04-23,20,Banjara Hills,Biryani,3,548.0,4.0,30,Clear,UPI,WEEKEND30,0.0,4.1
+QB10786,2026-04-23,21,Kukatpally,North Indian,1,265.0,9.3,50,Clear,UPI,HYD20,10.0,3.3
+QB10787,2026-04-23,20,Gachibowli,Fast Food,4,501.0,11.9,61,Clear,UPI,WEEKEND30,,2.2
+QB10788,2026-04-23,14,Kukatpally,Chinese,2,484.0,2.1,28,Clear,Card,,0.0,4.4
+QB10789,2026-04-23,20,Kukatpally,Chinese,1,242.0,4.8,35,Clear,UPI,,10.0,3.6
+QB10790,2026-04-23,22,Dilsukhnagar,North Indian,3,755.0,5.6,27,Clear,UPI,FIRST100,45.0,4.6
+QB10791,2026-04-24,18,Ameerpet,Desserts,3,365.0,3.2,25,Clear,UPI,,0.0,3.8
+QB10792,2026-04-24,14,GACHIBOWLI,Fast Food,1,305.0,2.9,29,Clear,UPI,,0.0,
+QB10793,2026-04-24,20,MADHAPUR,Chinese,4,565.0,9.6,47,Clear, card ,,15.0,2.9
+QB10794,2026-04-24,14,Madhapur,DESSERTS,3,357.0,5.2,32,Clear,UPI,,10.0,3.7
+QB10795,2026-04-24,15,Ameerpet,North Indian,2,417.0,2.5,19,Clear,UPI,,0.0,4.0
+QB10796,2026-04-24,16,Secunderabad,South Indian,1,214.0,6.2,34,Clear,UPI,,5.0,3.9
+QB10797,2026-04-24,21,Madhapur,North Indian,1,399.0,4.2,35,Clear,COD,,0.0,3.9
+QB10798,2026-04-24,21,Ameerpet,North Indian,2,823.0,6.0,33,Clear,UPI,WEEKEND30,45.0,4.1
+QB10799,2026-04-24,22,Secunderabad,Desserts,2,334.0,2.2,21,Clear,Card,FIRST100,15.0,4.5
+QB10800,2026-04-24,10,Madhapur,Chinese,1,409.0,3.4,25,Clear,Card,,,4.0
+QB10801,2026-04-25,13,secunderabad,South Indian  ,2,449.0,0.5,23,Clear,UPI,FIRST100,0.0,3.7
+QB10802,2026-04-25,22,Gachibowli,Biryani,2,468.0,2.5,27,Clear,COD,,15.0,4.3
+QB10803,2026-04-25,20,Secunderabad,Chinese,4,622.0,13.1,59,Clear,Card,,0.0,2.4
+QB10804,2026-04-25,23,Ameerpet,,4,938.0,6.9,36,Clear, upi ,,50.0,3.2
+QB10805,2026-04-25,16,DILSUKHNAGAR,North Indian,4,1093.0,1.9,20,Clear,COD,,0.0,4.1
+QB10805,2026-04-25,16,DILSUKHNAGAR,North Indian,4,1093.0,1.9,20,Clear,COD,,0.0,4.1
+QB10806,2026-04-25,13, madhapur ,Fast Food,1,305.0,4.1,30,Clear,UPI  ,,15.0,3.9
+QB10807,2026-04-25,20,Banjara Hills,FAST FOOD,1,278.0,14.9,58,Clear,UPI,,0.0,3.0
+QB10808,2026-04-25,13,Kukatpally,Biryani,2,869.0,1.6,31,Clear,UPI,WEEKEND30,25.0,4.0
+QB10809,2026-04-25,14,Kukatpally,Chinese,2,542.0,1.8,32,Clear,UPI,,0.0,3.8
+QB10810,2026-04-25,17,Banjara Hills,North Indian,3,711.0,0.5,14,Clear,COD,,20.0,
+QB10811,2026-04-25,21,Gachibowli,Biryani,2,538.0,3.1,31,Clear,UPI,,15.0,
+QB10812,2026-04-26,19,Banjara Hills,Chinese,2,601.0,6.9,35,Clear,Card,,,3.4
+QB10813,2026-04-26,19,Gachibowli,Chinese,2,375.0,3.5,30,Clear,Card,FIRST100,20.0,4.2
+QB10814,2026-04-26,19,LB Nagar,Biryani,1,496.0,1.8,22,Clear,COD,,15.0,4.3
+QB10815,2026-04-26,23,Gachibowli,South Indian,2,371.0,2.7,25,Clear,UPI,,0.0,4.0
+QB10816,2026-04-26,23, Banjara Hills,Fast Food,1,280.0,2.9,27,Clear,UPI,,10.0,
+QB10817,2026-04-26,19,Madhapur,Biryani,4,1261.0,7.9,42,Clear,UPI,SAVE50,,2.4
+QB10818,2026-04-26,19,Ameerpet,Desserts,1,284.0,6.6,31,Clear,UPI,SAVE50,0.0,
+QB10819,2026-04-26,10,Secunderabad,Chinese,2,382.0,3.4,19,Clear,Card,,15.0,4.5
+QB10820,2026-04-27,21,Gachibowli,Desserts,2,298.0,10.0,46,Clear,UPI,,0.0,3.4
+QB10821,2026-04-27,20,Madhapur,Chinese,1,285.0,6.2,38,Clear,Card,,10.0,2.9
+QB10822,2026-04-27,12,Kukatpally,North Indian,2,590.0,1.1,15,Clear,UPI,,0.0,4.8
+QB10823,2026-04-27,13,Ameerpet,Fast Food,3,431.0,2.1,29,Clear,UPI,,35.0,3.9
+QB10824,2026-04-27,11,Madhapur,Biryani,2,518.0,1.8,23,Clear,UPI,,35.0,
+QB10825,2026-04-27,18,Madhapur,Fast Food,2,343.0,9.2,38,Clear,Card,,15.0,4.5
+QB10826,2026-04-27,19,Ameerpet,Biryani,4,1082.0,5.8,39,Clear,UPI,,70.0,4.5
+QB10826,2026-04-27,19,Ameerpet,Biryani,4,1082.0,5.8,39,Clear,UPI,,70.0,4.5
+QB10827,2026-04-27,12,Ameerpet,North Indian,2,559.0,2.8,18,Clear,COD,,40.0,4.6
+QB10828,2026-04-27,23,Dilsukhnagar,Chinese,1,331.0,1.4,19,Clear,UPI,,,4.3
+QB10829,2026-04-27,11,Gachibowli,Desserts,2,345.0,3.0,25,Clear,UPI,SAVE50,0.0,
+QB10829,2026-04-27,11,Gachibowli,Desserts,2,345.0,3.0,25,Clear,UPI,SAVE50,0.0,
+QB10830,2026-04-28,13,Ameerpet,Chinese,5,1194.0,1.7,26,Clear,UPI,WEEKEND30,55.0,4.6
+QB10831,2026-04-28,21,Dilsukhnagar,North Indian,2,560.0,8.5,51,Clear,Card,,0.0,3.0
+QB10832,2026-04-28,20,Dilsukhnagar,South Indian,1,153.0,7.3,40,Clear,UPI,WEEKEND30,5.0,3.1
+QB10833,2026-04-28,21, Secunderabad,South Indian,3,218.0,1.4,30,Clear,UPI,SAVE50,0.0,4.3
+QB10834,2026-04-28,22,Madhapur,North Indian,3,636.0,4.0,32,Clear,COD,,0.0,3.3
+QB10835,2026-04-28,23,Dilsukhnagar,Biryani,1,498.0,8.4,37,Clear,COD,,40.0,3.7
+QB10836,2026-04-28,20,Gachibowli,Biryani,3,580.0,1.1,25,Clear,UPI,FIRST100,15.0,4.2
+QB10836,2026-04-28,20,Gachibowli,Biryani,3,580.0,1.1,25,Clear,UPI,FIRST100,15.0,4.2
+QB10837,2026-04-28,19,Kukatpally,Chinese,3,840.0,2.4,24,Clear,COD,,0.0,4.4
+QB10838,2026-04-29,10,Kukatpally,North Indian,4,673.0,3.6,27,Clear,Card,,25.0,4.7
+QB10839,2026-04-29,18,Madhapur,Chinese,2,678.0,2.7,27,Clear,UPI,,35.0,4.0
+QB10840,2026-04-29,14,Madhapur,Biryani,5,1522.0,0.8,22,Clear,UPI,HYD20,30.0,4.7
+QB10841,2026-04-29,12,Madhapur,Fast Food,2,452.0,3.8,21,Clear,COD,,,
+QB10842,2026-04-29,20,Gachibowli,South Indian,3,329.0,6.6,52,Rainy,Card,,0.0,2.6
+QB10843,2026-04-29,11,Dilsukhnagar,Biryani,4,1395.0,6.5,30,Clear,COD,,30.0,2.8
+QB10844,2026-04-29,20,Gachibowli,North Indian,5,960.0,8.8,62,Rainy,UPI,,0.0,2.7
+QB10845,2026-04-29,23,Ameerpet,North Indian,3,665.0,5.6,38,Rainy,UPI,,0.0,3.1
+QB10846,2026-04-29,17,Banjara Hills,Biryani,5,1110.0,3.9,28,Clear,UPI,,0.0,4.4
+QB10847,2026-04-29,20,Gachibowli,Fast Food,1,185.0,3.3,30,Clear,UPI,FIRST100,5.0,4.1
+QB10848,2026-04-29,10,Gachibowli,South Indian,2,374.0,5.5,37,Clear,Card,,0.0,4.5
+QB10849,2026-04-29,15,Ameerpet,South Indian,2,423.0,2.1,28,Clear,COD,WEEKEND30,0.0,3.9
+QB10850,2026-04-29,12,Madhapur,North Indian,3,869.0,0.8,18,Clear,UPI,,55.0,4.8
+QB10851,2026-04-30,14,Dilsukhnagar,Chinese,2,447.0,0.9,27,Clear,Card,,15.0,4.2
+QB10852,2026-04-30,11,Madhapur,North Indian,4,715.0,4.0,27,Clear,UPI,FIRST100,35.0,3.9
+QB10853,2026-04-30,19,LB Nagar,Desserts,1,159.0,5.0,25,Clear,UPI,,0.0,4.7
+QB10854,2026-04-30,21,LB Nagar,Biryani,3,1115.0,2.5,35,Clear,Card,,0.0,3.7
+QB10855,2026-04-30,21,Kukatpally,Biryani,1,556.0,3.5,29,Clear,UPI,HYD20,40.0,3.6
+QB10856,2026-04-30,23,Kukatpally,North Indian,2,513.0,2.0,33,Rainy,UPI,,40.0,3.8
+QB10857,2026-04-30,22,Dilsukhnagar,North Indian,6,1006.0,1.0,23,Clear,UPI,,0.0,3.3
+QB10858,2026-04-30,20,Ameerpet,Biryani,2,433.0,4.5,34,Clear,UPI  ,,0.0,3.9
+QB10859,2026-04-30,21,LB Nagar,South Indian,3,369.0,6.0,46,Rainy,UPI,WEEKEND30,0.0,4.0
+QB10860,2026-05-01,19,Banjara Hills,Chinese,6,897.0,13.1,63,Clear,Card,,,2.2
+QB10861,2026-05-01,10,Banjara Hills,Fast Food,3,661.0,3.9,21,Clear,UPI,,0.0,4.4
+QB10862,2026-05-01,21,KUKATPALLY,North Indian,1,254.0,2.7,32,Clear,COD,,0.0,4.4
+QB10863,2026-05-01,20,Ameerpet,Desserts,2,253.0,4.7,37,Clear,Card,,0.0,3.4
+QB10864,2026-05-01,22,Madhapur,South Indian,5,858.0,,44,Clear,COD,,0.0,3.3
+QB10865,2026-05-01,13,Banjara Hills,Fast Food,1,264.0,4.7,30,Clear,COD,WEEKEND30,10.0,4.1
+QB10866,2026-05-01,22,Kukatpally,Fast Food,1,241.0,4.9,28,Clear,COD,,0.0,3.8
+QB10867,2026-05-01,13,Dilsukhnagar,South Indian,4,316.0,1.4,29,Clear,UPI,,20.0,3.0
+QB10868,2026-05-01,12,Gachibowli  ,Fast Food,5,867.0,2.4,28,Clear,COD,FIRST100,0.0,4.1
+QB10869,2026-05-01,20,Banjara Hills,South Indian,2,299.0,1.1,29,Rainy,UPI,HYD20,10.0,3.5
+QB10870,2026-05-01,15,Ameerpet,South Indian,1,184.0,1.2,10,Clear,,SAVE50,0.0,5.0
+QB10871,2026-05-02,19,Ameerpet,Biryani,1,526.0,4.9,31,Clear,UPI,,15.0,3.1
+QB10872,2026-05-02,16,Ameerpet,Biryani,3,747.0,,21,Clear,UPI,,0.0,3.5
+QB10873,2026-05-02,13,Madhapur,Chinese,2,334.0,2.6,35,Clear,UPI,,15.0,3.4
+QB10873,2026-05-02,13,Madhapur,Chinese,2,334.0,2.6,35,Clear,UPI,,15.0,3.4
+QB10874,2026-05-02,22,Dilsukhnagar,Fast Food,1,291.0,6.8,38,Clear,COD,,0.0,3.0
+QB10875,2026-05-02,21,Kukatpally,Fast Food,1,333.0,4.7,40,Rainy,UPI,,10.0,3.0
+QB10876,2026-05-02,14,Ameerpet,Fast Food,2,311.0,8.1,49,Clear,UPI,,0.0,
+QB10877,2026-05-02,15,Secunderabad,Biryani,5,1739.0,2.3,19,Clear,Card,WEEKEND30,0.0,3.4
+QB10878,2026-05-02,21,Kukatpally,Fast Food,4,437.0,3.1,47,Rainy,UPI,,0.0,2.4
+QB10879,2026-05-02,18,Madhapur,North Indian,2,897.0,2.9,16,Clear,COD,,0.0,5.0
+QB10880,2026-05-02,20,Ameerpet,Fast Food,3,429.0,7.8,43,Clear,Card,,20.0,3.7
+QB10881,2026-05-02,22,Kukatpally,Biryani,5,1875.0,3.9,25,Clear,Card,,40.0,4.4
+QB10882,2026-05-02,21,Gachibowli,South Indian,2,325.0,0.6,22,Clear,UPI,,0.0,3.8
+QB10883,2026-05-02,20,Dilsukhnagar,Biryani,2,568.0,1.3,26,Clear,COD,WEEKEND30,40.0,3.6
+QB10884,2026-05-02,21,Banjara Hills,Biryani,1,335.0,0.8,15,Clear,,,0.0,5.0
+QB10885,2026-05-02,13,Secunderabad,Chinese,1,305.0,5.4,38,Clear,COD,,20.0,3.4
+QB10886,2026-05-02,21,Secunderabad,North Indian,1,266.0,2.2,29,Rainy,UPI,,15.0,4.3
+QB10887,2026-05-02,14,Ameerpet,Fast Food,2,309.0,0.8,20,Clear,UPI,,10.0,3.7
+QB10888,2026-05-02,17,Banjara Hills,Desserts,3,447.0,6.6,50,Rainy,UPI,WEEKEND30,0.0,3.4
+QB10889,2026-05-02,20,LB Nagar,South Indian,2,256.0,8.0,44,Clear,Card,,15.0,2.8
+QB10890,2026-05-03,15,Ameerpet,Biryani,3,1051.0,6.3,36,Clear,Card,HYD20,0.0,3.9
+QB10891,2026-05-03,21,Dilsukhnagar,Chinese,4,724.0,4.3,38,Clear,UPI,,30.0,3.6
+QB10892,2026-05-03,20,Madhapur,Desserts,3,337.0,6.9,49,Clear,UPI,,0.0,2.1
+QB10893,2026-05-03,23,Dilsukhnagar,Desserts,5,485.0,4.0,32,Clear,,,0.0,
+QB10894,2026-05-03,14,Secunderabad,Biryani,2,490.0,1.2,26,Clear,Card,HYD20,10.0,3.5
+QB10895,2026-05-03,20,Secunderabad,Biryani,2,766.0,0.5,20,Clear,UPI,,0.0,4.3
+QB10896,2026-05-03,13,LB NAGAR,Chinese,1,307.0,6.0,31,Clear,UPI,SAVE50,0.0,3.6
+QB10897,2026-05-04,13,Banjara Hills,Fast Food,3,396.0,4.1,30,Clear,Card,,,3.8
+QB10898,2026-05-04,19,Madhapur,Fast Food,6,1103.0,3.3,29,Clear,UPI,,60.0,3.7
+QB10899,2026-05-04,22,Ameerpet,Biryani,1,373.0,6.6,39,Clear,UPI,,0.0,3.2
+QB10900,2026-05-04,18,Ameerpet,South Indian,1,166.0,1.1,15,Clear,Card,,0.0,5.0
+QB10901,2026-05-04,19,Madhapur,Biryani,2,520.0,7.1,29,Clear,UPI,SAVE50,25.0,4.1
+QB10902,2026-05-05,23,Banjara Hills,Desserts,4,472.0,8.0,48,Clear,Card,,30.0,3.5
+QB10903,2026-05-05,13,LB Nagar,Biryani,5,991.0,7.5,50,Clear,COD,WEEKEND30,0.0,2.6
+QB10904,2026-05-05,21,Gachibowli,South Indian,4,522.0,2.7,31,Clear,UPI,WEEKEND30,30.0,3.6
+QB10905,2026-05-05,21,Madhapur,Desserts,1,214.0,7.7,37,Clear,UPI,SAVE50,10.0,3.8
+QB10906,2026-05-05,20,LB NAGAR,North Indian,2,683.0,1.0,17,Clear,UPI,,55.0,4.9
+QB10907,2026-05-05,16,Kukatpally,Biryani,1,625.0,1.9,16,Clear,UPI,HYD20,15.0,4.2
+QB10908,2026-05-05,22,Gachibowli,Biryani,5,1487.0,1.4,25,Clear,COD,,45.0,3.2
+QB10909,2026-05-06,23,Madhapur,Fast Food,2,398.0,2.0,22,Clear,UPI,,0.0,3.5
+QB10910,2026-05-06,16,Banjara Hills,North Indian,1,320.0,1.9,20,Clear,UPI,,15.0,3.7
+QB10911,2026-05-06,17,Madhapur,Desserts,4,389.0,2.6,30,Clear,COD,,0.0,3.9
+QB10912,2026-05-06,21,Dilsukhnagar,Fast Food,2,274.0,3.6,35,Clear,UPI,,0.0,2.7
+QB10913,2026-05-06,19,Gachibowli,Biryani,4,811.0,2.8,31,Clear,UPI,,0.0,
+QB10914,2026-05-06,13,Gachibowli,South Indian,3,491.0,3.4,36,Clear,UPI,HYD20,0.0,4.1
+QB10915,2026-05-07,22,SECUNDERABAD,Chinese,1,360.0,6.0,32,Clear,UPI,SAVE50,10.0,3.9
+QB10916,2026-05-07,20,Secunderabad,South Indian,2,272.0,3.4,33,Clear,COD,FIRST100,20.0,4.5
+QB10917,2026-05-07,18,Gachibowli  ,South Indian,2,327.0,2.6,25,Clear,Card,,25.0,4.1
+QB10918,2026-05-07,17,Gachibowli,Desserts,1,143.0,3.4,28,Clear,UPI,,0.0,3.9
+QB10919,2026-05-07,20,Gachibowli,North Indian,1,488.0,8.1,43,Clear,COD,HYD20,35.0,3.5
+QB10920,2026-05-07,14,Ameerpet,Fast Food,3,463.0,4.0,30,Clear,UPI,,0.0,4.0
+QB10921,2026-05-07,20,Ameerpet,South Indian,5,914.0,10.6,64,Clear,UPI,,40.0,2.4
+QB10922,2026-05-07,12,Secunderabad,Fast Food,5,516.0,3.5,32,Clear,UPI,SAVE50,0.0,4.2
+QB10923,2026-05-07,17,Madhapur,South Indian,4,392.0,2.5,20,Clear,Card,WEEKEND30,20.0,4.2
+QB10924,2026-05-07,21,Dilsukhnagar,Chinese,3,544.0,0.5,16,Clear,UPI,,,4.4
+QB10925,2026-05-07,13,Gachibowli,North Indian,1,400.0,5.7,35,Clear,Card,,10.0,4.4
+QB10926,2026-05-08,20,Gachibowli,Biryani,2,594.0,0.5,24,Clear,Card,HYD20,20.0,4.2
+QB10926,2026-05-08,20,Gachibowli,Biryani,2,594.0,0.5,24,Clear,Card,HYD20,20.0,4.2
+QB10927,2026-05-08,20,Madhapur,Chinese,2,467.0,2.9,26,Clear,UPI,FIRST100,0.0,4.7
+QB10928,2026-05-08,21,Madhapur,Desserts,3,431.0,0.5,26,Clear,COD,,0.0,4.2
+QB10929,2026-05-08,11,Kukatpally,North Indian,2,621.0,7.2,37,Clear,UPI,,0.0,4.0
+QB10930,2026-05-08,21,Kukatpally,Biryani,1,302.0,6.8,37,Clear,UPI,,15.0,3.6
+QB10931,2026-05-08,14,Gachibowli,Biryani,3,757.0,3.3,28,Clear,Card,HYD20,,3.3
+QB10932,2026-05-08,13,LB Nagar,Biryani,1,288.0,5.3,37,Clear,COD,,0.0,3.9
+QB10933,2026-05-08,12,Banjara Hills,Fast Food,1,402.0,2.4,17,Clear,UPI,,15.0,4.8
+QB10934,2026-05-08,20,Dilsukhnagar,Biryani,2,494.0,1.2,21,Clear,UPI,HYD20,0.0,3.5
+QB10935,2026-05-08,20,Gachibowli,,5,1240.0,0.8,27,Clear,UPI,,0.0,
+QB10936,2026-05-08,20,Kukatpally,Biryani,1,383.0,3.0,27,Clear,UPI,HYD20,30.0,4.5
+QB10937,2026-05-09,22,Ameerpet,Biryani,6,1132.0,2.7,20,Clear,UPI,,0.0,4.9
+QB10938,2026-05-09,16,Madhapur,Biryani,4,609.0,3.4,31,Clear,UPI,,0.0,4.0
+QB10939,2026-05-09,12,Gachibowli,Biryani,5,1016.0,1.4,23,Clear,UPI,,0.0,3.9
+QB10940,2026-05-09,14,Gachibowli  ,South Indian,3,378.0,1.2,31,Clear,COD,WEEKEND30,20.0,3.5
+QB10941,2026-05-09,13,Madhapur,North Indian,2,584.0,6.9,40,Clear,UPI,,25.0,
+QB10942,2026-05-09,20,Kukatpally,Fast Food,4,781.0,3.8,33,Clear,,,0.0,3.3
+QB10943,2026-05-09,21,Banjara Hills,Chinese,6,1489.0,5.0,32,Clear,COD,,0.0,3.6
+QB10944,2026-05-09,18,Kukatpally,Biryani,3,1447.0,3.0,19,Clear, cod ,,0.0,4.3
+QB10945,2026-05-09,14,Secunderabad,Desserts,1,114.0,3.2,31,Clear,UPI,,0.0,3.5
+QB10946,2026-05-09,18,Dilsukhnagar,Chinese,2,819.0,3.1,27,Rainy,Card,WEEKEND30,0.0,3.9
+QB10947,2026-05-09,20,Ameerpet,Biryani,5,1245.0,5.0,35,Clear,UPI,,0.0,3.3
+QB10948,2026-05-10,13,Kukatpally,North Indian,2,625.0,3.2,33,Clear,UPI,HYD20,40.0,3.2
+QB10949,2026-05-10,19,Gachibowli,Desserts,1,172.0,6.2,32,Clear,UPI,,5.0,3.7
+QB10950,2026-05-10,14,Secunderabad,Fast Food,3,475.0,1.7,30,Clear,Card,,0.0,3.8
+QB10951,2026-05-10,21,Gachibowli,South Indian,1,262.0,0.9,32,Rainy,upi,,0.0,3.2
+QB10952,2026-05-10,19,Madhapur,Biryani,2,666.0,2.4,24,Clear,UPI,,50.0,3.8
+QB10953,2026-05-10,19,Dilsukhnagar,Fast Food,1,210.0,6.6,36,Clear,Card,WEEKEND30,5.0,3.4
+QB10954,2026-05-10,19,LB Nagar,Chinese,3,510.0,4.1,30,Clear,UPI,,40.0,4.1
+QB10955,2026-05-10,15,Secunderabad,Fast Food,2,295.0,0.7,18,Clear,UPI,HYD20,15.0,3.9
+QB10956,2026-05-10,22,Kukatpally,North Indian,2,465.0,4.8,27,Clear,Card,,0.0,4.3
+QB10957,2026-05-10,10,Banjara Hills,,3,508.0,2.9,23,Clear,Card,,10.0,4.1
+QB10958,2026-05-10,14,Banjara Hills,Fast Food,1,210.0,0.9,26,Clear,Card,,10.0,4.6
+QB10959,2026-05-11,15,Ameerpet,Fast Food,2,486.0,5.1,33,Clear,UPI,FIRST100,15.0,
+QB10960,2026-05-11,13,Kukatpally,Desserts,1,219.0,1.7,25,Clear,Card,,10.0,4.2
+QB10961,2026-05-11,20,Gachibowli,Biryani,6,1153.0,4.9,36,Clear,UPI,,55.0,3.6
+QB10962,2026-05-11,11,Secunderabad,Fast Food,1,215.0,3.2,23,Clear,COD,,0.0,3.7
+QB10963,2026-05-11,20,Madhapur,Biryani,5,757.0,1.9,29,Clear,Card,WEEKEND30,45.0,4.8
+QB10964,2026-05-11,21,Gachibowli,Fast Food,1,253.0,2.1,21,Clear,UPI,,0.0,4.7
+QB10965,2026-05-11,14,Dilsukhnagar,North Indian,2,331.0,0.7,22,Clear,UPI,,10.0,
+QB10966,2026-05-11,14,Dilsukhnagar,Chinese,3,715.0,3.7,22,Clear,COD,WEEKEND30,30.0,4.6
+QB10967,2026-05-11,18,LB Nagar,Biryani,1,425.0,2.9,20,Clear,UPI,,25.0,
+QB10968,2026-05-11,15,Madhapur,South Indian,1,178.0,2.8,13,Clear,Card,,10.0,
+QB10969,2026-05-11,14,Dilsukhnagar,Biryani,3,523.0,2.8,31,Clear,Card,WEEKEND30,0.0,3.1
+QB10970,2026-05-11,20,Dilsukhnagar,Fast Food,1,212.0,3.3,27,Clear,UPI,,0.0,4.0
+QB10971,2026-05-11,14,Ameerpet,Chinese,1,438.0,1.8,20,Clear,COD,,30.0,4.0
+QB10972,2026-05-12,20,Ameerpet,Biryani,3,908.0,0.7,25,Clear,UPI,SAVE50,0.0,4.3
+QB10973,2026-05-12,16,Dilsukhnagar,South Indian,1,228.0,3.5,28,Clear,COD,SAVE50,0.0,3.4
+QB10974,2026-05-12,21,LB Nagar,Biryani,2,641.0,5.5,31,Clear,COD,HYD20,0.0,4.4
+QB10975,2026-05-12,23,Kukatpally,North Indian,1,409.0,6.0,32,Clear,Card,,0.0,3.5
+QB10976,2026-05-12,21,Gachibowli,North Indian,2,633.0,8.7,44,Clear,Card,,0.0,3.4
+QB10977,2026-05-12,15,Gachibowli,Biryani,4,661.0,5.6,29,Clear,UPI,,50.0,4.7
+QB10978,2026-05-12,20,Madhapur,South Indian,2,319.0,3.6,29,Clear,UPI,,15.0,4.4
+QB10979,2026-05-13,21,Secunderabad,Biryani,2,554.0,3.5,37,Rainy,UPI,,35.0,4.0
+QB10979,2026-05-13,21,Secunderabad,Biryani,2,554.0,3.5,37,Rainy,UPI,,35.0,4.0
+QB10980,2026-05-13,16,Gachibowli,North Indian,2,592.0,1.4,23,Clear,Card,,25.0,4.2
+QB10981,2026-05-13,19,Ameerpet,,2,270.0,1.3,20,Clear,UPI,,5.0,4.2
+QB10982,2026-05-13,12,Dilsukhnagar,Biryani,2,553.0,5.9,26,Clear,COD,,20.0,
+QB10983,2026-05-13,19,Gachibowli,Biryani,5,1160.0,4.7,33,Clear,COD,,0.0,4.5
+QB10984,2026-05-14,17,Ameerpet,Fast Food,4,686.0,1.2,22,Clear,Card,,20.0,4.7
+QB10985,2026-05-14,14,Kukatpally,Desserts,4,328.0,4.8,30,Clear,UPI,,25.0,3.7
+QB10985,2026-05-14,14,Kukatpally,Desserts,4,328.0,4.8,30,Clear,UPI,,25.0,3.7
+QB10986,2026-05-14,13,Gachibowli,Biryani,3,860.0,3.3,27,Clear,UPI,,0.0,3.8
+QB10987,2026-05-14,12,Gachibowli,Fast Food,1,250.0,1.8,25,Clear,UPI,,10.0,5.0
+QB10988,2026-05-14,12,Banjara Hills,Chinese,4,604.0,4.6,26,Clear,COD,,35.0,3.2
+QB10989,2026-05-14,10,Ameerpet,North Indian,2,563.0,2.1,15,Clear,UPI,,45.0,3.9
+QB10990,2026-05-14,12,Kukatpally,Fast Food,5,576.0,4.2,27,Clear,UPI,,40.0,4.6
+QB10991,2026-05-14,23,Madhapur,Biryani,1,325.0,3.7,25,Clear,UPI,,10.0,4.0
+QB10992,2026-05-14,13,Madhapur,Biryani,5,1651.0,1.0,29,Clear,UPI,,0.0,3.8
+QB10993,2026-05-14,16,Kukatpally,Biryani,1,465.0,2.6,16,Clear,UPI,HYD20,0.0,4.8
+QB10994,2026-05-14,23,Dilsukhnagar,Fast Food,4,453.0,4.4,33,Clear,upi,,10.0,3.1
+QB10995,2026-05-14,17,Madhapur,Biryani,5,1348.0,6.8,34,Clear,UPI,SAVE50,0.0,4.4
+QB10996,2026-05-14,22,Dilsukhnagar,Fast Food,3,505.0,3.5,26,Clear,UPI,SAVE50,25.0,3.7
+QB10997,2026-05-15,14,madhapur,Chinese,3,682.0,6.0,42,Clear,Card,,40.0,3.1
+QB10998,2026-05-15,23,Ameerpet,Chinese,1,355.0,1.4,12,Clear,,FIRST100,25.0,4.4
+QB10999,2026-05-15,18,Kukatpally,Biryani,2,437.0,4.8,20,Clear,COD,,25.0,3.9
+QB11000,2026-05-15,20,Madhapur,North Indian,2,373.0,2.2,30,Rainy,Card,,0.0,4.7
+QB11001,2026-05-15,15,Banjara Hills,Chinese,6,1020.0,6.4,40,Clear,UPI,,35.0,4.1
+QB11002,2026-05-15,13,Gachibowli,North Indian,3,481.0,7.2,40,Clear,UPI,,0.0,2.9
+QB11003,2026-05-15,13,LB Nagar,South Indian,1,196.0,10.6,58,Clear,UPI,,15.0,2.7
+QB11004,2026-05-15,14,Madhapur,Chinese,2,308.0,8.7,50,Clear,UPI,HYD20,15.0,3.7
+QB11005,2026-05-15,19,Secunderabad,Biryani,1,372.0,2.6,27,Clear,Card,,10.0,
+QB11006,2026-05-15,19,LB Nagar,South Indian,5,581.0,0.5,24,Clear,UPI,,0.0,3.4
+QB11007,2026-05-16,20,Kukatpally,South Indian,2,289.0,4.6,31,Clear,COD,,20.0,3.8
+QB11008,2026-05-16,17,Ameerpet,Desserts,4,447.0,4.1,31,Clear,UPI,,0.0,3.3
+QB11009,2026-05-16,13,Dilsukhnagar,Fast Food,2,371.0,9.4,56,Rainy,UPI,HYD20,0.0,2.1
+QB11010,2026-05-16,20,Gachibowli,Desserts,3,368.0,2.9,34,Clear,UPI,,0.0,3.8
+QB11011,2026-05-16,12,Secunderabad,South Indian,5,619.0,3.5,30,Clear,,,0.0,3.8
+QB11012,2026-05-16,23, Secunderabad,Biryani,2,686.0,3.4,21,Clear,Card,,25.0,3.6
+QB11013,2026-05-16,21,Banjara Hills,Chinese,1,307.0,6.3,47,Rainy,UPI,SAVE50,0.0,2.9
+QB11014,2026-05-16,19,Dilsukhnagar,Chinese,1,411.0,4.6,31,Clear,UPI,,0.0,3.3
+QB11015,2026-05-16,12,Madhapur,Biryani,4,926.0,3.4,15,Clear,UPI,,0.0,4.4
+QB11016,2026-05-17,18,Madhapur,Chinese,1,360.0,5.4,33,Clear,upi,,20.0,3.3
+QB11017,2026-05-17,13,Kukatpally,Biryani,1,421.0,7.8,48,Clear,UPI,,0.0,3.5
+QB11018,2026-05-17,23,Dilsukhnagar, Desserts,1,166.0,1.8,18,Clear,UPI,,0.0,4.6
+QB11019,2026-05-17,17,Gachibowli,Biryani,5,1233.0,0.8,27,Clear,UPI,,0.0,4.3
+QB11020,2026-05-17,20,Dilsukhnagar,Desserts,2,171.0,3.3,31,Clear,UPI,,10.0,3.6
+QB11021,2026-05-17,12,Ameerpet,Chinese,1,259.0,2.2,17,Clear,COD,HYD20,0.0,4.9
+QB11022,2026-05-17,18,Ameerpet,North Indian,1,251.0,0.6,22,Clear,UPI,,10.0,5.0
+QB11022,2026-05-17,18,Ameerpet,North Indian,1,251.0,0.6,22,Clear,UPI,,10.0,5.0
+QB11023,2026-05-17,13,Ameerpet,Chinese,4,875.0,5.1,45,Clear,Card,,60.0,3.8
+QB11024,2026-05-17,19,Banjara Hills,Biryani,3,679.0,6.4,38,Clear,UPI,SAVE50,0.0,4.1
+QB11025,2026-05-17,23,LB Nagar,North Indian,2,594.0,4.8,32,Clear,UPI,,15.0,3.6
+QB11026,2026-05-17,18,Madhapur,Chinese,1,535.0,2.0,17,Clear,UPI,WEEKEND30,15.0,4.5
+QB11027,2026-05-17,20,Banjara Hills,Biryani,1,502.0,6.9,38,Clear,UPI,,0.0,4.1
+QB11028,2026-05-17,12,LB Nagar,North Indian,2,312.0,0.6,12,Clear,COD,,0.0,4.4
+QB11029,2026-05-18,14,Gachibowli,Desserts,6,416.0,1.2,44,Rainy,Card,FIRST100,25.0,3.0
+QB11030,2026-05-18,12,Madhapur,South Indian,1,284.0,7.8,36,Clear,Card,,0.0,
+QB11031,2026-05-18,13,Gachibowli,Fast Food,2,357.0,4.7,40,Clear,UPI,SAVE50,30.0,4.0
+QB11032,2026-05-18,13,Kukatpally,Biryani,2,760.0,6.0,40,Clear,UPI,SAVE50,20.0,4.5
+QB11033,2026-05-18,20,Dilsukhnagar,South Indian,2,497.0,6.4,48,Clear,UPI,FIRST100,10.0,
+QB11034,2026-05-18,18, Ameerpet,Fast Food,2,301.0,4.5,35,Clear,Card,,5.0,3.9
+QB11035,2026-05-18,19,Gachibowli,South Indian,2,556.0,1.2,17,Clear,UPI,,35.0,5.0
+QB11036,2026-05-18,20,Madhapur,Chinese,4,726.0,2.4,26,Clear,Card,,0.0,
+QB11037,2026-05-18,15,Madhapur,Biryani,3,747.0,2.5,23,Clear,Card,,0.0,4.3
+QB11038,2026-05-18,22,Dilsukhnagar,Fast Food,3,574.0,2.0,23,Clear,UPI,,0.0,4.6
+QB11039,2026-05-18,19,Ameerpet,Chinese,5,2174.0,4.9,31,Clear,UPI,,125.0,3.8
+QB11040,2026-05-19,22,Gachibowli,Biryani,1,423.0,3.6,29,Clear,,,0.0,3.7
+QB11041,2026-05-19,21,Ameerpet,Chinese,1,524.0,6.8,41,Clear,UPI,,35.0,2.7
+QB11042,2026-05-19,20,Gachibowli,Desserts,1,235.0,2.1,22,Clear,UPI,,0.0,4.1
+QB11043,2026-05-19,19,Dilsukhnagar,Biryani,1,437.0,5.1,37,Rainy,Card,,0.0,3.0
+QB11044,2026-05-19,21,Kukatpally,Biryani,3,857.0,6.7,35,Clear,UPI,,0.0,3.8
+QB11045,2026-05-19,20,Ameerpet,Biryani,5,886.0,0.5,27,Clear, card ,,0.0,4.1
+QB11046,2026-05-19,21,Gachibowli,Biryani,2,549.0,3.8,21,Clear,UPI,,15.0,4.9
+QB11047,2026-05-20,12,Secunderabad,North Indian,5,709.0,9.8,51,Clear,Card,,50.0,2.2
+QB11048,2026-05-20,17,Banjara Hills,North Indian,4,1033.0,0.5,19,Clear,UPI,,0.0,4.6
+QB11049,2026-05-20,20,Kukatpally,Biryani,1,323.0,1.5,23,Clear,COD,,10.0,4.9
+QB11050,2026-05-20,12,Secunderabad,Desserts,1,179.0,3.2,18,Clear,Card,WEEKEND30,0.0,5.0
+QB11051,2026-05-20,19,Gachibowli, South Indian,1,149.0,1.9,13,Clear,UPI,WEEKEND30,5.0,
+QB11051,2026-05-20,19,Gachibowli, South Indian,1,149.0,1.9,13,Clear,UPI,WEEKEND30,5.0,
+QB11052,2026-05-20,19,Gachibowli,Desserts,4,318.0,3.7,37,Clear,UPI,,10.0,3.4
+QB11053,2026-05-20,14,Madhapur,Desserts,2,166.0,3.9,26,Clear,UPI,,0.0,
+QB11054,2026-05-20,14,Dilsukhnagar,South Indian,2,306.0,5.8,34,Clear,Card,HYD20,10.0,3.8
+QB11055,2026-05-20,21,Banjara Hills,Chinese,1,279.0,3.5,30,Clear,Card,WEEKEND30,10.0,3.8
+QB11056,2026-05-20,12,Gachibowli,Biryani,2,561.0,8.3,42,Clear,UPI,FIRST100,25.0,3.6
+QB11057,2026-05-20,10,Kukatpally,Desserts,2,341.0,3.6,38,Rainy,Card,,0.0,3.4
+QB11058,2026-05-21,22,Kukatpally,Fast Food,1,367.0,1.6,31,Rainy,UPI,,20.0,3.3
+QB11059,2026-05-21,20,Gachibowli,Biryani,2,386.0,1.7,28,Clear,Card,,10.0,4.3
+QB11060,2026-05-21,19,banjara hills,Fast Food,3,322.0,2.1,26,Clear,UPI,,20.0,3.5
+QB11061,2026-05-21,21,Dilsukhnagar,South Indian,6,765.0,8.8,50,Clear,COD,WEEKEND30,20.0,2.8
+QB11062,2026-05-21,14,Secunderabad,North Indian,1,408.0,1.6,32,Clear,Card,,0.0,3.6
+QB11063,2026-05-21,20,Ameerpet,North Indian,2,600.0,,30,Clear,UPI,,20.0,4.6
+QB11064,2026-05-21,20,Ameerpet,Biryani,2,682.0,4.1,35,Clear,UPI,,30.0,3.5
+QB11065,2026-05-21,14,Dilsukhnagar,Chinese,4,987.0,3.0,32,Clear,UPI,,0.0,3.5
+QB11066,2026-05-21,14,LB Nagar,Fast Food,1,289.0,5.8,36,Clear,UPI,,15.0,4.0
+QB11067,2026-05-22,19,Secunderabad,Desserts,2,283.0,1.8,19,Clear, UPI,FIRST100,20.0,4.2
+QB11068,2026-05-22,12,Dilsukhnagar,Fast Food,2,362.0,3.4,26,Clear,Card,,25.0,3.7
+QB11069,2026-05-22,20,Secunderabad,Desserts,1,138.0,2.8,30,Clear,UPI,FIRST100,0.0,3.7
+QB11070,2026-05-22,22,Kukatpally,Biryani,6,1327.0,2.3,35,Clear,COD,,0.0,4.2
+QB11071,2026-05-22,22,LB Nagar,South Indian,2,357.0,1.1,17,Clear,COD,,0.0,3.8
+QB11072,2026-05-22,20,Gachibowli,North Indian,3,510.0,6.7,44,Clear,UPI,,30.0,3.1
+QB11072,2026-05-22,20,Gachibowli,North Indian,3,510.0,6.7,44,Clear,UPI,,30.0,3.1
+QB11073,2026-05-22,13,Ameerpet,Fast Food,2,580.0,2.2,27,Clear,,,0.0,3.8
+QB11074,2026-05-22,10,Banjara Hills,South Indian,1,286.0,1.7,24,Clear,UPI,HYD20,20.0,
+QB11075,2026-05-22,19,Madhapur,South Indian,3,253.0,2.5,27,Clear,COD,,0.0,4.1
+QB11076,2026-05-22,14,Gachibowli,Biryani,3,820.0,0.6,30,Rainy,COD,FIRST100,55.0,4.4
+QB11077,2026-05-23,14,Kukatpally,North Indian,4,754.0,1.5,22,Clear,UPI,,20.0,4.6
+QB11078,2026-05-23,20,Banjara Hills,Biryani,2,876.0,5.8,40,Clear,COD,,,
+QB11079,2026-05-23,12,Kukatpally,Chinese,3,797.0,1.9,22,Clear,UPI,,0.0,3.9
+QB11080,2026-05-23,20,Kukatpally,North Indian,3,877.0,7.7,45,Clear,UPI,SAVE50,25.0,3.7
+QB11081,2026-05-23,21,Madhapur,Chinese,3,648.0,1.5,22,Clear,UPI,,,
+QB11082,2026-05-23,11,LB Nagar,South Indian,4,577.0,0.7,23,Clear,UPI,,0.0,4.7
+QB11083,2026-05-23,19,Secunderabad,Biryani,1,545.0,8.1,41,Clear,COD,,35.0,3.3
+QB11084,2026-05-23,20,Dilsukhnagar,Fast Food,3,335.0,1.1,23,Clear,Card  ,FIRST100,20.0,
+QB11085,2026-05-23,18,Dilsukhnagar,North Indian,1,393.0,0.7,10,Clear,COD,,10.0,4.6
+QB11086,2026-05-24,14,Dilsukhnagar,South Indian,2,301.0,2.0,35,Clear, UPI,HYD20,20.0,4.9
+QB11087,2026-05-24,13,Banjara Hills,South Indian,1,223.0,7.0,45,Clear,,WEEKEND30,0.0,2.9
+QB11088,2026-05-24,23,Kukatpally,North Indian,2,675.0,5.0,33,Clear,UPI,,0.0,3.9
+QB11089,2026-05-24,17,LB Nagar,Biryani,3,677.0,2.6,23,Clear,UPI,,15.0,3.6
+QB11090,2026-05-24,13,Gachibowli,Biryani,2,424.0,5.2,34,Clear,UPI,HYD20,,4.1
+QB11091,2026-05-24,11,Gachibowli,Biryani,1,306.0,0.9,23,Rainy,UPI,,0.0,
+QB11092,2026-05-24,14,Banjara Hills,Fast Food,2,439.0,0.5,30,Clear,Card,,0.0,3.4
+QB11093,2026-05-24,21,Kukatpally,Fast Food,4,419.0,2.0,24,Clear,COD,,20.0,4.3
+QB11094,2026-05-24,13,Gachibowli  ,South Indian,1,194.0,2.4,22,Clear,UPI,,10.0,4.0
+QB11095,2026-05-24,20,Madhapur,Biryani,3,847.0,3.3,31,Clear, upi ,,55.0,3.5
+QB11096,2026-05-24,22,Banjara Hills,Fast Food,2,292.0,2.3,29,Clear,UPI,WEEKEND30,25.0,4.3
+QB11097,2026-05-24,16,Banjara Hills,North Indian,1,235.0,4.2,19,Clear,UPI,,0.0,4.2
+QB11098,2026-05-24,19,Dilsukhnagar,North Indian,2,516.0,7.6,41,Clear,,WEEKEND30,0.0,3.9
+QB11099,2026-05-24,13,Secunderabad,North Indian,1,396.0,3.1,32,Rainy,COD,,25.0,3.9
+QB11100,2026-05-24,13,Banjara Hills,North Indian,4,597.0,3.0,33,Clear,COD,,0.0,4.0
+QB11101,2026-05-24,16,Madhapur, biryani ,1,480.0,5.5,32,Clear,Card,,30.0,
+QB11102,2026-05-24,20, Ameerpet,South Indian,2,229.0,2.8,29,Clear,UPI,HYD20,0.0,4.1
+QB11103,2026-05-25,19,Secunderabad,South Indian,2,194.0,2.4,20,Clear,UPI,,0.0,
+QB11104,2026-05-25,21,Banjara Hills,Fast Food,3,551.0,3.6,29,Clear,Card,SAVE50,35.0,4.0
+QB11105,2026-05-25,21,Dilsukhnagar,Biryani,1,441.0,1.8,19,Clear,COD,,30.0,3.8
+QB11106,2026-05-25,19,Kukatpally,,5,910.0,0.5,21,Clear,UPI,SAVE50,0.0,4.4
+QB11107,2026-05-25,18,Secunderabad,Biryani,1,288.0,6.2,35,Clear,Card,HYD20,0.0,3.4
+QB11108,2026-05-25,19,Dilsukhnagar,South Indian,3,237.0,6.6,31,Clear,UPI,HYD20,0.0,3.7
+QB11109,2026-05-25,18,Madhapur,South Indian,2,286.0,2.0,24,Clear,COD,,,4.0
+QB11110,2026-05-25,18,Gachibowli,Chinese,2,409.0,10.0,50,Clear,Card,,15.0,2.7
+QB11111,2026-05-25,14,Kukatpally,Desserts,4,315.0,3.2,30,Clear,UPI,,0.0,3.8
+QB11112,2026-05-25,13,Banjara Hills,Biryani,1,410.0,3.7,32,Clear,UPI,,0.0,3.6
+QB11113,2026-05-26,23,Kukatpally,Chinese,1,408.0,5.6,33,Clear,Card,,0.0,4.0
+QB11114,2026-05-26,11,Kukatpally,Fast Food,5,510.0,2.6,24,Clear,UPI,,0.0,3.8
+QB11115,2026-05-26,11,Dilsukhnagar,North Indian,1,380.0,1.4,24,Clear,Card,FIRST100,20.0,4.3
+QB11116,2026-05-26,12,Dilsukhnagar, South Indian,3,373.0,4.2,32,Rainy,UPI,,25.0,3.6
+QB11117,2026-05-26,17,Gachibowli,North Indian,3,1166.0,0.6,10,Clear,Card,FIRST100,75.0,5.0
+QB11118,2026-05-26,19,Madhapur,North Indian,3,600.0,2.5,30,Clear,COD,,,4.1
+QB11119,2026-05-26,14,Banjara Hills,South Indian,1,170.0,1.6,22,Clear,UPI,FIRST100,0.0,4.6
+QB11120,2026-05-26,21, Madhapur,Biryani,4,943.0,3.2,36,Clear,Card,,35.0,4.3
+QB11121,2026-05-26,16,LB Nagar,Chinese,4,1472.0,4.7,27,Clear,UPI,SAVE50,,3.7
+QB11122,2026-05-26,12,Gachibowli,North Indian,2,407.0,6.7,34,Clear,Card,,10.0,2.9
+QB11123,2026-05-27,18,Gachibowli,South Indian,1,179.0,2.3,21,Clear, upi ,,5.0,5.0
+QB11124,2026-05-27,18,Kukatpally,Fast Food,1,247.0,6.0,33,Clear,UPI,,0.0,4.0
+QB11124,2026-05-27,18,Kukatpally,Fast Food,1,247.0,6.0,33,Clear,UPI,,0.0,4.0
+QB11125,2026-05-27,19,Madhapur,Chinese,1,253.0,2.2,30,Clear,COD,,0.0,
+QB11126,2026-05-27,14,Secunderabad,South Indian,1,265.0,7.0,38,Clear,Card,FIRST100,0.0,3.5
+QB11127,2026-05-27,17,Dilsukhnagar,Chinese,5,694.0,1.1,17,Clear,Card,HYD20,15.0,4.1
+QB11128,2026-05-27,15,Madhapur,South Indian,3,410.0,8.6,44,Clear,UPI,,30.0,3.8
+QB11129,2026-05-27,13,Madhapur,Biryani,2,554.0,6.6,42,Clear,UPI,SAVE50,0.0,
+QB11130,2026-05-27,16,Dilsukhnagar,Fast Food,2,459.0,5.3,30,Clear,upi,,0.0,4.3
+QB11131,2026-05-27,20,LB Nagar,Biryani,1,576.0,2.6,27,Clear,Card,,0.0,4.2
+QB11132,2026-05-28,23,Gachibowli,Chinese,3,669.0,2.0,28,Clear,Card,,25.0,3.6
+QB11133,2026-05-28,19,Secunderabad,Desserts,2,206.0,5.7,41,Clear,UPI,,10.0,
+QB11133,2026-05-28,19,Secunderabad,Desserts,2,206.0,5.7,41,Clear,UPI,,10.0,
+QB11134,2026-05-28,19, Ameerpet,Biryani,2,620.0,1.5,20,Clear,UPI,HYD20,35.0,5.0
+QB11135,2026-05-28,14,Madhapur,Biryani,2,521.0,7.2,43,Clear,Card,,0.0,3.6
+QB11136,2026-05-28,17,Madhapur,Desserts,3,343.0,4.9,35,Clear,Card,,0.0,
+QB11137,2026-05-28,22,Secunderabad,Biryani,2,532.0,15.3,65,Clear,UPI,FIRST100,35.0,3.2
+QB11138,2026-05-29,13,Banjara Hills,Chinese,2,464.0,4.8,34,Clear,UPI,,0.0,3.8
+QB11139,2026-05-29,18,Ameerpet,Desserts,2,219.0,1.6,23,Clear,Card,,0.0,3.5
+QB11140,2026-05-29,23,Ameerpet,Biryani,1,439.0,3.5,27,Clear,COD,,0.0,4.5
+QB11141,2026-05-29,20,Kukatpally,Biryani,5,1802.0,2.2,48,Rainy,UPI,FIRST100,0.0,2.7
+QB11142,2026-05-29,20,Gachibowli,Biryani,3,1128.0,0.5,22,Clear,UPI,,0.0,3.5
+QB11143,2026-05-29,19,Dilsukhnagar,Biryani,4,874.0,4.1,25,Clear,UPI,WEEKEND30,0.0,3.9
+QB11144,2026-05-29,10,Kukatpally,Biryani,1,452.0,1.9,13,Clear,UPI,,25.0,4.2
+QB11145,2026-05-29,19,Madhapur,South Indian,3,264.0,3.1,21,Clear,UPI,HYD20,20.0,5.0
+QB11146,2026-05-29,15,Kukatpally,South Indian,1,266.0,6.4,34,Clear,COD,,10.0,3.8
+QB11147,2026-05-29,13,Ameerpet,Desserts,1,230.0,2.7,24,Clear,COD,FIRST100,0.0,4.1
+QB11148,2026-05-29,17,Madhapur,Fast Food,1,177.0,4.0,29,Clear,UPI,,5.0,3.6
+QB11149,2026-05-29,19,LB Nagar,Biryani,2,429.0,3.4,29,Clear,Card,SAVE50,15.0,3.7
+QB11150,2026-05-29,20,Kukatpally,South Indian,4,341.0,3.2,33,Clear,UPI,,20.0,4.6
+QB11150,2026-05-29,20,Kukatpally,South Indian,4,341.0,3.2,33,Clear,UPI,,20.0,4.6
+QB11151,2026-05-29,20,Kukatpally,Biryani,3,727.0,9.9,49,Clear,UPI,,45.0,2.9
+QB11152,2026-05-30,14,Kukatpally,south indian,2,246.0,2.3,30,Clear,UPI,,15.0,4.4
+QB11153,2026-05-30,20,Gachibowli,South Indian,2,358.0,14.0,67,Clear,UPI,FIRST100,0.0,1.6
+QB11154,2026-05-30,19,kukatpally, chinese ,5,971.0,3.5,29,Rainy,UPI,,0.0,3.7
+QB11155,2026-05-30,17,Kukatpally,Biryani,1,293.0,5.5,36,Clear,Card,WEEKEND30,10.0,3.0
+QB11156,2026-05-30,20,Gachibowli,desserts,2,199.0,2.7,24,Clear,Card,,10.0,3.6
+QB11157,2026-05-30,18,Dilsukhnagar,Chinese,4,685.0,1.7,25,Clear,UPI,,0.0,4.1
+QB11158,2026-05-30,20,Dilsukhnagar,Biryani,2,543.0,6.1,36,Clear,UPI,,40.0,4.8
+QB11159,2026-05-30,22,Kukatpally,South Indian,2,386.0,8.8,39,Clear,Card,,10.0,3.9
+QB11159,2026-05-30,22,Kukatpally,South Indian,2,386.0,8.8,39,Clear,Card,,10.0,3.9
+QB11160,2026-05-30,19,BANJARA HILLS,Fast Food,1,301.0,9.1,38,Clear,Card,,15.0,3.4
+QB11161,2026-05-30,20,Ameerpet,South Indian,2,479.0,8.4,42,Clear,Card,,0.0,4.1
+QB11162,2026-05-30,14,Secunderabad,Chinese,3,354.0,5.9,37,Clear,UPI,FIRST100,,
+QB11163,2026-05-30,15, ameerpet ,Fast Food,1,510.0,5.2,38,Rainy,Card,,,3.9
+QB11164,2026-05-30,12,Kukatpally,Biryani,1,495.0,5.6,34,Clear,UPI,,0.0,
+QB11165,2026-05-30,20,Secunderabad,Desserts,4,376.0,,26,Clear,UPI,,20.0,5.0
+QB11166,2026-05-30,14,Ameerpet,Desserts,3,254.0,1.1,27,Clear, upi ,,0.0,3.2
+QB11167,2026-05-30,13,LB Nagar,Biryani,1,508.0,1.1,18,Clear,Card,WEEKEND30,40.0,4.2
+QB11168,2026-05-31,23,Secunderabad,South Indian,5,825.0,3.4,24,Clear,UPI,,0.0,4.1
+QB11169,2026-05-31,15,Banjara Hills,Chinese,2,573.0,3.9,24,Clear,UPI,,15.0,4.2
+QB11170,2026-05-31,14,Dilsukhnagar,Fast Food,2,474.0,3.6,36,Clear,UPI,,0.0,3.1
+QB11171,2026-05-31,14,Dilsukhnagar,Biryani,3,763.0,1.5,27,Clear,UPI,HYD20,0.0,3.0
+QB11172,2026-05-31,20,Kukatpally,South Indian,5,521.0,3.0,33,Clear,UPI,WEEKEND30,0.0,4.1
+QB11173,2026-05-31,19,Secunderabad,Desserts,3,266.0,2.4,19,Clear,UPI,,20.0,4.8
+QB11174,2026-05-31,19,Banjara Hills,,3,205.0,5.5,36,Clear,,,15.0,3.2
+QB11175,2026-05-31,15,Gachibowli,North Indian,2,510.0,2.2,11,Clear,UPI,,0.0,4.5
+QB11176,2026-05-31,23,Madhapur,South Indian,2,408.0,0.5,13,Clear,Card,WEEKEND30,10.0,3.7
+QB11177,2026-05-31,15,Madhapur,South Indian,5,949.0,5.3,35,Clear,COD,,0.0,3.2
+QB11178,2026-05-31,12,Madhapur,Desserts,1,182.0,5.9,35,Clear,UPI,,0.0,3.4
+QB11179,2026-06-01,20, Kukatpally,Chinese,5,600.0,0.5,25,Clear,UPI,HYD20,0.0,4.1
+QB11180,2026-06-01,22,Madhapur,Fast Food,2,339.0,3.1,21,Clear,UPI,,25.0,
+QB11181,2026-06-01,13,gachibowli,Fast Food,4,642.0,3.8,35,Rainy,UPI,,0.0,3.8
+QB11182,2026-06-01,13,Dilsukhnagar,South Indian,4,736.0,2.4,29,Clear,UPI,,55.0,4.2
+QB11183,2026-06-01,10,Madhapur,Biryani,3,800.0,8.2,39,Clear,UPI,,0.0,3.3
+QB11184,2026-06-01,22,Ameerpet,South Indian,1,306.0,8.0,44,Clear,COD,,5.0,3.3
+QB11185,2026-06-01,19,Banjara Hills,North Indian,4,1001.0,2.4,22,Clear,UPI,FIRST100,0.0,3.4
+QB11186,2026-06-01,21,Madhapur,Desserts,3,367.0,3.3,31,Clear,COD,SAVE50,0.0,3.4
+QB11187,2026-06-01,23,Madhapur,South Indian,1,243.0,17.7,69,Clear,COD,FIRST100,0.0,2.5
+QB11188,2026-06-02,21,Dilsukhnagar,Fast Food,1,284.0,4.0,39,Rainy,UPI,SAVE50,0.0,3.0
+QB11189,2026-06-02,20,Madhapur,Biryani,5,1036.0,7.0,51,Clear,UPI,,60.0,2.7
+QB11190,2026-06-02,14,Dilsukhnagar,Fast Food,6,785.0,1.5,30,Clear,Card,,25.0,3.6
+QB11191,2026-06-02,12,Dilsukhnagar,Biryani,1,374.0,4.0,25,Clear,UPI,,0.0,3.9
+QB11192,2026-06-02,15,Madhapur,South Indian,4,591.0,6.3,29,Clear,COD,,30.0,3.8
+QB11193,2026-06-02,11,Dilsukhnagar,North Indian,1,267.0,3.1,16,Clear,COD,,20.0,3.9
+QB11194,2026-06-03,21,Secunderabad,Fast Food,5,552.0,2.0,32,Clear,Card,,15.0,4.1
+QB11195,2026-06-03,21,Ameerpet,Biryani,2,741.0,9.3,50,Clear,UPI,,,3.4
+QB11196,2026-06-03,20,LB Nagar,Chinese,4,598.0,1.3,32,Rainy,UPI,,40.0,3.6
+QB11197,2026-06-03,19,Gachibowli,Chinese,1,380.0,3.9,21,Clear,Card,SAVE50,0.0,4.3
+QB11198,2026-06-03,20,Secunderabad,Fast Food,5,617.0,5.2,38,Clear,Card,SAVE50,,3.5
+QB11199,2026-06-03,19,Dilsukhnagar,Chinese,3,439.0,3.5,40,Rainy,UPI,,0.0,3.6
+QB11200,2026-06-03,12,Madhapur,Biryani,2,595.0,1.9,16,Clear,UPI,,25.0,4.4
+QB11201,2026-06-03,23,Secunderabad,Biryani,3,1059.0,2.0,20,Clear,UPI,,0.0,5.0
+QB11202,2026-06-03,13,Ameerpet,South Indian,6,623.0,3.4,28,Clear,COD,,0.0,4.4
+QB11203,2026-06-03,11,Gachibowli,Biryani,2,719.0,1.8,22,Clear,COD,,15.0,3.9
+QB11204,2026-06-03,19,LB Nagar,Fast Food,4,716.0,11.6,46,Clear,Card,,50.0,2.5
+QB11205,2026-06-03,12,Dilsukhnagar,South Indian,3,282.0,6.0,43,Rainy,COD,,20.0,3.9
+QB11206,2026-06-04,16,Kukatpally,Chinese,1,421.0,8.4,37,Clear,UPI,,0.0,3.3
+QB11207,2026-06-04,21,Secunderabad,Biryani,3,664.0,2.6,46,Rainy,COD,,0.0,2.4
+QB11207,2026-06-04,21,Secunderabad,Biryani,3,664.0,2.6,46,Rainy,COD,,0.0,2.4
+QB11208,2026-06-04,17,Ameerpet,Fast Food,3,605.0,6.3,30,Clear,UPI,,0.0,4.4
+QB11209,2026-06-04,14,Dilsukhnagar,North Indian,3,636.0,1.8,24,Clear,UPI,,45.0,3.5
+QB11210,2026-06-04,19,Banjara Hills,Biryani,4,1104.0,5.1,34,Clear, card ,,25.0,3.5
+QB11211,2026-06-04,13,LB Nagar,Desserts,2,556.0,7.1,46,Clear,Card,,25.0,2.6
+QB11212,2026-06-04,15,Madhapur,South Indian,3,350.0,1.0,17,Clear,COD,,15.0,4.4
+QB11213,2026-06-04,23,Ameerpet,Biryani,5,827.0,2.1,36,Rainy,UPI,,35.0,3.7
+QB11214,2026-06-04,13,Kukatpally,Biryani,1,438.0,5.4,37,Clear,COD,WEEKEND30,0.0,3.4
+QB11215,2026-06-05,21,Kukatpally,North Indian,1,463.0,0.7,22,Clear,UPI,,10.0,3.8
+QB11216,2026-06-05,22,Madhapur,Biryani,2,885.0,11.6,47,Clear,COD,,0.0,3.2
+QB11217,2026-06-05,23,Madhapur,North Indian,4,1220.0,3.9,34,Clear,UPI,SAVE50,0.0,4.0
+QB11218,2026-06-05,10,Banjara Hills,North Indian,1,361.0,2.7,28,Rainy,UPI,,,4.5
+QB11219,2026-06-05,10,Secunderabad,Biryani,5,998.0,3.3,29,Clear,Card,,75.0,4.0
+QB11220,2026-06-05,13,Madhapur,Fast Food,3,343.0,3.2,36,Rainy,Card,,0.0,2.7
+QB11221,2026-06-05,20,Dilsukhnagar,Fast Food,3,385.0,3.9,40,Clear,COD,SAVE50,0.0,3.7
+QB11222,2026-06-05,19,Ameerpet,South Indian,4,484.0,1.9,38,Rainy,UPI,,40.0,3.7
+QB11223,2026-06-05,21,Banjara Hills,North Indian,6,1513.0,4.2,39,Clear,UPI,,35.0,3.5
+QB11224,2026-06-06,12,Kukatpally,Chinese,1,499.0,7.6,34,Clear,UPI,,0.0,3.3
+QB11225,2026-06-06,18,Gachibowli,Chinese,4,599.0,4.7,37,Clear,UPI,,0.0,3.3
+QB11226,2026-06-06,21,Madhapur,Biryani,3,649.0,1.9,23,Clear, upi ,,45.0,4.6
+QB11227,2026-06-06,20,Gachibowli,chinese,5,922.0,7.2,49,Clear,Card,,35.0,3.2
+QB11228,2026-06-06,15,Madhapur,Biryani,1,467.0,3.6,26,Clear,COD,,,3.9
+QB11229,2026-06-06,13,Kukatpally,Fast Food,4,660.0,3.4,43,Rainy,UPI,,15.0,2.7
+QB11230,2026-06-06,17,Gachibowli,Biryani,1,295.0,6.1,43,Rainy,Card,,0.0,3.7
+QB11231,2026-06-06,13,Kukatpally,Chinese  ,1,255.0,,29,Clear,UPI,,10.0,3.4
+QB11232,2026-06-06,13,Madhapur,Fast Food,5,851.0,1.2,19,Clear,UPI,WEEKEND30,,4.8
+QB11233,2026-06-06,21,Ameerpet,Fast Food,1,351.0,5.0,27,Clear,UPI,SAVE50,20.0,3.8
+QB11234,2026-06-06,12,Dilsukhnagar,Chinese,2,407.0,2.0,28,Rainy,UPI,,0.0,3.7
+QB11235,2026-06-06,21,Kukatpally,South Indian,4,497.0,3.8,30,Clear,UPI,,35.0,4.2
+QB11236,2026-06-07,13,Gachibowli,South Indian,2,380.0,7.5,43,Clear,UPI,FIRST100,25.0,3.2
+QB11237,2026-06-07,13,Dilsukhnagar,Fast Food,2,397.0,8.4,52,Rainy,Card,,30.0,2.7
+QB11238,2026-06-07,12,Secunderabad,Fast Food,2,287.0,5.7,38,Rainy,Card,FIRST100,15.0,3.9
+QB11239,2026-06-07,15,Kukatpally,Chinese,2,509.0,3.3,30,Clear,UPI,,40.0,3.7
+QB11240,2026-06-07,19,Dilsukhnagar,Fast Food,3,356.0,2.5,30,Rainy,UPI,HYD20,15.0,2.9
+QB11241,2026-06-07,18,LB Nagar,Biryani,1,476.0,5.2,26,Clear,COD,HYD20,30.0,4.4
+QB11242,2026-06-07,22,Dilsukhnagar,Biryani,2,546.0,1.9,25,Clear,COD,,45.0,4.2
+QB11243,2026-06-07,20,Banjara Hills,Desserts,2,210.0,7.3,48,Rainy,Card,,0.0,2.6
+QB11244,2026-06-07,15,LB Nagar,Fast Food,4,580.0,3.6,26,Clear,Card,,35.0,3.5
+QB11245,2026-06-07,18,Ameerpet,Chinese,5,743.0,4.4,35,Clear,COD,,,3.0
+QB11246,2026-06-07,13, LB Nagar,Biryani,4,696.0,6.2,48,Clear,UPI,,15.0,
+QB11247,2026-06-07,20,Madhapur,North Indian,2,618.0,1.3,26,Clear,UPI,,45.0,4.2
+QB11248,2026-06-07,19,Ameerpet,North Indian,4,705.0,1.5,28,Rainy,UPI,HYD20,,4.6
+QB11249,2026-06-08,20,Kukatpally,Biryani,2,815.0,10.0,63,Rainy, UPI,,30.0,2.8
+QB11250,2026-06-08,11,Ameerpet,Biryani,4,1222.0,5.0,30,Clear,COD,,30.0,4.9
+QB11251,2026-06-08,22,Madhapur,Biryani,2,726.0,1.4,32,Rainy,UPI,,50.0,3.4
+QB11252,2026-06-08,22,LB Nagar, fast food ,2,259.0,7.7,44,Clear,Card,WEEKEND30,10.0,3.5
+QB11253,2026-06-08,20,Madhapur,Biryani,1,488.0,5.1,37,Clear,COD,,0.0,4.0
+QB11254,2026-06-08,12,Madhapur,Biryani,1,337.0,1.3,29,Rainy,UPI,,20.0,
+QB11255,2026-06-08,15,Secunderabad,Biryani  ,3,974.0,17.5,71,Clear,UPI,WEEKEND30,50.0,2.0
+QB11256,2026-06-08,14,Banjara Hills,South Indian,3,307.0,1.8,24,Clear,UPI  ,,15.0,4.3
+QB11257,2026-06-08,17,Kukatpally,South Indian,2,288.0,,21,Clear,Card,SAVE50,15.0,4.3
+QB11258,2026-06-08,12,Ameerpet,South Indian,3,470.0,4.2,27,Clear,Card,FIRST100,15.0,2.9
+QB11259,2026-06-09,13,Secunderabad,Chinese,6,898.0,3.3,45,Rainy,Card,,25.0,
+QB11260,2026-06-09,18,LB Nagar,South Indian,3,359.0,11.3,55,Rainy,UPI,,20.0,1.9
+QB11261,2026-06-09,22,Madhapur,Chinese,1,351.0,1.5,11,Clear,UPI,FIRST100,0.0,4.5
+QB11262,2026-06-09,21,Dilsukhnagar,Chinese,2,457.0,2.3,44,Rainy,Card,,0.0,3.4
+QB11263,2026-06-09,20,Ameerpet,South Indian,2,328.0,5.0,35,Clear,Card,,25.0,3.4
+QB11264,2026-06-09,10,LB Nagar,Biryani,4,976.0,5.1,48,Rainy,Card,HYD20,30.0,3.6
+QB11264,2026-06-09,10,LB Nagar,Biryani,4,976.0,5.1,48,Rainy,Card,HYD20,30.0,3.6
+QB11265,2026-06-10,19,Ameerpet,Biryani,1,306.0,2.3,35,Rainy,UPI,,25.0,3.5
+QB11266,2026-06-10,22,Madhapur,Biryani,2,1068.0,1.6,25,Rainy,UPI,,,4.5
+QB11267,2026-06-10,14,LB Nagar,Fast Food,2,486.0,4.4,41,Clear,Card,,0.0,3.3
+QB11268,2026-06-10,11,LB Nagar,Desserts,2,287.0,3.5,20,Clear,UPI,FIRST100,15.0,4.4
+QB11269,2026-06-10,15,Madhapur,Biryani,3,636.0,4.9,29,Clear,COD,WEEKEND30,15.0,3.7
+QB11270,2026-06-10,18,Gachibowli,Fast Food,1,333.0,6.4,35,Clear,UPI,,15.0,4.3
+QB11271,2026-06-10,23,Madhapur,South Indian,3,354.0,1.6,26,Rainy,UPI,,15.0,4.2
+QB11272,2026-06-10,23,Kukatpally,Biryani,2,601.0,6.1,27,Clear,Card,,30.0,4.9
+QB11273,2026-06-10,12,MADHAPUR, biryani ,4,880.0,1.7,21,Clear,UPI,,60.0,4.9
+QB11274,2026-06-10,20,Banjara Hills,Biryani,3,799.0,2.3,36,Rainy,,,0.0,3.9
+QB11275,2026-06-10,17,Kukatpally,Biryani,6,1940.0,7.7,56,Rainy,UPI,,0.0,3.4
+QB11276,2026-06-11,20,Dilsukhnagar,Biryani,2,534.0,3.8,29,Clear,UPI,WEEKEND30,0.0,3.3
+QB11277,2026-06-11,22,Ameerpet,Desserts,1,252.0,2.5,30,Clear,UPI,FIRST100,15.0,3.7
+QB11278,2026-06-11,21,LB Nagar,Fast Food,3,530.0,6.3,44,Rainy,UPI,FIRST100,0.0,2.8
+QB11279,2026-06-11,18,Banjara Hills,Fast Food,1,211.0,4.8,39,Rainy,Card,SAVE50,0.0,
+QB11280,2026-06-11,11,Secunderabad,North Indian,2,950.0,8.3,43,Clear,Card,WEEKEND30,0.0,3.3
+QB11281,2026-06-11,22,Madhapur,South Indian,5,694.0,4.6,36,Clear,UPI,,55.0,3.0
+QB11282,2026-06-11,22,Kukatpally,Biryani,1,294.0,7.5,34,Clear,COD,SAVE50,0.0,3.9
+QB11283,2026-06-11,20,Dilsukhnagar,South Indian,2,285.0,4.0,31,Clear,UPI,HYD20,15.0,4.0
+QB11284,2026-06-11,22,Kukatpally,Chinese,1,275.0,4.4,26,Clear,UPI,,0.0,4.4
+QB11285,2026-06-12,15,Madhapur,Chinese,2,389.0,8.9,56,Rainy,Card,,0.0,2.2
+QB11286,2026-06-12,15,Gachibowli,Chinese,1,279.0,1.9,14,Clear,UPI,,5.0,4.2
+QB11287,2026-06-12,23,Dilsukhnagar,South Indian,4,492.0,8.9,44,Clear,UPI,,30.0,3.2
+QB11288,2026-06-13,15,Madhapur,Biryani,3,792.0,2.5,39,Rainy,UPI,,45.0,4.0
+QB11289,2026-06-13,18,Ameerpet,Chinese,2,573.0,0.5,15,Clear,UPI,,,5.0
+QB11290,2026-06-13,15,Kukatpally  ,North Indian,3,697.0,5.8,45,Rainy,Card,HYD20,0.0,3.8
+QB11291,2026-06-13,13,Madhapur,Desserts,5,476.0,1.0,25,Clear,Card,,0.0,4.2
+QB11292,2026-06-13,18,Secunderabad,Fast Food,1,377.0,3.4,33,Rainy,Card,,,4.0
+QB11293,2026-06-13,21,Dilsukhnagar,Chinese,2,406.0,7.6,50,Clear,Card,,0.0,3.9
+QB11294,2026-06-13,21,Banjara Hills,Chinese,1,387.0,2.9,27,Clear,COD,WEEKEND30,0.0,4.3
+QB11295,2026-06-13,11,Dilsukhnagar,Biryani,1,546.0,4.7,27,Clear,COD,HYD20,35.0,
+QB11296,2026-06-13,15,Banjara Hills,Chinese,3,799.0,6.2,50,Rainy,COD,FIRST100,45.0,3.2
+QB11297,2026-06-13,21,Secunderabad,Biryani,1,350.0,5.4,41,Rainy,UPI,,15.0,3.8
+QB11298,2026-06-13,21,Gachibowli,South Indian,1,200.0,3.3,31,Clear,Card,WEEKEND30,10.0,3.4
+QB11299,2026-06-13,15,Dilsukhnagar,Biryani,4,912.0,1.8,21,Clear,Card,HYD20,35.0,4.9
+QB11300,2026-06-13,21,Secunderabad,Desserts,2,301.0,7.0,34,Clear,UPI,,20.0,3.9
+QB11301,2026-06-13,20,Dilsukhnagar,North Indian,2,701.0,1.7,23,Clear,UPI,,0.0,3.7
+QB11302,2026-06-13,15,Madhapur,Biryani,5,1063.0,1.7,20,Clear, UPI,WEEKEND30,70.0,4.2
+QB11303,2026-06-13,19,Secunderabad,Fast Food,4,828.0,8.9,51,Rainy,UPI,SAVE50,15.0,2.6
+QB11304,2026-06-13,13,LB Nagar,South Indian,1,258.0,3.4,22,Clear,Card,,0.0,4.5
+QB11305,2026-06-13,11,Kukatpally,South Indian,3,334.0,4.9,29,Clear,Card,,25.0,5.0
+QB11306,2026-06-14,13,Dilsukhnagar,Chinese,3,773.0,2.6,30,Clear,COD,,0.0,
+QB11307,2026-06-14,19,Gachibowli,Biryani,5,714.0,8.2,46,Clear,Card,,20.0,3.6
+QB11308,2026-06-14,21,Gachibowli,Biryani,4,900.0,3.7,35,Clear,UPI,,,2.8
+QB11309,2026-06-14,22,Banjara Hills,Chinese,2,295.0,3.9,21,Clear,COD,,15.0,3.9
+QB11310,2026-06-14,22, Gachibowli,Fast Food,5,701.0,5.2,42,Rainy,UPI,,0.0,3.5
+QB11311,2026-06-14,11,kukatpally,Biryani,2,769.0,4.0,33,Rainy,UPI,,35.0,4.0
+QB11312,2026-06-14,22,Madhapur,South Indian,2,370.0,2.0,18,Clear,UPI,,0.0,4.5
+QB11313,2026-06-14,12,Ameerpet  ,Biryani,2,335.0,3.3,27,Clear,UPI,,0.0,4.0
+QB11314,2026-06-14,12,Ameerpet,Desserts,1,195.0,2.6,23,Clear,UPI,SAVE50,0.0,
+QB11315,2026-06-14,15,Dilsukhnagar,Biryani,2,694.0,1.7,18,Clear,UPI,,30.0,4.7
+QB11316,2026-06-14,14,gachibowli,North Indian,3,842.0,16.9,79,Rainy,COD,,0.0,2.8
+QB11316,2026-06-14,14,gachibowli,North Indian,3,842.0,16.9,79,Rainy,COD,,0.0,2.8
+QB11317,2026-06-14,21,Kukatpally,South Indian,1,261.0,5.5,28,Clear,UPI,FIRST100,15.0,
+QB11318,2026-06-14,16,Madhapur,Biryani,6,1549.0,1.4,24,Clear,UPI,SAVE50,40.0,4.4
+QB11319,2026-06-14,14,Banjara Hills,Fast Food,1,185.0,18.0,74,Clear,UPI,,15.0,2.1
+QB11320,2026-06-14,19,Kukatpally,Biryani,1,417.0,0.5,13,Clear,Card,,30.0,3.9
+QB11321,2026-06-14,23,Madhapur,Biryani,1,362.0,3.5,27,Clear,UPI,SAVE50,30.0,3.8
+QB11322,2026-06-14,14,Dilsukhnagar,South Indian,6,653.0,4.1,41,Clear,UPI,,15.0,4.4
+QB11323,2026-06-15,21,Secunderabad,Biryani,3,809.0,1.6,30,Clear,UPI,,,3.1
+QB11324,2026-06-15,21,Ameerpet,North Indian,1,310.0,4.6,44,Rainy,cod,,10.0,3.9
+QB11325,2026-06-15,18, Secunderabad,Fast Food,2,324.0,1.6,22,Rainy,COD,,0.0,4.3
+QB11326,2026-06-15,21,Madhapur,Biryani,3,876.0,8.4,47,Clear,Card,,0.0,3.0
+QB11327,2026-06-15,19,lb nagar,North Indian,5,867.0,3.0,35,Clear,Card,HYD20,0.0,4.5
+QB11328,2026-06-15,20,Madhapur,Chinese,1,307.0,6.6,50,Rainy,UPI,,,2.8
+QB11329,2026-06-15,15,Kukatpally,Biryani,2,602.0,7.2,46,Rainy,UPI,,0.0,2.9
+QB11330,2026-06-15,18,Dilsukhnagar,South Indian,2,427.0,3.3,20,Clear,UPI,,,4.6
+QB11331,2026-06-15,13,Ameerpet,Chinese,2,441.0,3.7,38,Clear,COD,,15.0,4.0
+QB11332,2026-06-15,15,Kukatpally,BIRYANI,2,402.0,3.2,25,Clear,COD,,25.0,4.5
+QB11333,2026-06-15,23,Banjara Hills,Biryani,5,870.0,3.8,30,Clear,UPI,,0.0,
+QB11334,2026-06-15,20,Madhapur,Chinese,3,637.0,3.6,38,Rainy,UPI,,15.0,3.4
+QB11335,2026-06-15,20,Secunderabad,Fast Food,2,240.0,7.8,53,Rainy,UPI,,10.0,2.9
+QB11336,2026-06-16,15,Madhapur,South Indian,1,179.0,0.6,22,Rainy,Card,,10.0,4.2
+QB11337,2026-06-16,20,MADHAPUR,Biryani,1,341.0,4.0,37,Rainy,UPI,,0.0,3.6
+QB11338,2026-06-16,14,Madhapur,Chinese,3,994.0,1.5,23,Clear,UPI,HYD20,0.0,4.0
+QB11339,2026-06-16,16,Dilsukhnagar,Desserts,2,307.0,7.7,45,Rainy,UPI,FIRST100,0.0,2.6
+QB11340,2026-06-16,23,Madhapur,Desserts,4,326.0,2.9,39,Rainy,Card,,0.0,3.4
+QB11341,2026-06-17,21,Ameerpet,Fast Food,3,374.0,2.9,37,Rainy,UPI,WEEKEND30,20.0,3.8
+QB11342,2026-06-17,18,Dilsukhnagar,Biryani,2,434.0,7.7,54,Rainy,Card,,15.0,3.1
+QB11343,2026-06-17,19,Ameerpet  ,South Indian,4,495.0,1.5,21,Clear,Card,HYD20,0.0,4.5
+QB11344,2026-06-17,14,Gachibowli,Chinese,2,470.0,3.2,32,Clear,UPI,,0.0,4.5
+QB11345,2026-06-17,20,Madhapur,Biryani,2,413.0,1.4,30,Clear,UPI,FIRST100,20.0,4.0
+QB11346,2026-06-17,14,Kukatpally,Biryani,1,458.0,1.3,25,Clear,UPI,SAVE50,30.0,4.3
+QB11347,2026-06-17,21,LB Nagar,Chinese,2,624.0,2.2,40,Rainy,UPI,,0.0,3.3
+QB11348,2026-06-17,23,Gachibowli,Biryani,1,478.0,4.3,24,Clear,UPI,,0.0,4.2
+QB11349,2026-06-17,20,Ameerpet,FAST FOOD,6,786.0,1.1,31,Clear,UPI,HYD20,0.0,3.7
+QB11350,2026-06-17,13,Madhapur,South Indian,2,435.0,8.0,56,Rainy,UPI,HYD20,0.0,1.3
+QB11351,2026-06-17,18,Madhapur,Biryani,2,639.0,2.3,28,Rainy,UPI,SAVE50,35.0,3.9
+QB11352,2026-06-17,14,Kukatpally,South Indian,2,330.0,6.2,60,Rainy,UPI,,25.0,
+QB11353,2026-06-18,16,Dilsukhnagar,North Indian,1,458.0,2.0,27,Rainy,Card,,15.0,3.6
+QB11354,2026-06-18,13,Gachibowli,Biryani,2,416.0,1.0,28,Clear,Card,,10.0,3.7
+QB11355,2026-06-18,20, banjara hills ,Biryani,6,1841.0,1.7,34,Clear,UPI,,0.0,3.5
+QB11356,2026-06-18,15,Banjara Hills,South Indian,2,322.0,1.6,21,Clear,UPI,,25.0,5.0
+QB11357,2026-06-18,13,Madhapur, biryani ,2,579.0,4.9,32,Clear,UPI,,30.0,3.7
+QB11358,2026-06-18,22,Secunderabad,Biryani,1,502.0,6.2,30,Clear,Card,,0.0,3.8
+QB11359,2026-06-18,11,Madhapur,Desserts,1,139.0,2.8,21,Clear,UPI,,5.0,4.0
+QB11360,2026-06-18,23,Kukatpally,North Indian,1,309.0,1.0,11,Clear,UPI,,0.0,4.5
+QB11361,2026-06-18,12,Secunderabad,Fast Food,2,405.0,2.2,27,Rainy,UPI,,,4.0
+QB11362,2026-06-19,18,Kukatpally,North Indian,2,606.0,2.5,28,Rainy,UPI,,0.0,4.7
+QB11363,2026-06-19,19,Secunderabad,Biryani,3,545.0,3.7,31,Rainy,UPI,HYD20,25.0,4.0
+QB11364,2026-06-19,21,Ameerpet,Chinese,4,719.0,2.1,39,Rainy,UPI,,0.0,2.8
+QB11365,2026-06-19,22,Banjara Hills,South Indian,2,247.0,4.0,23,Clear,UPI,,10.0,4.4
+QB11366,2026-06-19,16,Madhapur,Biryani,2,532.0,1.9,32,Rainy,UPI,SAVE50,0.0,3.9
+QB11367,2026-06-19,20, lb nagar ,South Indian,1,171.0,3.8,35,Clear,COD,FIRST100,0.0,3.7
+QB11368,2026-06-19,11,Banjara Hills,South Indian,5,692.0,6.1,38,Rainy,Card,,25.0,4.5
+QB11369,2026-06-19,11,Dilsukhnagar,Desserts,2,265.0,1.0,26,Clear,UPI,,10.0,3.5
+QB11370,2026-06-19,15,secunderabad,Fast Food,1,202.0,7.2,38,Clear,Card,,5.0,3.4
+QB11371,2026-06-19,16,dilsukhnagar,Biryani,1,466.0,5.7,37,Clear,UPI,SAVE50,30.0,3.5
+QB11372,2026-06-19,16,Madhapur,Biryani,3,755.0,4.7,42,Rainy,COD,SAVE50,0.0,2.9
+QB11373,2026-06-20,17,Gachibowli,Chinese,2,470.0,5.2,29,Clear,UPI,,25.0,3.6
+QB11374,2026-06-20,20, kukatpally ,Biryani,2,412.0,1.6,23,Clear,Card,,0.0,3.8
+QB11375,2026-06-20,13,Gachibowli,Fast Food,3,354.0,6.6,47,Rainy,Card,FIRST100,25.0,3.4
+QB11376,2026-06-20,16,Gachibowli,Desserts,1,168.0,4.5,24,Clear,Card,FIRST100,10.0,3.7
+QB11377,2026-06-20,15,Madhapur,South Indian,4,385.0,12.9,63,Clear,UPI,,20.0,2.7
+QB11378,2026-06-20,23,Ameerpet,Biryani,1,374.0,4.7,26,Clear,COD,,0.0,3.8
+QB11379,2026-06-20,13,Kukatpally,North Indian,2,606.0,2.3,30,Clear,UPI  ,HYD20,20.0,3.7
+QB11380,2026-06-20,11,Dilsukhnagar,Fast Food,4,680.0,2.4,20,Clear,UPI,,15.0,3.3
+QB11381,2026-06-20,13,Madhapur,Chinese,1,327.0,7.7,41,Clear,UPI,,,3.4
+QB11382,2026-06-20,21,Madhapur,Fast Food,4,520.0,5.3,52,Rainy,COD,HYD20,0.0,
+QB11383,2026-06-20,13,Madhapur,North Indian,4,531.0,2.3,37,Clear,,,,3.0
+QB11384,2026-06-20,20,Banjara Hills,Biryani,2,573.0,4.3,49,Rainy,UPI,,25.0,3.6
+QB11385,2026-06-20,20,Dilsukhnagar,Chinese,2,421.0,4.3,32,Clear,UPI,,0.0,3.3
+QB11386,2026-06-20,14,Banjara Hills,South Indian,1,198.0,2.2,28,Clear,COD,,,3.7
+QB11387,2026-06-20,21,Madhapur,Desserts,2,291.0,3.3,24,Clear,COD,,5.0,3.4
+QB11388,2026-06-20,23,Gachibowli,North Indian,2,382.0,2.5,26,Clear,UPI,HYD20,10.0,3.5
+QB11389,2026-06-21,14,Secunderabad,Biryani,2,692.0,1.8,34,Rainy,COD,FIRST100,50.0,3.6
+QB11390,2026-06-21,15,Gachibowli,South Indian,1,170.0,2.5,31,Rainy,Card,,10.0,2.5
+QB11391,2026-06-21,19,Gachibowli,South Indian,4,336.0,2.2,15,Clear,UPI,WEEKEND30,5.0,3.6
+QB11392,2026-06-21,15,Kukatpally,Desserts,3,257.0,2.5,23,Clear,UPI,,10.0,4.2
+QB11393,2026-06-21,22,Kukatpally,NORTH INDIAN,1,287.0,0.5,22,Rainy,UPI,,0.0,4.0
+QB11394,2026-06-21,23,Madhapur,Fast Food,3,452.0,8.3,49,Rainy,UPI,,0.0,3.5
+QB11395,2026-06-21,18,LB Nagar,Biryani,1,652.0,0.5,18,Clear,UPI,,30.0,3.9
+QB11396,2026-06-21,20,Ameerpet,Chinese,1,510.0,4.6,39,Clear,COD,,35.0,3.8
+QB11397,2026-06-21,11,Banjara Hills,North Indian,3,629.0,2.6,21,Clear,UPI,,0.0,5.0
+QB11398,2026-06-21,20,Ameerpet,Biryani,3,715.0,1.9,27,Clear,UPI,,0.0,4.2
+QB11399,2026-06-21,13,Madhapur,Desserts,2,344.0,1.7,35,Rainy,COD,,0.0,4.2
+QB11400,2026-06-21,17,LB Nagar,Biryani,3,958.0,1.8,21,Clear,Card,,35.0,4.3
+QB11401,2026-06-21,23,Secunderabad,Fast Food,4,462.0,1.7,23,Clear,COD,,35.0,3.9
+QB11402,2026-06-21,13,Banjara Hills,North Indian,3,776.0,3.1,35,Rainy,UPI,FIRST100,15.0,3.3
+QB11403,2026-06-21,21,Dilsukhnagar,Desserts,6,580.0,4.2,46,Rainy,UPI,,30.0,3.8
+QB11404,2026-06-22,12,Madhapur,Fast Food,1,341.0,3.0,26,Clear,UPI,,20.0,4.7
+QB11405,2026-06-22,21,LB Nagar,North Indian,3,1292.0,1.5,30,Rainy,Card,,95.0,4.2
+QB11406,2026-06-22,12,Madhapur,Chinese,2,459.0,2.4,35,Rainy,COD,,0.0,4.0
+QB11406,2026-06-22,12,Madhapur,Chinese,2,459.0,2.4,35,Rainy,COD,,0.0,4.0
+QB11407,2026-06-22,10,Madhapur,Biryani,2,703.0,11.2,48,Clear,UPI,WEEKEND30,40.0,3.5
+QB11408,2026-06-22,12,Kukatpally,Biryani,3,768.0,1.7,28,Rainy,UPI,,30.0,4.2
+QB11409,2026-06-22,20,Kukatpally,South Indian,6,691.0,11.1,57,Clear,COD,SAVE50,40.0,2.8
+QB11410,2026-06-22,15,Ameerpet,South Indian,2,251.0,7.6,39,Clear,UPI,,0.0,4.2
+QB11411,2026-06-22,13,Dilsukhnagar,South Indian,1,203.0,5.6,45,Rainy,UPI,,10.0,3.7
+QB11412,2026-06-22,21,Banjara Hills,South Indian,4,548.0,9.5,48,Clear,UPI,,0.0,
+QB11413,2026-06-22,20,LB Nagar,South Indian,1,178.0,1.8,32,Rainy,UPI,,5.0,3.8
+QB11414,2026-06-22,12,Secunderabad,Biryani,2,645.0,3.7,29,Clear,COD,,0.0,4.0
+QB11415,2026-06-22,19,Banjara Hills,North Indian,2,570.0,3.9,30,Clear,UPI,FIRST100,25.0,3.7
+QB11416,2026-06-23,18,LB Nagar,Biryani,1,399.0,3.2,26,Rainy,UPI,HYD20,0.0,4.0
+QB11417,2026-06-23,22, Dilsukhnagar,South Indian,1,365.0,1.6,26,Rainy,UPI,,20.0,3.7
+QB11418,2026-06-23,22,Gachibowli,Fast Food,1,331.0,5.9,43,Rainy,COD,,0.0,
+QB11419,2026-06-23,18,Madhapur,Biryani,1,511.0,5.4,38,Rainy,COD,,15.0,3.7
+QB11420,2026-06-23,19,madhapur,Fast Food,1,340.0,2.3,17,Clear,UPI,,0.0,3.7
+QB11421,2026-06-23,17,Dilsukhnagar,Desserts,3,334.0,1.1,37,Rainy,UPI,SAVE50,0.0,4.0
+QB11422,2026-06-23,13,LB Nagar,Chinese,2,434.0,1.1,17,Clear,UPI,,0.0,4.1
+QB11423,2026-06-23,20,Dilsukhnagar,Chinese,1,393.0,2.0,21,Clear,Card,,0.0,3.6
+QB11424,2026-06-23,20,Ameerpet,South Indian,4,525.0,2.5,49,Rainy,UPI,,0.0,2.3
+QB11425,2026-06-23,12,Banjara Hills,,6,1524.0,5.3,34,Clear,UPI,WEEKEND30,0.0,4.1
+QB11426,2026-06-23,21,Dilsukhnagar,Chinese,5,928.0,2.6,31,Clear,UPI,HYD20,0.0,2.6
+QB11427,2026-06-24,22,Kukatpally,Biryani,2,558.0,1.6,21,Clear,Card,HYD20,30.0,4.2
+QB11428,2026-06-24,17,Banjara Hills,,2,225.0,,17,Clear,UPI,,10.0,3.3
+QB11429,2026-06-24,15,Secunderabad,Biryani,3,567.0,2.3,22,Clear,UPI,,20.0,4.2
+QB11430,2026-06-24,13,LB Nagar,North Indian,3,513.0,1.5,24,Clear,Card,,,5.0
+QB11431,2026-06-24,21,Secunderabad,Biryani,3,1027.0,1.2,28,Clear,UPI,,60.0,4.3
+QB11432,2026-06-24,13,Gachibowli,Fast Food,2,368.0,2.4,37,Rainy,UPI,SAVE50,0.0,
+QB11433,2026-06-24,22,LB Nagar,Biryani,5,1168.0,2.4,37,Rainy,Card,,0.0,3.6
+QB11434,2026-06-24,15,Ameerpet,South Indian,3,333.0,0.9,22,Clear,UPI,,15.0,4.2
+QB11435,2026-06-24,13,Madhapur,Biryani,3,652.0,7.0,47,Clear,UPI,,45.0,2.8
+QB11436,2026-06-24,23,Dilsukhnagar,South Indian,2,347.0,4.6,26,Clear,Card,,0.0,3.4
+QB11437,2026-06-25,22,Kukatpally,Fast Food,1,271.0,7.7,44,Rainy,COD,SAVE50,0.0,3.8
+QB11438,2026-06-25,15,Ameerpet,Biryani,3,1084.0,2.3,23,Clear,UPI,,0.0,3.8
+QB11439,2026-06-25,13,Secunderabad,Biryani,1,240.0,7.4,50,Rainy,UPI,,5.0,3.1
+QB11440,2026-06-25,20,Ameerpet,Chinese,2,491.0,3.1,35,Clear,UPI,WEEKEND30,0.0,3.3
+QB11441,2026-06-25,20,Kukatpally,North Indian,1,411.0,5.0,35,Clear,UPI,HYD20,0.0,4.0
+QB11442,2026-06-25,21,Gachibowli,North Indian,1,333.0,0.9,25,Clear,COD,FIRST100,0.0,4.4
+QB11443,2026-06-25,20,Dilsukhnagar,North Indian,4,973.0,2.2,38,Rainy,Card,,65.0,3.3
+QB11444,2026-06-25,17,Ameerpet, North Indian,4,759.0,4.2,30,Clear,UPI,,0.0,3.0
+QB11445,2026-06-25,17,Madhapur,fast food,1,261.0,3.9,35,Rainy,COD,,15.0,3.6
+QB11446,2026-06-25,14,Gachibowli,Chinese,1,525.0,4.9,37,Rainy,Card,,0.0,3.6
+QB11447,2026-06-25,13,Secunderabad,Chinese,2,361.0,10.0,56,Clear,UPI,,25.0,2.4
+QB11448,2026-06-25,15,Banjara Hills,North Indian,1,425.0,5.2,27,Clear,UPI,,15.0,3.7
+QB11449,2026-06-25,20,Dilsukhnagar,Chinese,2,415.0,4.2,39,Rainy,UPI,,0.0,3.7
+QB11450,2026-06-25,23,Secunderabad,South Indian,1,161.0,5.9,27,Clear,Card,WEEKEND30,10.0,3.3
+QB11451,2026-06-26,22,Kukatpally,South Indian,2,340.0,6.0,31,Clear,COD,HYD20,10.0,3.6
+QB11452,2026-06-26,13,Gachibowli,Biryani,1,233.0,2.1,22,Clear,UPI,FIRST100,0.0,4.9
+QB11453,2026-06-26,21,Kukatpally,Desserts,4,431.0,5.8,37,Clear,UPI,SAVE50,20.0,3.9
+QB11454,2026-06-26,13,Kukatpally,Chinese,1,231.0,1.4,27,Clear, upi ,WEEKEND30,0.0,4.1
+QB11455,2026-06-26,22,Dilsukhnagar,Biryani,2,565.0,0.5,14,Clear,UPI,,10.0,3.7
+QB11456,2026-06-26,14,Ameerpet,Fast Food,2,297.0,5.3,46,Rainy,COD,WEEKEND30,,3.7
+QB11457,2026-06-26,19,Dilsukhnagar,North Indian,3,837.0,4.4,37,Rainy,COD,,50.0,3.7
+QB11458,2026-06-26,13,Secunderabad,Desserts,2,256.0,1.9,41,Rainy,Card,,15.0,2.9
+QB11459,2026-06-27,19,Kukatpally,Biryani,2,635.0,5.6,41,Rainy,UPI,SAVE50,0.0,3.2
+QB11460,2026-06-27,23,Madhapur,South Indian,2,212.0,2.2,25,Clear,Card,HYD20,15.0,4.1
+QB11461,2026-06-27,22,Banjara Hills,Biryani,1,554.0,7.5,30,Clear,Card,,25.0,3.7
+QB11462,2026-06-27,16,Banjara Hills,South Indian,3,326.0,3.8,34,Rainy,UPI,,0.0,3.5
+QB11463,2026-06-27,12,Gachibowli,Biryani,3,1029.0,2.3,22,Clear,UPI,,65.0,4.5
+QB11464,2026-06-27,20,Kukatpally,Biryani,1,322.0,3.5,31,Clear,UPI,SAVE50,0.0,3.4
+QB11465,2026-06-27,21,Ameerpet,Chinese,6,1326.0,10.0,62,Rainy,UPI,SAVE50,30.0,1.9
+QB11466,2026-06-27,22,Madhapur,Biryani,6,1540.0,1.3,17,Clear, upi ,WEEKEND30,0.0,4.5
+QB11467,2026-06-27,21,Gachibowli,South Indian,1,287.0,4.6,45,Rainy,UPI,,,3.2
+QB11468,2026-06-27,22,Banjara Hills,South Indian,2,236.0,1.1,17,Clear,UPI,,10.0,4.4
+QB11469,2026-06-27,21,Kukatpally,Desserts,6,483.0,4.3,45,Clear,UPI,,35.0,4.1
+QB11470,2026-06-28,16,Secunderabad,Chinese,2,474.0,6.7,42,Clear,UPI,,0.0,2.7
+QB11471,2026-06-28,23,Gachibowli,Biryani,4,1078.0,3.7,30,Clear,upi,,0.0,4.6
+QB11472,2026-06-28,14,lb nagar,Biryani,1,670.0,4.9,35,Clear,UPI,,20.0,3.7
+QB11473,2026-06-28,18,Banjara Hills,Fast Food,2,344.0,1.1,21,Clear,UPI,FIRST100,0.0,4.5
+QB11474,2026-06-28,20,Ameerpet,North Indian,3,672.0,1.5,33,Rainy,UPI,,20.0,3.9
+QB11475,2026-06-28,20,LB Nagar,Chinese,2,430.0,4.7,33,Clear,UPI  ,,,4.4
+QB11476,2026-06-28,20,LB Nagar,North Indian,2,706.0,6.6,39,Clear,COD,,0.0,3.3
+QB11477,2026-06-28,19,Dilsukhnagar,Chinese,1,286.0,,34,Clear,Card,FIRST100,10.0,
+QB11478,2026-06-28,13, secunderabad ,Desserts,1,148.0,1.3,24,Clear,COD,,0.0,4.7
+QB11479,2026-06-28,21,Banjara Hills,Desserts,3,382.0,6.0,42,Clear,Card,,0.0,3.4
+QB11480,2026-06-28,20,Secunderabad,Fast Food,2,335.0,1.5,27,Clear,UPI,SAVE50,0.0,4.9
+QB11481,2026-06-28,13,Secunderabad,Chinese  ,1,534.0,7.3,35,Clear,UPI,,0.0,3.8
+QB11482,2026-06-29,20,Ameerpet,Biryani,5,1102.0,3.5,43,Rainy,UPI,,75.0,3.2
+QB11483,2026-06-29,13,Dilsukhnagar,Chinese,1,200.0,2.3,31,Clear,COD,,5.0,3.5
+QB11484,2026-06-29,19,Kukatpally,North Indian,3,608.0,3.1,29,Rainy,COD,,45.0,3.9
+QB11485,2026-06-29,18,Kukatpally,South Indian,2,198.0,8.2,35,Clear,COD,SAVE50,5.0,4.4
+QB11486,2026-06-29,13,Kukatpally,North Indian,5,935.0,3.3,33,Clear,Card,,0.0,3.5
+QB11487,2026-06-29,17,Gachibowli,Biryani  ,4,834.0,5.4,29,Clear,COD,,0.0,3.7
+QB11488,2026-06-29,14,Madhapur,South Indian,1,203.0,2.9,32,Rainy,Card,,0.0,3.5
+QB11489,2026-06-29,21,Ameerpet,Biryani,6,839.0,3.8,33,Clear,UPI,,20.0,4.0
+QB11490,2026-06-29,11,Ameerpet,Chinese,2,526.0,2.7,32,Rainy,Card,,10.0,
+QB11491,2026-06-29,15,Secunderabad, Biryani,1,313.0,1.0,25,Rainy,UPI,,20.0,3.5
+QB11492,2026-06-30,11,Secunderabad,Biryani,1,683.0,3.1,34,Rainy,UPI,,30.0,4.0
+QB11493,2026-06-30,20,Kukatpally,Fast Food,2,510.0,1.3,28,Rainy,COD,,,4.4
+QB11494,2026-06-30,22,Ameerpet,Fast Food,3,322.0,3.6,26,Clear,COD,,0.0,3.9
+QB11495,2026-06-30,19,Gachibowli,Fast Food,2,382.0,1.2,20,Rainy,UPI,,15.0,4.3
+QB11496,2026-06-30,22,Gachibowli,Chinese,2,444.0,14.0,58,Clear,UPI,,0.0,3.0
+QB11497,2026-06-30,20,Ameerpet,South Indian,1,263.0,2.0,22,Clear,Card,,0.0,4.2
+QB11498,2026-06-30,21,Banjara Hills,Biryani,5,1082.0,4.6,38,Clear,Card,,0.0,3.5
+QB11499,2026-06-30,19,Ameerpet,Biryani,2,623.0,2.1,35,Rainy,Card,,20.0,3.4
+QB11500,2026-06-30,22,Madhapur,Desserts,2,191.0,1.9,35,Rainy,Card,,0.0,3.7
