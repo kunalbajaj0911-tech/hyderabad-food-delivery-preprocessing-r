@@ -58,7 +58,6 @@ Check that imputation did not distort the data:
 | `tip_amount` | 13.604 | 13.423 | 17.237 | 16.818 |
 | `rating` | 3.787 | 3.789 | 0.631 | 0.615 |
 
-<img width="4032" height="359" alt="image" src="https://github.com/user-attachments/assets/76c8c689-9ab0-48ec-acb0-96dae725827a" />
 
 ### 3. Outliers
 
