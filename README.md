@@ -58,10 +58,7 @@ Check that imputation did not distort the data:
 | `tip_amount` | 13.604 | 13.423 | 17.237 | 16.818 |
 | `rating` | 3.787 | 3.789 | 0.631 | 0.615 |
 
-![Missing percentage by attribute](outputs/missing_percentage_by_attribute.png)
-
-![Rating distribution before imputation](outputs/rating_hist_before_imputation.png)
-![Rating distribution after imputation](outputs/rating_hist_after_imputation.png)
+<img width="2952" height="2268" alt="image" src="https://github.com/user-attachments/assets/21325b8a-b96b-4061-80d1-c5ae2605ac9a" />
 
 ### 3. Outliers
 
